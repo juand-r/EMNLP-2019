@@ -20,6 +20,10 @@ Papers from EMNLP 2019 that look interesting:
   - [Information Retrieval](#information-retrieval)
   - [Entity Linking](#entity-linking)
   - [Entities and NER](#entities-and-ner)
+  - [Multimodal](#multimodal)
+  - [Machine Translation](#machine-translation)
+  - [Other](#other)
+  
   
 # Tutorials
 
@@ -174,5 +178,21 @@ Fine-Grained Evaluation for Entity Linking
 EntEval: A Holistic Evaluation Benchmark for **Entity Representations**
 
 A Boundary-aware Neural Model for **Nested Named Entity Recognition**
+
+
+## Multimodal
+
+
+## Machine Translation
+
+
+## Other
+[Latent Suicide Risk Detection on Microblogvia Suicide-Oriented Word Embeddings and Layered Attention](https://www.aclweb.org/anthology/D19-1181.pdf)
+
+[Movie Plot Analysis via Turning Point Identification](https://www.aclweb.org/anthology/D19-1180.pdf)
+
+[Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
+
+[The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
 
 # Papers: Wednesday, Nov 6
