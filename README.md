@@ -145,11 +145,11 @@ To Annotate or Not? **Predicting Performance Drop under Domain Shift**
 
 ## Word Embeddings
 
-Correlations between Word Vector Sets
+[Correlations between Word Vector Sets](https://www.aclweb.org/anthology/D19-1008.pdf)
 
-Game Theory Meets Embeddings (paper on WSD)
+[Game Theory Meets Embeddings (paper on WSD)](https://www.aclweb.org/anthology/D19-1009.pdf)
 
-Parameter-free Sentence Embedding via Orthogonal Basis
+[Parameter-free Sentence Embedding via Orthogonal Basis](https://www.aclweb.org/anthology/D19-1059.pdf)
 
 ## Knowledge enhanced ML
 
