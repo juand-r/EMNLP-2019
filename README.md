@@ -104,6 +104,8 @@ Sentence-Level Content Planning and Style Specification for Neural Text Generati
 
 ## Explainability
 
+[Knowledge Aware Conversation Generation with Explainable Reasoningover Augmented Graphs](https://www.aclweb.org/anthology/D19-1187.pdf)
+
 :boom: Attention is not not **Explanation**
 > Put the description here.
 
@@ -122,6 +124,8 @@ A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Na
 Learning to Bootstrap for Entity Set Expansion
 
 Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**
+
+[Look-up and Adapt: A One-shot Semantic Parser](https://www.aclweb.org/anthology/D19-1104.pdf)
 
 Latent-Variable Generative Models for Data-Efficient **Text Classification**
 
@@ -187,6 +191,9 @@ A Boundary-aware Neural Model for **Nested Named Entity Recognition**
 
 
 ## Other
+
+[Partners in Crime: Multi-view Sequential Inference for MovieUnderstanding](https://www.aclweb.org/anthology/D19-1212.pdf)
+
 [Latent Suicide Risk Detection on Microblogvia Suicide-Oriented Word Embeddings and Layered Attention](https://www.aclweb.org/anthology/D19-1181.pdf)
 
 [Movie Plot Analysis via Turning Point Identification](https://www.aclweb.org/anthology/D19-1180.pdf)
