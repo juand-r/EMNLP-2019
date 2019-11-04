@@ -47,8 +47,12 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 - VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and ItsApplication to Semantic Role Labeling
 - SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
 - Joey NMT: A Minimalist **NMT** Toolkit for Novices
+- OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**
+
+## Annotation tools
+
 - Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**
-- OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**. Xu Han, Tianyu Gao, Yuan Yao, Deming Ye, Zhiyuan Liu, and Maosong Sun  
+- HARE: a Flexible Highlighting Annotator for Ranking and Exploration
 
 # Papers: Tuesday Nov 5
 
