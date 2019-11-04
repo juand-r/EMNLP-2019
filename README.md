@@ -158,7 +158,7 @@ Improving Relation Extraction with **Knowledge-attention**
 
 [Commonsense Knowledge Mining from Pretrained Models](https://www.aclweb.org/anthology/D19-1109.pdf)
 
-KnowledgeNet: A Benchmark Dataset for Knowledge Base Population
+[KnowledgeNet: A Benchmark Dataset for Knowledge Base Population](https://www.aclweb.org/anthology/D19-1069/)
 
 CaRe: Open Knowledge Graph Embeddings
 
