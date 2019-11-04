@@ -36,6 +36,8 @@ Attending to Future Tokens for Bidirectional Sequence Generation
 
 **Knowledge Enhanced** Contextual Word Representations
 
+Improving Relation Extraction with **Knowledge-attention**
+
 How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings
 
 Attention is not not **Explanation**
@@ -50,3 +52,4 @@ Game Theory Meets Embeddings (paper on WSD)
 
 **Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations
 
+Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
