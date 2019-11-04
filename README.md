@@ -3,6 +3,13 @@
 - Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
 - Papers: https://www.aclweb.org/anthology/events/emnlp-2019
 
+Papers from NLP 2019 that look interesting:
+
+- [Tutorials](#tutorials)
+- [Workshops](#workshops)
+- [Tools and Demos](#tools and demos)
+
+
 # Tutorials
 
 https://www.emnlp-ijcnlp2019.org/program/tutorials/
