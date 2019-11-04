@@ -48,6 +48,9 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 # Tools, demos, datasets
 
+[Multilingual, Multi-scale and Multi-layer Visualization of Sequence-based Intermediate Representations](https://www.aclweb.org/anthology/D19-3026.pdf)
+> Code: https://github.com/elorala/interlingua-visualization ; Demo: https://upc-nmt-vis.herokuapp.com/
+
 - VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and ItsApplication to Semantic Role Labeling
 - SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
 - Joey NMT: A Minimalist **NMT** Toolkit for Novices
