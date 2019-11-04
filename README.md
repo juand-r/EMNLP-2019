@@ -38,6 +38,11 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 - Seeded self-play for language learning (LANTERN)
 - Learning to request guidance in emergent language (LANTERN)
 
+## Discourse
+
+Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Representations
+
+
 ## Text generation and GPT-2
 
 :boom: See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)
