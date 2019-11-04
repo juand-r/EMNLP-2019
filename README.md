@@ -23,7 +23,7 @@ Processing
 # Tools and demos
 
 - SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
-- **JoeyNMT**
+- Joey NMT: A Minimalist **NMT** Toolkit for Novices
 - Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**
 - OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**. Xu Han, Tianyu Gao, Yuan Yao, Deming Ye, Zhiyuan Liu, and Maosong Sun  
 
@@ -37,17 +37,14 @@ Processing
 ## Text generation and GPT-2
 
 - :boom: Attending to Future Tokens for Bidirectional Sequence Generation
-> Can generate text from BERT.
+> Can generate text from BERT!
 - How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**
 
 ### Explainability
 
 - :boom: Attention is not not **Explanation**
-> Put the des
-sdf
-
+> Put the description here.
 - Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification
-
 - TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
 
 ## Learning with Less Data
