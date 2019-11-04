@@ -1,5 +1,8 @@
 # EMNLP_2019
 
+- Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
+- Papers: https://www.aclweb.org/anthology/events/emnlp-2019
+
 # Tutorials
 
 - Graph-based Deep Learning in Natural Language
@@ -8,7 +11,7 @@ Processing
 
 # Workshops
 
-- CoNLL 2019
+- [CoNLL 2019](http://www.conll.org/)
 - W-NUT 2019
 - LOUHI 2019
 - FEVER
