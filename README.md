@@ -11,9 +11,6 @@ Processing
 - CoNLL 2019
 - W-NUT 2019
 - LOUHI 2019
-
-# More workshops
-
 - FEVER
 - DiscoMT19
 - DeepLo 2019
@@ -23,7 +20,7 @@ Processing
 - TextGraphs-19
 - NLP4IF: Censorship, Disinformation and Propaganda
 
-# Papers about tools
+# Tools and demos
 
 - SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
 - **JoeyNMT**
@@ -32,16 +29,16 @@ Processing
 
 # Papers: Tuesday Nov 5
 
-## Language learning
+## Language learning agents
  
 - Seeded self-play for language learning (LANTERN)
 - Learning to request guidance in emergent language (LANTERN)
 
 ## Text generation and GPT-2
 
-:boom: Attending to Future Tokens for Bidirectional Sequence Generation
-
-How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings
+- :boom: Attending to Future Tokens for Bidirectional Sequence Generation
+> Can generate text from BERT.
+- How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**
 
 ### Explainability
 
