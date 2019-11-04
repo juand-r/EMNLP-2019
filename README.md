@@ -7,7 +7,7 @@ Papers from NLP 2019 that look interesting:
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
-- [Tools and Demos](#tools and demos)
+- [Tools and Demos](#toolsanddemos)
 
 
 # Tutorials
