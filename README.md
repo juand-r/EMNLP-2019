@@ -40,6 +40,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Text generation and GPT-2
 
+:boom: See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)
+
 :boom: Attending to Future Tokens for Bidirectional Sequence Generation
 > Can generate text from BERT!
 
