@@ -33,34 +33,34 @@ Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**
 
 OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**. Xu Han, Tianyu Gao, Yuan Yao, Deming Ye, Zhiyuan Liu, and Maosong Sun  
 
-# Papers
+# Papers: Tuesday Nov 5
 
 ## Language learning
  
 - Seeded self-play for language learning (LANTERN)
 - Learning to request guidance in emergent language (LANTERN)
 
-## More papers: Tuesday Nov 5
+## Text generation and GPT-2
 
-Learning to Bootstrap for Entity Set Expansion
-
-Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
-
-CaRe: Open Knowledge Graph Embeddings
-
-Attending to Future Tokens for Bidirectional Sequence Generation
-
-**Knowledge Enhanced** Contextual Word Representations
-
-Improving Relation Extraction with **Knowledge-attention**
+:boom: Attending to Future Tokens for Bidirectional Sequence Generation
 
 How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings
 
-Attention is not not **Explanation**
+### Explainability
+
+:boom: Attention is not not **Explanation**
 
 Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification
 
 TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
+
+## Learning with Less Data
+
+Learning to Bootstrap for Entity Set Expansion
+
+Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**
+
+Latent-Variable Generative Models for Data-Efficient **Text Classification**
 
 Practical Obstacles to Deploying **Active Learning**
 
@@ -68,26 +68,38 @@ Practical Obstacles to Deploying **Active Learning**
 
 To Annotate or Not? **Predicting Performance Drop under Domain Shift**
 
+## Embeddings
+
 Correlations between Word Vector Sets
 
 Game Theory Meets Embeddings (paper on WSD)
 
+## Knowledge-enhanced ML
+
 **Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations
+
+**Knowledge Enhanced** Contextual Word Representations
+
+Improving Relation Extraction with **Knowledge-attention**
+
+## Relation extraction and Knowledge graphs
+
+CaRe: Open Knowledge Graph Embeddings
 
 Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
 
-Applying BERT to Document Retrieval with Birch. Zeynep Akkalyoncu Yilmaz, Shengjin Wang, Wei Yang, Haotian Zhang, and Jimmy Lin  
-
 **Automatic Taxonomy Induction and Expansion. Nicolas Rodolfo Fauceglia, Alfio Gliozzo, Sarthak Dash, Md. Faisal Mahbub Chowdhury, and Nandana Mihindukulasooriya**
-
-Applying BERT to Document Retrieval with Birch
-
-Latent-Variable Generative Models for Data-Efficient **Text Classification**
-
-Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**
-
-EntEval: A Holistic Evaluation Benchmark for Entity Representations
 
 Multi-Input Multi-Output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text
 
-## More papers: Wednesday, Nov 6
+Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
+
+## IR 
+
+Applying BERT to Document Retrieval with Birch
+
+## Text classification
+
+EntEval: A Holistic Evaluation Benchmark for Entity Representations
+
+# Papers: Wednesday, Nov 6
