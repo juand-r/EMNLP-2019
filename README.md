@@ -7,7 +7,7 @@ Papers from EMNLP 2019 that look interesting:
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
-- [Tools and Demos](#tools-and-demos)
+- [Tools, demos, datasets](#tools-demos-datasets)
 - [Papers](#papers)
   - [Language learning agents](#language-learning-agents)
   - [Discourse](#discourse)
@@ -42,7 +42,7 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 - [TextGraphs-19](https://sites.google.com/view/textgraphs2019)
 - [NLP4IF: Censorship, Disinformation and Propaganda](http://www.netcopia.net/nlp4if/)
 
-# Tools and demos and datasets
+# Tools, demos, datasets
 
 - VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and ItsApplication to Semantic Role Labeling
 - SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
