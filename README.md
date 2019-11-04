@@ -27,7 +27,7 @@ Papers from EMNLP 2019 that look interesting:
   
 # Tutorials
 
-https://www.emnlp-ijcnlp2019.org/program/tutorials/
+All EMNLP 2019 tutorials: https://www.emnlp-ijcnlp2019.org/program/tutorials/
 
 - Graph-based Deep Learning in Natural Language
 Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "Releases".
