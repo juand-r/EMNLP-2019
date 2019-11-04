@@ -60,6 +60,9 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
  
 - Seeded self-play for language learning (LANTERN)
 - Learning to request guidance in emergent language (LANTERN)
+- [EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
+- [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
+
 
 ## Discourse
 
