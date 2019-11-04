@@ -13,7 +13,13 @@ Papers from EMNLP 2019 that look interesting:
   - [Discourse](#discourse)
   - [Text generation and GPT2](#text-generation-and-gpt2)
   - [Explainability](#explainability)
-  
+  - [Learning with Less Data](#learning-with-less-data)
+  - [Word Embeddings](#word-embeddings)
+  - [Knowledge enhanced ML](#knowledge-enhanced-ml)
+  - [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs)
+  - [Information Retrieval](#information-retrieval)
+  - [Entity Linking](#entity-linking)
+  - [Entities and NER](#entities-and-ner)
   
 # Tutorials
 
@@ -104,13 +110,13 @@ Practical Obstacles to Deploying **Active Learning**
 
 To Annotate or Not? **Predicting Performance Drop under Domain Shift**
 
-## Embeddings
+## Word Embeddings
 
 Correlations between Word Vector Sets
 
 Game Theory Meets Embeddings (paper on WSD)
 
-## Knowledge-enhanced ML
+## Knowledge enhanced ML
 
 **Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations
 
@@ -133,7 +139,7 @@ Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to 
 Multi-Input Multi-Output Sequence Labeling for **Joint Extraction of Fact and Condition Tuples** from Scientific Text
 Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
 
-## IR 
+## Information Retrieval 
 
 Applying BERT to Document Retrieval with Birch
 
@@ -141,7 +147,7 @@ Applying BERT to Document Retrieval with Birch
 
 Fine-Grained Evaluation for Entity Linking
 
-## Entities
+## Entities and NER
 
 EntEval: A Holistic Evaluation Benchmark for **Entity Representations**
 
