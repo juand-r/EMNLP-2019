@@ -39,6 +39,8 @@ Processing
 - :boom: Attending to Future Tokens for Bidirectional Sequence Generation
 > Can generate text from BERT!
 - How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**
+- Big Bidirectional Insertion Representations for Documents
+> Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
 
 ### Explainability
 
