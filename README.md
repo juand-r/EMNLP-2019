@@ -64,6 +64,9 @@ Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Represen
 
 ## Text generation and GPT2
 
+[(Male, Bachelor) and (Female, Ph.D) have different connotations:Parallelly Annotated Stylistic Language Dataset with Multiple Personas](https://www.aclweb.org/anthology/D19-1179.pdf)
+> PASTEL dataset with 41K parallel sentences annotated across different personas (age, gender, political orientation, education level, ethnicity, country, time-of-day). Data and code: https://github.com/dykang/PASTEL
+
 :boom: [Controlling Text Complexity in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1166.pdf)
 
 :boom: See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)
