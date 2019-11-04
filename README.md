@@ -46,10 +46,12 @@ Big Bidirectional Insertion Representations for Documents
 
 ## Explainability
 
-- :boom: Attention is not not **Explanation**
+:boom: Attention is not not **Explanation**
 > Put the description here.
-- Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification
-- TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
+
+Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification
+
+TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
 
 ## Learning with Less Data
 
