@@ -7,7 +7,11 @@ Papers from NLP 2019 that look interesting:
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
-- [Tools and Demos](#toolsanddemos)
+- [Tools and Demos](#tools-and-demos)
+- [Papers](#papers)
+ - [Language learning agents](#language-learning-agents)
+ - [Discourse](#discourse)
+ - [Text generation and GPT2](#text-generation-and-gpt2)
 
 
 # Tutorials
@@ -50,7 +54,7 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Representations
 
 
-## Text generation and GPT-2
+## Text generation and GPT2
 
 :boom: See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)
 
