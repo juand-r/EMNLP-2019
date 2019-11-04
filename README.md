@@ -1,9 +1,9 @@
-# EMNLP_2019
+# EMNLP 2019
 
 - Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
 - Papers: https://www.aclweb.org/anthology/events/emnlp-2019
 
-Papers from NLP 2019 that look interesting:
+Papers from EMNLP 2019 that look interesting:
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
