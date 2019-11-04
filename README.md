@@ -64,6 +64,8 @@ Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Represen
 
 ## Text generation and GPT2
 
+:boom: [Controlling Text Complexity in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1166.pdf)
+
 :boom: See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)
 
 :boom: Attending to Future Tokens for Bidirectional Sequence Generation
