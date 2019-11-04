@@ -95,7 +95,11 @@ Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Im
 
 TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
 
+Analytical Methods for Interpretable Ultradense Word Embeddings
+
 ## Learning with Less Data
+
+Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks
 
 A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers
 
