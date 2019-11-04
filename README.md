@@ -23,6 +23,16 @@ Processing
 - TextGraphs-19
 - NLP4IF: Censorship, Disinformation and Propaganda
 
+# Papers about tools
+
+SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
+
+**JoeyNMT**
+
+Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**
+
+OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**. Xu Han, Tianyu Gao, Yuan Yao, Deming Ye, Zhiyuan Liu, and Maosong Sun  
+
 # Papers
 
 ## Language learning
@@ -58,6 +68,12 @@ Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to 
 
 TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang  
 
-Redcoat: A Collaborative Annotation Tool for Hierarchical Entity Typing
+Applying BERT to Document Retrieval with Birch. Zeynep Akkalyoncu Yilmaz, Shengjin Wang, Wei Yang, Haotian Zhang, and Jimmy Lin  
+
+**Automatic Taxonomy Induction and Expansion. Nicolas Rodolfo Fauceglia, Alfio Gliozzo, Sarthak Dash, Md. Faisal Mahbub Chowdhury, and Nandana Mihindukulasooriya**
+
+Applying BERT to Document Retrieval with Birch
+
+Latent-Variable Generative Models for Data-Efficient **Text Classification**
 
 ## More papers: Wednesday, Nov 6
