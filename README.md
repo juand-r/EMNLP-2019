@@ -118,34 +118,34 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [Knowledge Aware Conversation Generation with Explainable Reasoningover Augmented Graphs](https://www.aclweb.org/anthology/D19-1187.pdf)
 
-:boom: Attention is not not **Explanation**
+:boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
 > Put the description here.
 
-Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification
+[Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
 
-TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
+[TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang](https://www.aclweb.org/anthology/D19-3040.pdf)
 
-Analytical Methods for Interpretable Ultradense Word Embeddings
+[Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
 
 ## Learning with Less Data
 
-Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks
+:boom: [Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks](https://www.aclweb.org/anthology/D19-1112.pdf)
 
-A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers
+[A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers](https://www.aclweb.org/anthology/D19-1520.pdf)
 
-Learning to Bootstrap for Entity Set Expansion
+[Learning to Bootstrap for Entity Set Expansion](https://www.aclweb.org/anthology/D19-1028.pdf)
 
-Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**
+[Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**](https://www.aclweb.org/anthology/D19-1042.pdf)
 
 [Look-up and Adapt: A One-shot Semantic Parser](https://www.aclweb.org/anthology/D19-1104.pdf)
 
-Latent-Variable Generative Models for Data-Efficient **Text Classification**
+[Latent-Variable Generative Models for Data-Efficient **Text Classification**](https://www.aclweb.org/anthology/D19-1048.pdf)
 
-Practical Obstacles to Deploying **Active Learning**
+[Practical Obstacles to Deploying **Active Learning**](https://www.aclweb.org/anthology/D19-1003.pdf)
 
-**Transfer Learning** Between Related Tasks Using Expected Label Proportions
+[**Transfer Learning** Between Related Tasks Using Expected Label Proportions](https://www.aclweb.org/anthology/D19-1004.pdf)
 
-To Annotate or Not? **Predicting Performance Drop under Domain Shift**
+:boom: [To Annotate or Not? **Predicting Performance Drop under Domain Shift**](https://www.aclweb.org/anthology/D19-1222.pdf)
 
 ## Word Embeddings
 
@@ -157,11 +157,11 @@ To Annotate or Not? **Predicting Performance Drop under Domain Shift**
 
 ## Knowledge enhanced ML
 
-**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations
+[**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
 
-**Knowledge Enhanced** Contextual Word Representations
+[**Knowledge Enhanced** Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005.pdf)
 
-Improving Relation Extraction with **Knowledge-attention**
+[Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
 
 ## Relation extraction and Knowledge graphs
 
@@ -169,31 +169,31 @@ Improving Relation Extraction with **Knowledge-attention**
 
 [KnowledgeNet: A Benchmark Dataset for Knowledge Base Population](https://www.aclweb.org/anthology/D19-1069/)
 
-CaRe: Open Knowledge Graph Embeddings
+[CaRe: Open Knowledge Graph Embeddings](https://www.aclweb.org/anthology/D19-1036.pdf)
 
-Supervising Unsupervised Open Information Extraction Models
+[Supervising Unsupervised Open Information Extraction Models](https://www.aclweb.org/anthology/D19-1067.pdf)
 
-Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
+[Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data](https://www.aclweb.org/anthology/D19-1021.pdf)
 
-**Automatic Taxonomy Induction and Expansion**
+:boom: [**Automatic Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
 
-Multi-Input Multi-Output Sequence Labeling for **Joint Extraction of Fact and Condition Tuples** from Scientific Text
+[Multi-Input Multi-Output Sequence Labeling for **Joint Extraction of Fact and Condition Tuples** from Scientific Text](https://www.aclweb.org/anthology/D19-1029.pdf)
 
-Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
+[Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
 
 ## Information Retrieval 
 
-Applying BERT to Document Retrieval with Birch
+[Applying BERT to Document Retrieval with Birch](https://www.aclweb.org/anthology/D19-3004.pdf)
 
 ## Entity Linking
 
-Fine-Grained Evaluation for Entity Linking
+[Fine-Grained Evaluation for Entity Linking](https://www.aclweb.org/anthology/D19-1066.pdf)
 
 ## Entities and NER
 
-EntEval: A Holistic Evaluation Benchmark for **Entity Representations**
+[EntEval: A Holistic Evaluation Benchmark for **Entity Representations**](https://www.aclweb.org/anthology/D19-1040.pdf)
 
-A Boundary-aware Neural Model for **Nested Named Entity Recognition**
+[A Boundary-aware Neural Model for **Nested Named Entity Recognition**](https://www.aclweb.org/anthology/D19-1034.pdf)
 
 
 ## Multimodal
