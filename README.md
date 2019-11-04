@@ -30,7 +30,7 @@ Processing
 - Seeded self-play for language learning (LANTERN)
 - Learning to request guidance in emergent language (LANTERN)
 
-## More papers: Tuesday 
+## More papers: Tuesday Nov 5
 
 Attending to Future Tokens for Bidirectional Sequence Generation
 
@@ -60,3 +60,4 @@ TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learn
 
 Redcoat: A Collaborative Annotation Tool for Hierarchical Entity Typing
 
+## More papers: Wednesday, Nov 6
