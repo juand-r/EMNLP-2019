@@ -46,6 +46,8 @@ Practical Obstacles to Deploying **Active Learning**
 
 **Transfer Learning** Between Related Tasks Using Expected Label Proportions
 
+To Annotate or Not? **Predicting Performance Drop under Domain Shift**
+
 Correlations between Word Vector Sets
 
 Game Theory Meets Embeddings (paper on WSD)
@@ -53,3 +55,8 @@ Game Theory Meets Embeddings (paper on WSD)
 **Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations
 
 Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
+
+TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang  
+
+Redcoat: A Collaborative Annotation Tool for Hierarchical Entity Typing
+
