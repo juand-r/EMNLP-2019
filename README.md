@@ -9,11 +9,12 @@ Papers from NLP 2019 that look interesting:
 - [Workshops](#workshops)
 - [Tools and Demos](#tools-and-demos)
 - [Papers](#papers)
- - [Language learning agents](#language-learning-agents)
- - [Discourse](#discourse)
- - [Text generation and GPT2](#text-generation-and-gpt2)
-
-
+  - [Language learning agents](#language-learning-agents)
+  - [Discourse](#discourse)
+  - [Text generation and GPT2](#text-generation-and-gpt2)
+  - [Explainability](#explainability)
+  
+  
 # Tutorials
 
 https://www.emnlp-ijcnlp2019.org/program/tutorials/
