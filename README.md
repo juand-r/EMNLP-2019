@@ -129,6 +129,8 @@ Improving Relation Extraction with **Knowledge-attention**
 
 ## Relation extraction and Knowledge graphs
 
+[Commonsense Knowledge Mining from Pretrained Models](#https://www.aclweb.org/anthology/D19-1109.pdf)
+
 KnowledgeNet: A Benchmark Dataset for Knowledge Base Population
 
 CaRe: Open Knowledge Graph Embeddings
