@@ -74,15 +74,15 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Language learning agents
  
-- Seeded self-play for language learning (LANTERN)
-- Learning to request guidance in emergent language (LANTERN)
+- [Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
+- [Learning to request guidance in emergent language (LANTERN)](https://www.aclweb.org/anthology/D19-6407.pdf)
 - [EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
 - [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
 
 
 ## Discourse
 
-Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Representations
+[Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
 
 
 ## Text generation and GPT2
@@ -92,14 +92,14 @@ Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Represen
 
 :boom: [Controlling Text Complexity in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1166.pdf)
 
-:boom: See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)
+:boom: [See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)](https://www.aclweb.org/anthology/K19-1079.pdf)
 
-:boom: Attending to Future Tokens for Bidirectional Sequence Generation
+:boom: [Attending to Future Tokens for Bidirectional Sequence Generation](https://www.aclweb.org/anthology/D19-1001.pdf)
 > Can generate text from BERT!
 
-How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**
+[How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**](https://www.aclweb.org/anthology/D19-1006.pdf)
 
-Big Bidirectional Insertion Representations for Documents
+[Big Bidirectional Insertion Representations for Documents](https://www.aclweb.org/anthology/D19-5620.pdf)
 > Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
 
 Neural Text Summarization: A Critical Evaluation
