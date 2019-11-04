@@ -137,6 +137,7 @@ Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to 
 **Automatic Taxonomy Induction and Expansion**
 
 Multi-Input Multi-Output Sequence Labeling for **Joint Extraction of Fact and Condition Tuples** from Scientific Text
+
 Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
 
 ## Information Retrieval 
