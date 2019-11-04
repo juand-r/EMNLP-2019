@@ -44,7 +44,7 @@ How Contextual are Contextualized Word Representations? Comparing **the Geometry
 Big Bidirectional Insertion Representations for Documents
 > Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
 
-### Explainability
+## Explainability
 
 - :boom: Attention is not not **Explanation**
 > Put the description here.
@@ -53,31 +53,42 @@ Big Bidirectional Insertion Representations for Documents
 
 ## Learning with Less Data
 
-- Learning to Bootstrap for Entity Set Expansion
-- Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**
-- Latent-Variable Generative Models for Data-Efficient **Text Classification**
-- Practical Obstacles to Deploying **Active Learning**
-- **Transfer Learning** Between Related Tasks Using Expected Label Proportions
-- To Annotate or Not? **Predicting Performance Drop under Domain Shift**
+Learning to Bootstrap for Entity Set Expansion
+
+Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**
+
+Latent-Variable Generative Models for Data-Efficient **Text Classification**
+
+Practical Obstacles to Deploying **Active Learning**
+
+**Transfer Learning** Between Related Tasks Using Expected Label Proportions
+
+To Annotate or Not? **Predicting Performance Drop under Domain Shift**
 
 ## Embeddings
 
-- Correlations between Word Vector Sets
-- Game Theory Meets Embeddings (paper on WSD)
+Correlations between Word Vector Sets
+
+Game Theory Meets Embeddings (paper on WSD)
 
 ## Knowledge-enhanced ML
 
-- **Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations
-- **Knowledge Enhanced** Contextual Word Representations
-- Improving Relation Extraction with **Knowledge-attention**
+**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations
+
+**Knowledge Enhanced** Contextual Word Representations
+
+Improving Relation Extraction with **Knowledge-attention**
 
 ## Relation extraction and Knowledge graphs
 
-- CaRe: Open Knowledge Graph Embeddings
-- Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
-- **Automatic Taxonomy Induction and Expansion. Nicolas Rodolfo Fauceglia, Alfio Gliozzo, Sarthak Dash, Md. Faisal Mahbub Chowdhury, and Nandana Mihindukulasooriya**
-- Multi-Input Multi-Output Sequence Labeling for **Joint Extraction of Fact and Condition Tuples** from Scientific Text
-- Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
+CaRe: Open Knowledge Graph Embeddings
+
+Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
+
+**Automatic Taxonomy Induction and Expansion**
+
+Multi-Input Multi-Output Sequence Labeling for **Joint Extraction of Fact and Condition Tuples** from Scientific Text
+Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
 
 ## IR 
 
@@ -85,7 +96,8 @@ Applying BERT to Document Retrieval with Birch
 
 ## Entities
 
-- EntEval: A Holistic Evaluation Benchmark for **Entity Representations**
-- A Boundary-aware Neural Model for **Nested Named Entity Recognition**
+EntEval: A Holistic Evaluation Benchmark for **Entity Representations**
+
+A Boundary-aware Neural Model for **Nested Named Entity Recognition**
 
 # Papers: Wednesday, Nov 6
