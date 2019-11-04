@@ -5,6 +5,7 @@
 
 # Tutorials
 
+https://www.emnlp-ijcnlp2019.org/program/tutorials/
 - Graph-based Deep Learning in Natural Language
 Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "Releases".
 - Semantic Specialization of Distributional Word Vectors
