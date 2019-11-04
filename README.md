@@ -1,5 +1,4 @@
 # EMNLP_2019
-EMNLP_2019
 
 # Tutorials
 
