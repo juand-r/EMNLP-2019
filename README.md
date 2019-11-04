@@ -102,17 +102,17 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Big Bidirectional Insertion Representations for Documents](https://www.aclweb.org/anthology/D19-5620.pdf)
 > Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
 
-Neural Text Summarization: A Critical Evaluation
+[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
 
-Neural data-to-text generation: A comparison between pipeline and end-to-end architectures
+[Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://www.aclweb.org/anthology/D19-1052.pdf)
 
-:boom: MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance
+:boom: [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://www.aclweb.org/anthology/D19-1053.pdf)
 
-:boom: Select and Attend: Towards Controllable Content Selection in Text Generation
+:boom: [Select and Attend: Towards Controllable Content Selection in Text Generation](https://www.aclweb.org/anthology/D19-1054.pdf)
 
-Sentence-Level Content Planning and Style Specification for Neural Text Generation
+[Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://www.aclweb.org/anthology/D19-1055.pdf)
 
-:boom: Neural Naturalist: Generating Fine-Grained Image Comparisons
+:boom: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
 
 ## Explainability
 
