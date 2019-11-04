@@ -42,8 +42,9 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 - [TextGraphs-19](https://sites.google.com/view/textgraphs2019)
 - [NLP4IF: Censorship, Disinformation and Propaganda](http://www.netcopia.net/nlp4if/)
 
-# Tools and demos
+# Tools and demos and datasets
 
+- VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and ItsApplication to Semantic Role Labeling
 - SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
 - Joey NMT: A Minimalist **NMT** Toolkit for Novices
 - Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**
@@ -115,6 +116,8 @@ To Annotate or Not? **Predicting Performance Drop under Domain Shift**
 Correlations between Word Vector Sets
 
 Game Theory Meets Embeddings (paper on WSD)
+
+Parameter-free Sentence Embedding via Orthogonal Basis
 
 ## Knowledge enhanced ML
 
