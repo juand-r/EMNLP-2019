@@ -51,8 +51,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Annotation tools
 
-- Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**
-- HARE: a Flexible Highlighting Annotator for Ranking and Exploration
+- [Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
+- [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
 
 # Papers: Tuesday Nov 5
 
