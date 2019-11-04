@@ -25,13 +25,10 @@ Processing
 
 # Papers about tools
 
-SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
-
-**JoeyNMT**
-
-Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**
-
-OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**. Xu Han, Tianyu Gao, Yuan Yao, Deming Ye, Zhiyuan Liu, and Maosong Sun  
+- SEAGLE: A Platform for Comparative Evaluation of **Semantic Encoders for Information Retrieval**
+- **JoeyNMT**
+- Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**
+- OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**. Xu Han, Tianyu Gao, Yuan Yao, Deming Ye, Zhiyuan Liu, and Maosong Sun  
 
 # Papers: Tuesday Nov 5
 
@@ -48,11 +45,13 @@ How Contextual are Contextualized Word Representations? Comparing the Geometry o
 
 ### Explainability
 
-:boom: Attention is not not **Explanation**
+- :boom: Attention is not not **Explanation**
+> Put the des
+sdf
 
-Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification
+- Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification
 
-TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
+- TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
 
 ## Learning with Less Data
 
