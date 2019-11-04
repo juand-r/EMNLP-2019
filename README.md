@@ -18,7 +18,7 @@ Processing
 - [DiscoMT19](https://www.idiap.ch/workshop/DiscoMT)
 - [DeepLo 2019](https://sites.google.com/view/deeplo19/)
 - [COIN (Commonsense inference in NLP)](http://www.coli.uni-saarland.de/~mroth/COIN/)
-- [WNGT: 3rd workshop on neural generation and translation]
+- [WNGT: 3rd workshop on neural generation and translation](https://sites.google.com/view/wngt19/home)
 - [NewSum (summarization)](https://summarization2019.github.io/)
 - [TextGraphs-19](https://sites.google.com/view/textgraphs2019)
 - [NLP4IF: Censorship, Disinformation and Propaganda](http://www.netcopia.net/nlp4if/)
