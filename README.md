@@ -6,7 +6,7 @@
 # Tutorials
 
 - Graph-based Deep Learning in Natural Language
-Processing
+Processing (https://github.com/svjan5/GNNs-for-NLP)
 - Semantic Specialization of Distributional Word Vectors
 
 # Workshops
