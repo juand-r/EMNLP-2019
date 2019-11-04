@@ -50,6 +50,18 @@ How Contextual are Contextualized Word Representations? Comparing **the Geometry
 Big Bidirectional Insertion Representations for Documents
 > Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
 
+Neural Text Summarization: A Critical Evaluation
+
+Neural data-to-text generation: A comparison between pipeline and end-to-end architectures
+
+:boom: MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance
+
+:boom: Select and Attend: Towards Controllable Content Selection in Text Generation
+
+Sentence-Level Content Planning and Style Specification for Neural Text Generation
+
+:boom: Neural Naturalist: Generating Fine-Grained Image Comparisons
+
 ## Explainability
 
 :boom: Attention is not not **Explanation**
@@ -60,6 +72,8 @@ Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Im
 TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang
 
 ## Learning with Less Data
+
+A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers
 
 Learning to Bootstrap for Entity Set Expansion
 
@@ -89,7 +103,11 @@ Improving Relation Extraction with **Knowledge-attention**
 
 ## Relation extraction and Knowledge graphs
 
+KnowledgeNet: A Benchmark Dataset for Knowledge Base Population
+
 CaRe: Open Knowledge Graph Embeddings
+
+Supervising Unsupervised Open Information Extraction Models
 
 Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
 
@@ -101,6 +119,10 @@ Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completi
 ## IR 
 
 Applying BERT to Document Retrieval with Birch
+
+## Entity Linking
+
+Fine-Grained Evaluation for Entity Linking
 
 ## Entities
 
