@@ -28,9 +28,14 @@ Papers from EMNLP 2019 that look interesting:
 # Tutorials
 
 https://www.emnlp-ijcnlp2019.org/program/tutorials/
+
 - Graph-based Deep Learning in Natural Language
 Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "Releases".
 - Semantic Specialization of Distributional Word Vectors
+- Discreteness  in  Neural Natural Language Processing. Slides:
+  - https://lili-mou.github.io/resource/emnlp19-1.pdf
+  - https://lili-mou.github.io/resource/emnlp19-2.pdf  
+  - https://lili-mou.github.io/resource/emnlp19-3.pdf
 
 # Workshops
 
@@ -192,6 +197,19 @@ A Boundary-aware Neural Model for **Nested Named Entity Recognition**
 
 ## Machine Translation
 
+[Unsupervised Domain Adaptation for Neural Machine Translation withDomain-Aware Feature Embeddings](https://www.aclweb.org/anthology/D19-1147.pdf)
+
+[Machine Translation for Machines:the Sentiment Classification Use Case](https://www.aclweb.org/anthology/D19-1140.pdf)
+
+[Iterative Dual Domain Adaptation for NMT](https://www.aclweb.org/anthology/D19-1078.pdf)
+
+[Self-Attention with Structural Position Representations](https://www.aclweb.org/anthology/D19-1145.pdf)
+
+[Encoders Help You Disambiguate Word Sensesin Neural Machine Translation](https://www.aclweb.org/anthology/D19-1149.pdf)
+
+[Simple, Scalable Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1165.pdf)
+
+[Hierarchical Modeling of Global Context for Document-LevelNeural Machine Translation](https://www.aclweb.org/anthology/D19-1168.pdf)
 
 ## Other
 
