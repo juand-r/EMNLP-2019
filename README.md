@@ -12,16 +12,16 @@ Processing
 # Workshops
 
 - [CoNLL 2019](http://www.conll.org/)
-- W-NUT 2019
-- LOUHI 2019
-- FEVER
-- DiscoMT19
-- DeepLo 2019
-- COIN (Commonsense inference in NLP)
-- WNGT: 3rd workshop on neural generation and translation
-- NewSum (summarization)
-- TextGraphs-19
-- NLP4IF: Censorship, Disinformation and Propaganda
+- [W-NUT 2019](http://noisy-text.github.io/)
+- [LOUHI 2019](http://louhi2019.fbk.eu/)
+- [FEVER 2](http://fever.ai/)
+- [DiscoMT19](https://www.idiap.ch/workshop/DiscoMT)
+- [DeepLo 2019](https://sites.google.com/view/deeplo19/)
+- [COIN (Commonsense inference in NLP)](http://www.coli.uni-saarland.de/~mroth/COIN/)
+- [WNGT: 3rd workshop on neural generation and translation]
+- [NewSum (summarization)](https://summarization2019.github.io/)
+- [TextGraphs-19](https://sites.google.com/view/textgraphs2019)
+- [NLP4IF: Censorship, Disinformation and Propaganda](http://www.netcopia.net/nlp4if/)
 
 # Tools and demos
 
