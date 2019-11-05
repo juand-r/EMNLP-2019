@@ -3,7 +3,9 @@
 - Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
 - Papers: https://www.aclweb.org/anthology/events/emnlp-2019
 
-NOTE: continue at 15:30 poster and demo Wednesday - https://www.emnlp-ijcnlp2019.org/program/ischedule/
+NOTE: continue at 15:30 poster and demo Wednesday - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
+
+Though Session 8 on Wednesday is complete.
 
 Papers from EMNLP 2019 that look interesting:
 
