@@ -98,6 +98,7 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Language learning agents
  
+- [Emergent Linguistic Phenomena in Multi-Agent Communication Games](https://www.aclweb.org/anthology/D19-1384.pdf)
 - [Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
 - [Learning to request guidance in emergent language (LANTERN)](https://www.aclweb.org/anthology/D19-6407.pdf)
 - [EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
@@ -147,6 +148,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ### Few-shot and zero-shot text classification
 
+[**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
+
 [Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://www.aclweb.org/anthology/D19-1404.pdf)
 
 [Induction Networks for Few-Shot Text Classification](https://www.aclweb.org/anthology/D19-1403.pdf)
@@ -154,6 +157,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**](https://www.aclweb.org/anthology/D19-1042.pdf)
 
 ## Word Embeddings
+
+[Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space](https://www.aclweb.org/anthology/D19-1354.pdf)
 
 [Correlations between Word Vector Sets](https://www.aclweb.org/anthology/D19-1008.pdf)
 
@@ -329,7 +334,11 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Information Retrieval 
 
+[Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval](https://www.aclweb.org/anthology/D19-1352.pdf)
+
 [Applying BERT to Document Retrieval with Birch](https://www.aclweb.org/anthology/D19-3004.pdf)
+
+[Modelling Stopping Criteria for Search Results using Poisson Processes](https://www.aclweb.org/anthology/D19-1351.pdf)
 
 ## Entity Linking
 
@@ -346,7 +355,11 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [Text Level Graph Neural Network for Text Classification]
 
+[Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings]
+
 ## Other
+
+[TalkDown: A Corpus for Condescension Detection in Context]
 
 [Partners in Crime: Multi-view Sequential Inference for MovieUnderstanding](https://www.aclweb.org/anthology/D19-1212.pdf)
 
@@ -357,4 +370,11 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
 
 [The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
+
+
+# Organize these later:
+
+[Semantic Relatedness Based Re-ranker for Text Spotting]
+
+
 
