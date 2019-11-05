@@ -17,6 +17,7 @@ Papers from EMNLP 2019 that look interesting:
   - [Language learning agents](#language-learning-agents)
   - [Discourse](#discourse)
   - [Summarization and Simplification](#summarization-and-simplification)
+  - [Style transfer](#style-transfer)
   - [Text generation and GPT2](#text-generation-and-gpt2)
   - [Explainability](#explainability)
   - [Learning with Less Data](#learning-with-less-data)
@@ -115,6 +116,11 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
 
 [EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
+
+## Style transfer
+
+[Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
+> What to do if you don't have parallel corpora?
 
 ## Text generation and GPT2
 
