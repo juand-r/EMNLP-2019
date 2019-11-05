@@ -176,6 +176,12 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Summarization and Simplification
 
+[BottleSum: Unsupervised and Self-supervised Sentence Summarizationusing the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
+
+[How to Write Summaries with Patterns?Learning towards Abstractive Summarization through Prototype Editing](https://www.aclweb.org/anthology/D19-1388.pdf)
+
+[Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf)
+
 [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://www.aclweb.org/anthology/D19-1320.pdf)
 
 [Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
@@ -263,6 +269,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
 
 ## Relation extraction and Knowledge graphs
+
+[Improving Distantly-Supervised Relation Extraction withJoint Label Embedding](https://www.aclweb.org/anthology/D19-1395.pdf)
 
 [Representation Learning with Ordered Relation Pathsfor Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1268.pdf)
 
