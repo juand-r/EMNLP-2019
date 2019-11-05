@@ -28,6 +28,7 @@ Papers from EMNLP 2019 that look interesting:
     - [Text generation and GPT2](#text-generation-and-gpt2)
     - [Machine Translation](#machine-translation)
   - [NLU Tasks](#nlu-tasks)
+    - [Fact checking](#fact-checking)
     - [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs)
     - [Commonsense Reasoning](#commonsense-reasoning)
     - [Information Retrieval](#information-retrieval)
@@ -251,7 +252,21 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 # NLU Tasks
 
+## Fact checking
+
+[Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
+
 ## Relation extraction and Knowledge graphs
+
+[Collaborative Policy Learning for Open Knowledge Graph Reasoning](https://www.aclweb.org/anthology/D19-1269.pdf)
+
+[DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning](https://www.aclweb.org/anthology/D19-1266.pdf)
+
+:boom: [Learning to Update Knowledge Graphs by Reading News](https://www.aclweb.org/anthology/D19-1265.pdf)
+
+:boom: [Incorporating Graph Attention Mechanism into Knowledge GraphReasoning Based on Deep Reinforcement Learning](https://www.aclweb.org/anthology/D19-1264.pdf)
+
+[A Non-commutative Bilinear Model for Answering Path Queries in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1246.pdf)
 
 [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf)
 
@@ -272,6 +287,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
 
 ## Commonsense Reasoning
+
+[Answering questions by learning to rank -Learning to rank by answering questions](https://www.aclweb.org/anthology/D19-1256.pdf)
+
+[Finding Generalizable Evidence by Learning to Convince Q&A Models](https://www.aclweb.org/anthology/D19-1244.pdf)
 
 :boom: [Counterfactual Story Reasoning and Generation](https://www.aclweb.org/anthology/D19-1509.pdf)
 
