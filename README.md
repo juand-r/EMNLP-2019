@@ -176,6 +176,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Summarization and Simplification
 
+[Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://www.aclweb.org/anthology/D19-1320.pdf)
+
 [Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
 
 [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
@@ -190,12 +192,16 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Style transfer
 
+[IMaT: Unsupervised Text Attribute Transfer via IterativeMatching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf)
+
 [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
 > What to do if you don't have parallel corpora?
 
 [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
 
 ## Text generation and GPT2
+
+[Towards Controllable and Personalized Review Generation](https://www.aclweb.org/anthology/D19-1319.pdf)
 
 [An End-to-End Generative Architecture for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1309.pdf)
 
@@ -258,6 +264,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Relation extraction and Knowledge graphs
 
+[Representation Learning with Ordered Relation Pathsfor Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1268.pdf)
+
 [Collaborative Policy Learning for Open Knowledge Graph Reasoning](https://www.aclweb.org/anthology/D19-1269.pdf)
 
 [DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning](https://www.aclweb.org/anthology/D19-1266.pdf)
@@ -287,6 +295,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
 
 ## Commonsense Reasoning
+
+[“Going on a vacation”takes longer than“Going for a walk”:A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf)
 
 [Answering questions by learning to rank -Learning to rank by answering questions](https://www.aclweb.org/anthology/D19-1256.pdf)
 
