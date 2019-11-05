@@ -13,24 +13,28 @@ Papers from EMNLP 2019 that look interesting:
 - [Workshops](#workshops)
 - [Tools, demos, datasets](#tools-demos-datasets)
 - [Papers](#papers)
-  - [Methodological](#methodological)
-  - [Language learning agents](#language-learning-agents)
-  - [Discourse](#discourse)
-  - [Summarization and Simplification](#summarization-and-simplification)
-  - [Style transfer](#style-transfer)
-  - [Text generation and GPT2](#text-generation-and-gpt2)
-  - [Explainability](#explainability)
-  - [Learning with Less Data](#learning-with-less-data)
-  - [Word Embeddings](#word-embeddings)
-  - [Knowledge enhanced ML](#knowledge-enhanced-ml)
-  - [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs)
-  - [Commonsense Reasoning](#commonsense-reasoning)
-  - [Information Retrieval](#information-retrieval)
-  - [Entity Linking](#entity-linking)
-  - [Entities and NER](#entities-and-ner)
-  - [Multimodal](#multimodal)
-  - [Machine Translation](#machine-translation)
-  - [Other](#other)
+  - [Topics](#topics)
+    - [Methodological](#methodological)
+    - [Language learning agents](#language-learning-agents)
+    - [Discourse](#discourse)
+    - [Explainability](#explainability)
+    - [Learning with Less Data](#learning-with-less-data)
+    - [Word Embeddings](#word-embeddings)
+    - [Knowledge enhanced ML](#knowledge-enhanced-ml)
+    - [Multimodal](#multimodal)
+  - [NLG Tasks](#nlg-tasks)
+    - [Summarization and Simplification](#summarization-and-simplification)
+    - [Style transfer](#style-transfer)
+    - [Text generation and GPT2](#text-generation-and-gpt2)
+    - [Machine Translation](#machine-translation)
+  - [NLU Tasks](#nlu-tasks)
+    - [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs)
+    - [Commonsense Reasoning](#commonsense-reasoning)
+    - [Information Retrieval](#information-retrieval)
+    - [Entity Linking](#entity-linking)
+    - [Entities and NER](#entities-and-ner)
+    - [Multimodal](#multimodal)
+    - [Other](#other)
   
   
 # Tutorials
@@ -76,12 +80,14 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**](https://www.aclweb.org/anthology/D19-3029.pdf)
 
-# Papers
-
-## Annotation tools
+### Annotation tools
 
 - [Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
 - [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
+
+# Papers
+
+# Topics
 
 ## Methodological
 
@@ -104,58 +110,6 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
 
 [Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
-
-## Summarization and Simplification
-
-[Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
-
-[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
-
-[Contrastive Attention Mechanism for Abstractive SentenceSummarization](https://www.aclweb.org/anthology/D19-1301.pdf)
-
-[A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
-
-[EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
-
-## Style transfer
-
-[Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
-> What to do if you don't have parallel corpora?
-
-## Text generation and GPT2
-
-[An End-to-End Generative Architecture for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1309.pdf)
-
-[Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299.pdf)
-
-:boom: [Judge the Judges: A Large-Scale Evaluation Study of Neural Language Models for Online Review Generation](https://www.aclweb.org/anthology/D19-1409.pdf)
-
-[Autoregressive Text Generation Beyond Feedback Loops](https://www.aclweb.org/anthology/D19-1338.pdf)
-
-[(Male, Bachelor) and (Female, Ph.D) have different connotations:Parallelly Annotated Stylistic Language Dataset with Multiple Personas](https://www.aclweb.org/anthology/D19-1179.pdf)
-> PASTEL dataset with 41K parallel sentences annotated across different personas (age, gender, political orientation, education level, ethnicity, country, time-of-day). Data and code: https://github.com/dykang/PASTEL
-
-:boom: [Controlling Text Complexity in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1166.pdf)
-
-:boom: [See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)](https://www.aclweb.org/anthology/K19-1079.pdf)
-
-:boom: [Attending to Future Tokens for Bidirectional Sequence Generation](https://www.aclweb.org/anthology/D19-1001.pdf)
-> Can generate text from BERT!
-
-[How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**](https://www.aclweb.org/anthology/D19-1006.pdf)
-
-[Big Bidirectional Insertion Representations for Documents](https://www.aclweb.org/anthology/D19-5620.pdf)
-> Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
-
-[Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://www.aclweb.org/anthology/D19-1052.pdf)
-
-:boom: [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://www.aclweb.org/anthology/D19-1053.pdf)
-
-:boom: [Select and Attend: Towards Controllable Content Selection in Text Generation](https://www.aclweb.org/anthology/D19-1054.pdf)
-
-[Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://www.aclweb.org/anthology/D19-1055.pdf)
-
-:boom: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
 
 ## Explainability
 
@@ -214,6 +168,85 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
 
+## Multimodal
+
+
+# NLG Tasks
+
+## Summarization and Simplification
+
+[Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
+
+[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
+
+[Contrastive Attention Mechanism for Abstractive SentenceSummarization](https://www.aclweb.org/anthology/D19-1301.pdf)
+
+[A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
+
+[EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
+
+## Style transfer
+
+[Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
+> What to do if you don't have parallel corpora?
+
+## Text generation and GPT2
+
+[An End-to-End Generative Architecture for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1309.pdf)
+
+[Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299.pdf)
+
+:boom: [Judge the Judges: A Large-Scale Evaluation Study of Neural Language Models for Online Review Generation](https://www.aclweb.org/anthology/D19-1409.pdf)
+
+[Autoregressive Text Generation Beyond Feedback Loops](https://www.aclweb.org/anthology/D19-1338.pdf)
+
+[(Male, Bachelor) and (Female, Ph.D) have different connotations:Parallelly Annotated Stylistic Language Dataset with Multiple Personas](https://www.aclweb.org/anthology/D19-1179.pdf)
+> PASTEL dataset with 41K parallel sentences annotated across different personas (age, gender, political orientation, education level, ethnicity, country, time-of-day). Data and code: https://github.com/dykang/PASTEL
+
+:boom: [Controlling Text Complexity in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1166.pdf)
+
+:boom: [See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)](https://www.aclweb.org/anthology/K19-1079.pdf)
+
+:boom: [Attending to Future Tokens for Bidirectional Sequence Generation](https://www.aclweb.org/anthology/D19-1001.pdf)
+> Can generate text from BERT!
+
+[How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**](https://www.aclweb.org/anthology/D19-1006.pdf)
+
+[Big Bidirectional Insertion Representations for Documents](https://www.aclweb.org/anthology/D19-5620.pdf)
+> Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
+
+[Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://www.aclweb.org/anthology/D19-1052.pdf)
+
+:boom: [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://www.aclweb.org/anthology/D19-1053.pdf)
+
+:boom: [Select and Attend: Towards Controllable Content Selection in Text Generation](https://www.aclweb.org/anthology/D19-1054.pdf)
+
+[Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://www.aclweb.org/anthology/D19-1055.pdf)
+
+:boom: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
+
+## Machine Translation
+
+[On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://www.aclweb.org/anthology/D19-1331.pdf)
+
+[Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings](https://www.aclweb.org/anthology/D19-1147.pdf)
+
+[Machine Translation for Machines:the Sentiment Classification Use Case](https://www.aclweb.org/anthology/D19-1140.pdf)
+
+[Iterative Dual Domain Adaptation for NMT](https://www.aclweb.org/anthology/D19-1078.pdf)
+
+[Self-Attention with Structural Position Representations](https://www.aclweb.org/anthology/D19-1145.pdf)
+
+[Encoders Help You Disambiguate Word Sensesin Neural Machine Translation](https://www.aclweb.org/anthology/D19-1149.pdf)
+
+[Simple, Scalable Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1165.pdf)
+
+[Hierarchical Modeling of Global Context for Document-LevelNeural Machine Translation](https://www.aclweb.org/anthology/D19-1168.pdf)
+
+[Context-Aware Monolingual Repair for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1081.pdf)
+
+# NLU Tasks
+
 ## Relation extraction and Knowledge graphs
 
 [Commonsense Knowledge Mining from Pretrained Models](https://www.aclweb.org/anthology/D19-1109.pdf)
@@ -263,29 +296,6 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [A Boundary-aware Neural Model for **Nested Named Entity Recognition**](https://www.aclweb.org/anthology/D19-1034.pdf)
 
-
-## Multimodal
-
-
-## Machine Translation
-
-[On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://www.aclweb.org/anthology/D19-1331.pdf)
-
-[Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings](https://www.aclweb.org/anthology/D19-1147.pdf)
-
-[Machine Translation for Machines:the Sentiment Classification Use Case](https://www.aclweb.org/anthology/D19-1140.pdf)
-
-[Iterative Dual Domain Adaptation for NMT](https://www.aclweb.org/anthology/D19-1078.pdf)
-
-[Self-Attention with Structural Position Representations](https://www.aclweb.org/anthology/D19-1145.pdf)
-
-[Encoders Help You Disambiguate Word Sensesin Neural Machine Translation](https://www.aclweb.org/anthology/D19-1149.pdf)
-
-[Simple, Scalable Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1165.pdf)
-
-[Hierarchical Modeling of Global Context for Document-LevelNeural Machine Translation](https://www.aclweb.org/anthology/D19-1168.pdf)
-
-[Context-Aware Monolingual Repair for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1081.pdf)
 
 ## Other
 
