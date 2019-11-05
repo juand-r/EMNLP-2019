@@ -18,6 +18,7 @@ Papers from EMNLP 2019 that look interesting:
   - [Word Embeddings](#word-embeddings)
   - [Knowledge enhanced ML](#knowledge-enhanced-ml)
   - [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs)
+  - [Commonsense Reasoning](#commonsense-reasoning)
   - [Information Retrieval](#information-retrieval)
   - [Entity Linking](#entity-linking)
   - [Entities and NER](#entities-and-ner)
