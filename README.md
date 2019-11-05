@@ -103,7 +103,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Summarization and Simplification
 
+
 [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
+
+[Contrastive Attention Mechanism for Abstractive SentenceSummarization](https://www.aclweb.org/anthology/D19-1301.pdf)
 
 [A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
 
