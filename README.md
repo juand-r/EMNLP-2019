@@ -86,7 +86,7 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 - [Learning to request guidance in emergent language (LANTERN)](https://www.aclweb.org/anthology/D19-6407.pdf)
 - [EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
 - [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
-
+- [Interactive Language Learning by Question Answering](https://www.aclweb.org/anthology/D19-1280.pdf)
 
 ## Discourse
 
