@@ -9,6 +9,7 @@ Papers from EMNLP 2019 that look interesting:
 - [Workshops](#workshops)
 - [Tools, demos, datasets](#tools-demos-datasets)
 - [Papers](#papers)
+  - [Methodological](#methodological)
   - [Language learning agents](#language-learning-agents)
   - [Discourse](#discourse)
   - [Text generation and GPT2](#text-generation-and-gpt2)
@@ -71,6 +72,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 - [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
 
 # Papers: Tuesday Nov 5
+
+## Methodological
+
+[Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224.pdf)
 
 ## Language learning agents
  
