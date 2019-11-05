@@ -185,10 +185,14 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
 
+[Deep copycat Networks for Text-to-Text Generation](https://www.aclweb.org/anthology/D19-1318.pdf)
+
 ## Style transfer
 
 [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
 > What to do if you don't have parallel corpora?
+
+[Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
 
 ## Text generation and GPT2
 
@@ -248,6 +252,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 # NLU Tasks
 
 ## Relation extraction and Knowledge graphs
+
+[Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf)
 
 [Commonsense Knowledge Mining from Pretrained Models](https://www.aclweb.org/anthology/D19-1109.pdf)
 
