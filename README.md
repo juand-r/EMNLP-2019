@@ -12,6 +12,7 @@ Papers from EMNLP 2019 that look interesting:
   - [Methodological](#methodological)
   - [Language learning agents](#language-learning-agents)
   - [Discourse](#discourse)
+  - [Summarization and Simplification](#summarization-and-simplification)
   - [Text generation and GPT2](#text-generation-and-gpt2)
   - [Explainability](#explainability)
   - [Learning with Less Data](#learning-with-less-data)
@@ -98,6 +99,9 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
 
+## Summarization and Simplification
+
+[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
 
 ## Text generation and GPT2
 
@@ -121,8 +125,6 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [Big Bidirectional Insertion Representations for Documents](https://www.aclweb.org/anthology/D19-5620.pdf)
 > Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
-
-[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
 
 [Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://www.aclweb.org/anthology/D19-1052.pdf)
 
