@@ -80,6 +80,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224.pdf)
 
+[Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set](https://www.aclweb.org/anthology/D19-1329.pdf)
+
 ## Language learning agents
  
 - [Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
@@ -228,7 +230,9 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Machine Translation
 
-[Unsupervised Domain Adaptation for Neural Machine Translation withDomain-Aware Feature Embeddings](https://www.aclweb.org/anthology/D19-1147.pdf)
+[On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://www.aclweb.org/anthology/D19-1331.pdf)
+
+[Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings](https://www.aclweb.org/anthology/D19-1147.pdf)
 
 [Machine Translation for Machines:the Sentiment Classification Use Case](https://www.aclweb.org/anthology/D19-1140.pdf)
 
@@ -241,6 +245,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Simple, Scalable Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1165.pdf)
 
 [Hierarchical Modeling of Global Context for Document-LevelNeural Machine Translation](https://www.aclweb.org/anthology/D19-1168.pdf)
+
+[Context-Aware Monolingual Repair for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1081.pdf)
 
 ## Other
 
