@@ -34,7 +34,7 @@ Papers from EMNLP 2019 that look interesting:
     - [Information Retrieval](#information-retrieval)
     - [Entity Linking](#entity-linking)
     - [Entities and NER](#entities-and-ner)
-    - [Multimodal](#multimodal)
+    - [Text classification](#text-classification)
     - [Other](#other)
   
   
@@ -341,6 +341,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [A Boundary-aware Neural Model for **Nested Named Entity Recognition**](https://www.aclweb.org/anthology/D19-1034.pdf)
 
+
+## Text classification
+
+[Text Level Graph Neural Network for Text Classification]
 
 ## Other
 
