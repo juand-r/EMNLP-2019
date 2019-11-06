@@ -111,6 +111,7 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Revealing the Dark Secrets of BERT]
 
 [The Bottom-up Evolution of Representations in the Transformer:A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
+> blog post: https://lena-voita.github.io/posts/emnlp19_evolution.html
 
 ## Language learning agents
  
