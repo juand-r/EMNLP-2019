@@ -3,7 +3,7 @@
 - Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
 - Papers: https://www.aclweb.org/anthology/events/emnlp-2019
 
-NOTE: continue at 16:30 "8 Poster & Demo" Wednesday (Machine Learning) - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
+NOTE: continue on Thursday morning 10:30 AM - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
 Papers from EMNLP 2019 that look interesting:
 
@@ -131,6 +131,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Explainability
 
+[Rethinking Cooperative Rationalization: Introspective Extraction and Complement Contro](https://www.aclweb.org/anthology/D19-1420.pdf)
+
 [Identifying and Explaining Discriminative Attributes](https://www.aclweb.org/anthology/D19-1440.pdf)
 
 [Auditing Deep Learning processes through Kernel-based Explanatory Models](https://www.aclweb.org/anthology/D19-1415.pdf)
@@ -149,6 +151,12 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
 
 ## Adversarial
+
+[Achieving Verified Robustness to Symbol Substitutionsvia Interval Bound Propagation](https://www.aclweb.org/anthology/D19-1419.pdf)
+
+:boom: [Topics to Avoid: Demoting Latent Confounds in Text Classification](https://www.aclweb.org/anthology/D19-1425.pdf)
+
+:boom: [Don’t Take the Easy Way Out:Ensemble Based Methods for Avoiding Known Dataset Biases](https://www.aclweb.org/anthology/D19-1418.pdf)
 
 [Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/D19-1423.pdf)
 
