@@ -17,6 +17,7 @@ Papers from EMNLP 2019 that look interesting:
     - [Language learning agents](#language-learning-agents)
     - [Discourse](#discourse)
     - [Explainability](#explainability)
+    - [Adversarial](#adversarial)
     - [Learning with Less Data](#learning-with-less-data)
     - [Word Embeddings](#word-embeddings)
     - [Knowledge enhanced ML](#knowledge-enhanced-ml)
@@ -86,6 +87,7 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ### Annotation tools
 
+- [A Biomedical Free Text Annotation Interface withActive Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
 - [Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
 - [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
 
@@ -145,6 +147,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
 
+## Adversarial
+
+[Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/D19-1423.pdf)
+
 ## Learning with Less Data
 
 [A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers](https://www.aclweb.org/anthology/D19-1520.pdf)
@@ -154,8 +160,6 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Look-up and Adapt: A One-shot Semantic Parser](https://www.aclweb.org/anthology/D19-1104.pdf)
 
 [Latent-Variable Generative Models for Data-Efficient **Text Classification**](https://www.aclweb.org/anthology/D19-1048.pdf)
-
-[Practical Obstacles to Deploying **Active Learning**](https://www.aclweb.org/anthology/D19-1003.pdf)
 
 [**Transfer Learning** Between Related Tasks Using Expected Label Proportions](https://www.aclweb.org/anthology/D19-1004.pdf)
 
@@ -178,6 +182,12 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Induction Networks for Few-Shot Text Classification](https://www.aclweb.org/anthology/D19-1403.pdf)
 
 [Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**](https://www.aclweb.org/anthology/D19-1042.pdf)
+
+### Active learning
+
+:boom: [Practical Obstacles to Deploying **Active Learning**](https://www.aclweb.org/anthology/D19-1003.pdf)
+
+[Sampling Bias in Deep Active Classification: An Empirical Study](https://www.aclweb.org/anthology/D19-1417.pdf)
 
 ## Word Embeddings
 
@@ -379,6 +389,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Fine-Grained Evaluation for Entity Linking](https://www.aclweb.org/anthology/D19-1066.pdf)
 
 ## Entities and NER
+
+[Hierarchically-Refined Label Attention Network for Sequence Labeling]
 
 [Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels](https://www.aclweb.org/anthology/D19-1362.pdf)
 
