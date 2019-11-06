@@ -461,13 +461,15 @@ Topics to Avoid: Demoting Latent Confounds in Text Classification. Sachin Kumar,
 
 Learning to Ask for Conversational Machine Learning. Shashank Srivastava, Igor Labutov and Tom Mitchell  
 
-Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs. Angela Fan, Claire Gardent, Chloé Braud and Antoine Bordes
+Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training
+
+:boom: Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs. Angela Fan, Claire Gardent, Chloé Braud and Antoine Bordes
 
 Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation. Huiyun Yang, Shujian Huang, XIN-YU DAI and Jiajun CHEN  
 
 Exploiting Monolingual Data at Scale for Neural Machine Translation. Lijun Wu, Yiren Wang, Yingce Xia, Tao QIN, Jianhuang Lai and Tie-Yan Liu  
 
-Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs. Mingyang Chen, Wen Zhang, Wei Zhang, Qiang Chen and Huajun Chen  
+:boom: Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs. Mingyang Chen, Wen Zhang, Wei Zhang, Qiang Chen and Huajun Chen  
 
 Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori Hashimoto and Percy Liang  
 
