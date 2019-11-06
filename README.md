@@ -132,7 +132,7 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Explainability
 
-[Rethinking Cooperative Rationalization: Introspective Extraction and Complement Contro](https://www.aclweb.org/anthology/D19-1420.pdf)
+[Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control](https://www.aclweb.org/anthology/D19-1420.pdf)
 
 [Identifying and Explaining Discriminative Attributes](https://www.aclweb.org/anthology/D19-1440.pdf)
 
