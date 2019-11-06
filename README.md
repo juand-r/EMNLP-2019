@@ -437,4 +437,34 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation](https://www.aclweb.org/anthology/D19-1363.pdf)
 
+Neural Gaussian Copula for Variational Autoencoder
 
+Patient Knowledge Distillation for BERT Model Compression
+
+Topics to Avoid: Demoting Latent Confounds in Text Classification. Sachin Kumar, Shuly Wintner, Noah A. Smith and Yulia Tsvetkov  
+
+Learning to Ask for Conversational Machine Learning. Shashank Srivastava, Igor Labutov and Tom Mitchell  
+
+Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs. Angela Fan, Claire Gardent, Chloé Braud and Antoine Bordes
+
+Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation. Huiyun Yang, Shujian Huang, XIN-YU DAI and Jiajun CHEN  
+
+Exploiting Monolingual Data at Scale for Neural Machine Translation. Lijun Wu, Yiren Wang, Yingce Xia, Tao QIN, Jianhuang Lai and Tie-Yan Liu  
+
+Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs. Mingyang Chen, Wen Zhang, Wei Zhang, Qiang Chen and Huajun Chen  
+
+Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori Hashimoto and Percy Liang  
+
+**Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling**. Xiaochuang Han and Jacob Eisenstein  
+
+Learning Latent Parameters without Human Response Patterns: Item Response Theory with Artificial Crowds. John P. Lalor, Hao Wu and Hong Yu  
+
+Parallel Iterative Edit Models for Local Sequence Transduction. Abhijeet Awasthi, Sunita Sarawagi, Rasna Goyal, Sabyasachi Ghosh and Vihari Piratla  
+
+ARAML: A Stable Adversarial Training Framework for Text Generation. Pei Ke, Fei Huang, Minlie Huang and xiaoyan zhu  
+
+FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow. Xuezhe Ma, Chunting Zhou, Xian Li, Graham Neubig and Eduard Hovy  
+
+Compositional Generalization for Primitive Substitutions. Yuanpeng Li, Liang Zhao, Jianyu Wang and Joel Hestness  
+
+WikiCREM: A Large Unsupervised Corpus for Coreference Resolution. Vid Kocijan, Oana-Maria Camburu, Ana-Maria Cretu, Yordan Yordanov, Phil Blunsom and Thomas Lukasiewicz  
