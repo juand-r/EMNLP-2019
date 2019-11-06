@@ -203,6 +203,11 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Style transfer
 
+[Multiple Text Style Transfer by using Word-level Conditional GenerativeAdversarial Network with Two-Phase Training](https://www.aclweb.org/anthology/D19-1366.pdf)
+> See "erase and replace"
+
+[Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer](https://www.aclweb.org/anthology/D19-1365.pdf)
+
 [IMaT: Unsupervised Text Attribute Transfer via IterativeMatching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf)
 
 [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
