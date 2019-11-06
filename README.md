@@ -3,9 +3,7 @@
 - Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
 - Papers: https://www.aclweb.org/anthology/events/emnlp-2019
 
-NOTE: continue at 15:30 poster and demo Wednesday - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
-
-Though Session 8 on Wednesday is complete.
+NOTE: continue at 16:30 "8 Poster & Demo" Wednesday (Machine Learning) - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
 Papers from EMNLP 2019 that look interesting:
 
@@ -351,9 +349,12 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Entities and NER
 
+[Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels](https://www.aclweb.org/anthology/D19-1362.pdf)
+
 [Small and Practical BERT Models for Sequence Labeling](https://www.aclweb.org/anthology/D19-1374.pdf)
 > Multilingual sequence labeling.
 
+[Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition](https://www.aclweb.org/anthology/D19-1360.pdf)
 
 [EntEval: A Holistic Evaluation Benchmark for **Entity Representations**](https://www.aclweb.org/anthology/D19-1040.pdf)
 
@@ -362,13 +363,15 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Text classification
 
-[Text Level Graph Neural Network for Text Classification]
+[Text Level Graph Neural Network for Text Classification](https://www.aclweb.org/anthology/D19-1345.pdf)
 
-[Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings]
+[Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings](https://www.aclweb.org/anthology/D19-1347.pdf)
 
 ## Other
 
-[TalkDown: A Corpus for Condescension Detection in Context]
+[Humor Detection: A Transformer Gets the Last Laugh](https://www.aclweb.org/anthology/D19-1372.pdf)
+
+[TalkDown: A Corpus for Condescension Detection in Context](https://www.aclweb.org/anthology/D19-1385.pdf)
 
 [Partners in Crime: Multi-view Sequential Inference for MovieUnderstanding](https://www.aclweb.org/anthology/D19-1212.pdf)
 
@@ -383,7 +386,16 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 # Organize these later:
 
+[Pretrained Language Models for Sequential Sentence Classification]
+
+[A Search-based Neural Model for Biomedical Nested and Overlapping Event Detection]
+
+[Efficient Sentence Embedding using Discrete Cosine Transform]
+
+[Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis]
+
 [Semantic Relatedness Based Re-ranker for Text Spotting]
 
+[A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation](https://www.aclweb.org/anthology/D19-1363.pdf)
 
 
