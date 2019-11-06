@@ -13,6 +13,7 @@ Papers from EMNLP 2019 that look interesting:
 - [Papers](#papers)
   - [Topics](#topics)
     - [Methodological](#methodological)
+    - [Analysis](#analysis)
     - [Language learning agents](#language-learning-agents)
     - [Discourse](#discourse)
     - [Explainability](#explainability)
@@ -64,6 +65,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 # Tools, demos, datasets
 
+[UER: An Open-Source Toolkit for Pre-training Models](https://www.aclweb.org/anthology/D19-3041.pdf)
+
 [CFO: A Framework for Building Production NLP Systems](https://www.aclweb.org/anthology/D19-3006.pdf)
 
 [Multilingual, Multi-scale and Multi-layer Visualization of Sequence-based Intermediate Representations](https://www.aclweb.org/anthology/D19-3026.pdf)
@@ -94,6 +97,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set](https://www.aclweb.org/anthology/D19-1329.pdf)
 
+## Analysis
+
+[Revealing the Dark Secrets of BERT]
+
 ## Language learning agents
  
 - [Emergent Linguistic Phenomena in Multi-Agent Communication Games](https://www.aclweb.org/anthology/D19-1384.pdf)
@@ -112,6 +119,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
 
 ## Explainability
+
+[AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
 
 [Knowledge Aware Conversation Generation with Explainable Reasoningover Augmented Graphs](https://www.aclweb.org/anthology/D19-1187.pdf)
 
@@ -201,6 +210,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Style transfer
 
+[Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites](https://www.aclweb.org/anthology/D19-1406.pdf)
+
 [Multiple Text Style Transfer by using Word-level Conditional GenerativeAdversarial Network with Two-Phase Training](https://www.aclweb.org/anthology/D19-1366.pdf)
 > See "erase and replace"
 
@@ -214,6 +225,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
 
 ## Text generation and GPT2
+
+:boom: [Denoising based Sequence-to-Sequence Pre-training for Text Generation](https://www.aclweb.org/anthology/D19-1412.pdf)
 
 [Towards Controllable and Personalized Review Generation](https://www.aclweb.org/anthology/D19-1319.pdf)
 
@@ -251,6 +264,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 :boom: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
 
 ## Machine Translation
+
+:boom: [Machine Translation With Weakly Paired Documents](https://www.aclweb.org/anthology/D19-1446.pdf)
 
 [On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://www.aclweb.org/anthology/D19-1331.pdf)
 
@@ -385,6 +400,12 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 
 # Organize these later:
+
+[Learning Only from Relevant Keywords and Unlabeled Documents]
+
+[**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
+
+[A Logic-Driven Framework for Consistency of Neural Models](https://www.aclweb.org/anthology/D19-1405.pdf)
 
 [Pretrained Language Models for Sequential Sentence Classification]
 
