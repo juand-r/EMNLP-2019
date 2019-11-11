@@ -331,6 +331,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Relation extraction and Knowledge graphs
 
+[TuckER: Tensor Factorization for Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1522.pdf)
+
 [Improving Distantly-Supervised Relation Extraction withJoint Label Embedding](https://www.aclweb.org/anthology/D19-1395.pdf)
 
 [Representation Learning with Ordered Relation Pathsfor Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1268.pdf)
