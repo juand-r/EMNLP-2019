@@ -5,7 +5,7 @@
 
 NOTE: continue on Thursday morning 10:30 AM - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
-Papers from EMNLP 2019 that look interesting:
+Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, lots of MT papers, dialogue, question answering...).
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
@@ -262,6 +262,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Text generation and GPT2
 
+[Encode, Tag, Realize: High-Precision Text Editing](https://www.aclweb.org/anthology/D19-1510.pdf)
+
 :boom: [Denoising based Sequence-to-Sequence Pre-training for Text Generation](https://www.aclweb.org/anthology/D19-1412.pdf)
 
 [Towards Controllable and Personalized Review Generation](https://www.aclweb.org/anthology/D19-1319.pdf)
@@ -362,6 +364,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
 
 ## Commonsense Reasoning
+
+[Posing Fair Generalization Tasks for Natural Language Inference](https://www.aclweb.org/anthology/D19-1456.pdf)
+
+[Self-Assembling Modular Networks for **Interpretable** Multi-Hop Reasoning](https://www.aclweb.org/anthology/D19-1455.pdf)
 
 [“Going on a vacation”takes longer than“Going for a walk”:A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf)
 
