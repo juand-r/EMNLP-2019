@@ -100,6 +100,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Methodological
 
+See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard splits." ACL 2019.
+
 [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224.pdf)
 
 [Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set](https://www.aclweb.org/anthology/D19-1329.pdf)
