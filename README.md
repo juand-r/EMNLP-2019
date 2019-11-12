@@ -139,6 +139,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Discourse
 
+[Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains](https://www.aclweb.org/anthology/D19-1586.pdf)
+
 [Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs]
 
 [Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
@@ -148,6 +150,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 [Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
 
 ## Explainability
+
+[Interpretable Word Embeddings via Informative Priors](https://www.aclweb.org/anthology/D19-1661.pdf)
 
 :boom: [Human-grounded Evaluations of Explanation Methods for Text Classification](https://www.aclweb.org/anthology/D19-1523.pdf)
 
@@ -302,6 +306,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Style transfer
 
+[Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora](https://www.aclweb.org/anthology/D19-1659.pdf)
+
 [Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites](https://www.aclweb.org/anthology/D19-1406.pdf)
 
 [Multiple Text Style Transfer by using Word-level Conditional GenerativeAdversarial Network with Two-Phase Training](https://www.aclweb.org/anthology/D19-1366.pdf)
@@ -317,6 +323,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
 
 ## Text generation and GPT2
+
+:boom: [Generating Natural Anagrams:Towards Language Generation Under Hard Combinatorial Constraints](https://www.aclweb.org/anthology/D19-1674.pdf)
 
 [Encode, Tag, Realize: High-Precision Text Editing](https://www.aclweb.org/anthology/D19-1510.pdf)
 
