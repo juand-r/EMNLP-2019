@@ -525,6 +525,8 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 [A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636.pdf)
 
+[Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf)
+
 [Dialog Intent Induction with Deep Multi-View Clustering](https://www.aclweb.org/anthology/D19-1413.pdf)
 
 [Humor Detection: A Transformer Gets the Last Laugh](https://www.aclweb.org/anthology/D19-1372.pdf)
