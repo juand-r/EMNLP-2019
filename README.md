@@ -212,6 +212,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Word Embeddings
 
+:boom: [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://www.aclweb.org/anthology/D19-1534.pdf)
+
 [Text-based inference of moral sentiment change](https://www.aclweb.org/anthology/D19-1472.pdf)
 > Uses diachronic word embedding to explore moral biases over time (e.g. *slavery*).
 
