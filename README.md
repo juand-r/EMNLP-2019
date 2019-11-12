@@ -3,8 +3,6 @@
 - Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
 - Papers: https://www.aclweb.org/anthology/events/emnlp-2019
 
-NOTE: only missing the Thursday 15:30 PM 11 Poster&Demo, posters only - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
-
 Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, question generation, and work on code-switching, rumors, sarcasm, humor, bias and hate speech...).
 
 - [Tutorials](#tutorials)
