@@ -108,6 +108,10 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ## Analysis
 
+[Quantity doesn't buy quality syntax with neural language models]
+
+[What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons]
+
 [Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel]
 
 [Visualizing and Understanding the Effectiveness of BERT]
@@ -127,6 +131,10 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 - [Interactive Language Learning by Question Answering](https://www.aclweb.org/anthology/D19-1280.pdf)
 
 ## Discourse
+
+
+
+[Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs]
 
 [Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
 
@@ -252,25 +260,32 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ## Summarization and Simplification
 
-[BottleSum: Unsupervised and Self-supervised Sentence Summarizationusing the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
+[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
 
-[How to Write Summaries with Patterns?Learning towards Abstractive Summarization through Prototype Editing](https://www.aclweb.org/anthology/D19-1388.pdf)
+[BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
+
+[How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing](https://www.aclweb.org/anthology/D19-1388.pdf)
 
 [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf)
 
-[Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://www.aclweb.org/anthology/D19-1320.pdf)
-
 [Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
 
-[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
-
-[Contrastive Attention Mechanism for Abstractive SentenceSummarization](https://www.aclweb.org/anthology/D19-1301.pdf)
+[Contrastive Attention Mechanism for Abstractive Sentence Summarization](https://www.aclweb.org/anthology/D19-1301.pdf)
 
 [A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
 
+[Deep copycat Networks for Text-to-Text Generation](https://www.aclweb.org/anthology/D19-1318.pdf)
+
+### Simplification
+
 [EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
 
-[Deep copycat Networks for Text-to-Text Generation](https://www.aclweb.org/anthology/D19-1318.pdf)
+### Evaluation
+
+[Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://www.aclweb.org/anthology/D19-1320.pdf)
+
+[SUM-QE: a BERT-based Summary Quality Estimation Mode](https://www.aclweb.org/anthology/D19-1618.pdf)
+
 
 ## Style transfer
 
