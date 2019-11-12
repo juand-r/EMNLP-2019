@@ -192,6 +192,10 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ### Domain Adaptation
 
+[Shallow Domain Adaptive Embeddings for Sentiment Analysis](https://www.aclweb.org/anthology/D19-1557.pdf)
+
+[Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification](https://www.aclweb.org/anthology/D19-1558.pdf)
+
 :boom: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
 
 [Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis](https://www.aclweb.org/anthology/D19-1478.pdf)
@@ -503,6 +507,15 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 [BERT for Coreference Resolution: Baselines and Analysis]
 
 ## Text classification
+
+[Rethinking Attribute Representation and Injectionfor Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
+> Different ways to incorporate metadata into the text classifier.
+
+[Learning Explicit and Implicit Structures for Targeted Sentiment Analysis](https://www.aclweb.org/anthology/D19-1550.pdf)
+
+[LexicalAT: Lexical-Based Adversarial Reinforcement Trainingfor Robust Sentiment Classification](https://www.aclweb.org/anthology/D19-1554.pdf)
+
+[Sequential Learning of Convolutional Featuresfor Effective Text Classification](https://www.aclweb.org/anthology/D19-1567.pdf)
 
 [Text Level Graph Neural Network for Text Classification](https://www.aclweb.org/anthology/D19-1345.pdf)
 
