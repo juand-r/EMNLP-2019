@@ -5,7 +5,7 @@
 
 NOTE: only missing the Thursday 15:30 PM 11 Poster&Demo, posters only - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
-Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, and work on code-switching, rumors, sarcasm, humor, bias and hate speech...).
+Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, question generation, and work on code-switching, rumors, sarcasm, humor, bias and hate speech...).
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
@@ -260,6 +260,10 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ## Summarization and Simplification
 
+[Deep Reinforcement Learning with Distributional Semantic Rewardsfor Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
+
+[Abstract Text Summarization: A Low Resource Challenge](https://www.aclweb.org/anthology/D19-1616.pdf)
+
 [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
 
 [BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
@@ -426,6 +430,10 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
 
 ## Commonsense Reasoning
+
+[WIQA: A dataset for `What if...` reasoning over procedural text](https://www.aclweb.org/anthology/D19-1629.pdf)
+
+[Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset forCommonsense Reasoning over Adjectives and Objects](https://www.aclweb.org/anthology/D19-1625.pdf)
 
 [Posing Fair Generalization Tasks for Natural Language Inference](https://www.aclweb.org/anthology/D19-1456.pdf)
 
