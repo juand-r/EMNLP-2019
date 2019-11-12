@@ -5,7 +5,7 @@
 
 NOTE: continue on Thursday 13:30 PM 10Poster&Demo, posters only - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
-Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, SQL generation and work on code-switching, rumors, bias and hate speech...).
+Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, SQL generation, code generation, and work on code-switching, rumors, bias and hate speech...).
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
