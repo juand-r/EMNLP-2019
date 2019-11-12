@@ -5,7 +5,7 @@
 
 NOTE: continue on Thursday morning 10:30 AM - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
-Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering...).
+Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, and work on bias and hate speech...).
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
@@ -207,6 +207,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Sampling Bias in Deep Active Classification: An Empirical Study](https://www.aclweb.org/anthology/D19-1417.pdf)
 
 ## Word Embeddings
+
+[Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition]
 
 [Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space](https://www.aclweb.org/anthology/D19-1354.pdf)
 
@@ -445,6 +447,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings](https://www.aclweb.org/anthology/D19-1347.pdf)
 
 ## Other
+
+[A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636.pdf)
 
 [Dialog Intent Induction with Deep Multi-View Clustering](https://www.aclweb.org/anthology/D19-1413.pdf)
 
