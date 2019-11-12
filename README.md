@@ -208,6 +208,9 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Word Embeddings
 
+[Text-based inference of moral sentiment change](https://www.aclweb.org/anthology/D19-1472.pdf)
+> Uses diachronic word embedding to explore moral biases over time (e.g. *slavery*).
+
 [Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition]
 
 [Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space](https://www.aclweb.org/anthology/D19-1354.pdf)
@@ -228,6 +231,7 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Multimodal
 
+[Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
 
 # NLG Tasks
 
@@ -341,6 +345,12 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 ## Fact checking
 
 :boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
+
+## Fake News
+
+[Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection]
+
+
 
 ## Relation extraction and Knowledge graphs
 
