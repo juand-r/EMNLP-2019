@@ -436,6 +436,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution]
 
+[BERT for Coreference Resolution: Baselines and Analysis]
+
 ## Text classification
 
 [Text Level Graph Neural Network for Text Classification](https://www.aclweb.org/anthology/D19-1345.pdf)
