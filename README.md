@@ -1,10 +1,14 @@
 # EMNLP 2019
 
-- Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
-- Papers: https://www.aclweb.org/anthology/events/emnlp-2019
-- One-sentence "highlights" of all accepted papers: https://www.paperdigest.org/2019/11/emnlp-2019-highlights/
-
 This contains a list of papers from EMNLP 2019 that look interesting (what is missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, question generation, and work on code-switching, rumors, sarcasm, humor, bias and hate speech...).
+
+Full list of papers:
+
+- Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
+- ACL Anthology: https://www.aclweb.org/anthology/events/emnlp-2019
+- Computer-selected one-sentence "highlights" of all accepted papers: https://www.paperdigest.org/2019/11/emnlp-2019-highlights/
+
+**CONTENTS**
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
@@ -100,6 +104,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 ## Methodological
 
 See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard splits." ACL 2019.
+
+[Polly Want a Cracker: Analyzing Performance of Parroting on Paraphrase Generation Datasets](https://www.aclweb.org/anthology/D19-1611.pdf)
 
 [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224.pdf)
 
