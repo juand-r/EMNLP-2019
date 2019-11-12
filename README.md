@@ -472,17 +472,21 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 [TalkDown: A Corpus for Condescension Detection in Context](https://www.aclweb.org/anthology/D19-1385.pdf)
 
-[Partners in Crime: Multi-view Sequential Inference for MovieUnderstanding](https://www.aclweb.org/anthology/D19-1212.pdf)
+[Partners in Crime: Multi-view Sequential Inference for Movie Understanding](https://www.aclweb.org/anthology/D19-1212.pdf)
 
 [Latent Suicide Risk Detection on Microblogvia Suicide-Oriented Word Embeddings and Layered Attention](https://www.aclweb.org/anthology/D19-1181.pdf)
 
 [Movie Plot Analysis via Turning Point Identification](https://www.aclweb.org/anthology/D19-1180.pdf)
 
-[Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
+[A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature]
+
+## Social Media
 
 [The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
 
-[A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature]
+[Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
+
+[You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://www.aclweb.org/anthology/D19-1477.pdf)
 
 # Organize these later:
 
