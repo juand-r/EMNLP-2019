@@ -349,6 +349,8 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ## Machine Translation
 
+[Mask-Predict: Parallel Decoding ofConditional Masked Language Models](https://www.aclweb.org/anthology/D19-1633.pdf)
+
 :boom: [Synchronously Generating Two Languages with Interactive Decoding](https://www.aclweb.org/anthology/D19-1330.pdf)
 > Simultaneously translating into two languages at once!
 
@@ -394,6 +396,8 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ## Relation extraction and Knowledge graphs
 
+[Entity, Relation, and Event Extractionwith Contextualized Span Representations](https://www.aclweb.org/anthology/D19-1585.pdf)
+
 [TuckER: Tensor Factorization for Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1522.pdf)
 
 [Improving Distantly-Supervised Relation Extraction withJoint Label Embedding](https://www.aclweb.org/anthology/D19-1395.pdf)
@@ -410,7 +414,7 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 [A Non-commutative Bilinear Model for Answering Path Queries in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1246.pdf)
 
-[Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf)
+:boom: [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf)
 
 [Commonsense Knowledge Mining from Pretrained Models](https://www.aclweb.org/anthology/D19-1109.pdf)
 
