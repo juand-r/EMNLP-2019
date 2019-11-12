@@ -5,7 +5,7 @@
 
 NOTE: continue on Thursday 13:30 PM 10Poster&Demo, posters only - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
-Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, SQL generation, code generation, and work on code-switching, rumors, bias and hate speech...).
+Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, sentiment, emotion, aspect-level sentiment,argument mining, SQL generation, code generation, and work on code-switching, rumors, bias and hate speech...).
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
@@ -484,6 +484,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 [Movie Plot Analysis via Turning Point Identification](https://www.aclweb.org/anthology/D19-1180.pdf)
 
 [A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature]
+
+## Propaganda
+
+[Fine-Grained Analysis of Propaganda in News Article]
 
 ## Social Media
 
