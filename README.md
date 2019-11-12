@@ -5,7 +5,7 @@
 
 NOTE: continue on Thursday 15:30 PM 11 Poster&Demo, posters only - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
-Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, and work on code-switching, rumors, bias and hate speech...).
+Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, and work on code-switching, rumors, sarcasm, humor, bias and hate speech...).
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
@@ -170,6 +170,10 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 [Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/D19-1423.pdf)
 
 ## Learning with Less Data
+
+[FewRel 2.0: Towards More Challenging Few-Shot Relation Classification]
+
+[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks]
 
 [A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers](https://www.aclweb.org/anthology/D19-1520.pdf)
 
@@ -447,6 +451,10 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ## Entities and NER
 
+[An Attentive Fine-Grained Entity Typing Model with Latent Type Representation]
+
+:boom: [ner and pos when nothing is capitalized]
+
 [Hierarchically-Refined Label Attention Network for Sequence Labeling]
 
 [Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels](https://www.aclweb.org/anthology/D19-1362.pdf)
@@ -493,9 +501,11 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 [A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature]
 
 
-## Propaganda
+## Propaganda, Persuasion
 
 [Fine-Grained Analysis of Propaganda in News Article]
+
+[Revealing and Predicting Online Persuasion Strategy with Elementary Units]
 
 ## Social Media
 
