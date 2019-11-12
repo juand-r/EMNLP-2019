@@ -135,9 +135,9 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 - [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
 - [Interactive Language Learning by Question Answering](https://www.aclweb.org/anthology/D19-1280.pdf)
 
+Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind through Question Answering" ( https://www.aclweb.org/anthology/D19-1598.pdf )
+
 ## Discourse
-
-
 
 [Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs]
 
