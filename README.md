@@ -28,7 +28,7 @@ Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingu
     - [Text generation and GPT2](#text-generation-and-gpt2)
     - [Machine Translation](#machine-translation)
   - [NLU Tasks](#nlu-tasks)
-    - [WSD] (#wsd)
+    - [WSD](#wsd)
     - [Keyphrase extraction](#keyphrase-extraction)
     - [Fact checking](#fact-checking)
     - [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs)
