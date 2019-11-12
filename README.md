@@ -5,7 +5,7 @@
 
 NOTE: continue on Thursday morning 10:30 AM - https://www.emnlp-ijcnlp2019.org/program/ischedule/  
 
-Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, and work on bias and hate speech...).
+Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, and work on code-switching, bias and hate speech...).
 
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
