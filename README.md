@@ -346,6 +346,8 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 :boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
 
+:boom: [MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://www.aclweb.org/anthology/D19-1475.pdf)
+
 ## Fake News
 
 [Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection]
