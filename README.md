@@ -28,6 +28,7 @@ Papers from EMNLP 2019 that look interesting (note- missing: lots of cross-lingu
     - [Text generation and GPT2](#text-generation-and-gpt2)
     - [Machine Translation](#machine-translation)
   - [NLU Tasks](#nlu-tasks)
+    - [WSD] (#wsd)
     - [Keyphrase extraction](#keyphrase-extraction)
     - [Fact checking](#fact-checking)
     - [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs)
@@ -344,6 +345,10 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 # NLU Tasks
 
+## WSD
+
+[Improved Word Sense DisambiguationUsing Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
+
 ## Keyphrase Extraction
 
 [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://www.aclweb.org/anthology/D19-1521.pdf)
@@ -357,8 +362,6 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 ## Fake News
 
 [Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection]
-
-
 
 ## Relation extraction and Knowledge graphs
 
