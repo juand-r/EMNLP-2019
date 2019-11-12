@@ -323,6 +323,9 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ## Machine Translation
 
+:boom: [Synchronously Generating Two Languages with Interactive Decoding](https://www.aclweb.org/anthology/D19-1330.pdf)
+> Simultaneously translating into two languages at once!
+
 :boom: [Machine Translation With Weakly Paired Documents](https://www.aclweb.org/anthology/D19-1446.pdf)
 
 [On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://www.aclweb.org/anthology/D19-1331.pdf)
