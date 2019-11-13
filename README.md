@@ -77,9 +77,11 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 ### Annotation tools
 
-- [A Biomedical Free Text Annotation Interface withActive Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
-- [Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
-- [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
+[A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
+
+[Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
+
+[HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
 
 ### Development and Evaluation Tools
 
