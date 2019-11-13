@@ -185,8 +185,6 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
 
-[TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners](https://www.aclweb.org/anthology/D19-3040.pdf)
-
 [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
 
 ## Adversarial
