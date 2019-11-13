@@ -126,15 +126,15 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ## Analysis
 
-[Quantity doesn't buy quality syntax with neural language models]
+[Quantity doesn't buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)
 
-[What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons]
+[What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons](https://www.aclweb.org/anthology/D19-1591.pdf)
 
-[Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel]
+[Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel](https://www.aclweb.org/anthology/D19-1443.pdf)
 
-[Visualizing and Understanding the Effectiveness of BERT]
+[Visualizing and Understanding the Effectiveness of BERT](https://www.aclweb.org/anthology/D19-1424.pdf)
 
-[Revealing the Dark Secrets of BERT]
+[Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445.pdf)
 
 [The Bottom-up Evolution of Representations in the Transformer:A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
 > blog post: https://lena-voita.github.io/posts/emnlp19_evolution.html
@@ -156,7 +156,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains](https://www.aclweb.org/anthology/D19-1586.pdf)
 
-[Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs]
+[Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
 
 [Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
 
@@ -185,7 +185,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
 
-[TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners. Yi-Huei Lai and Jason Chang](https://www.aclweb.org/anthology/D19-3040.pdf)
+[TellMeWhy: **Learning to Explain** Corrective Feedback for Second Language Learners](https://www.aclweb.org/anthology/D19-3040.pdf)
 
 [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
 
@@ -197,15 +197,15 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 :boom: [Topics to Avoid: Demoting Latent Confounds in Text Classification](https://www.aclweb.org/anthology/D19-1425.pdf)
 
-:boom: [Don’t Take the Easy Way Out:Ensemble Based Methods for Avoiding Known Dataset Biases](https://www.aclweb.org/anthology/D19-1418.pdf)
+:boom: [Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases](https://www.aclweb.org/anthology/D19-1418.pdf)
 
 [Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/D19-1423.pdf)
 
 ## Learning with Less Data
 
-[FewRel 2.0: Towards More Challenging Few-Shot Relation Classification]
+[FewRel 2.0: Towards More Challenging Few-Shot Relation Classification](https://www.aclweb.org/anthology/D19-1649.pdf)
 
-[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks]
+[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.aclweb.org/anthology/D19-1670.pdf)
 
 [A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers](https://www.aclweb.org/anthology/D19-1520.pdf)
 
@@ -227,7 +227,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 :boom: [To Annotate or Not? **Predicting Performance Drop under Domain Shift**](https://www.aclweb.org/anthology/D19-1222.pdf)
 
-[Weakly Supervised Domain Detection. Yumo Xu and Mirella Lapata]
+[Weakly Supervised Domain Detection. Yumo Xu and Mirella Lapata (TACL)](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00287)
 
 ### Meta-learning
 
@@ -266,7 +266,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 [Text-based inference of moral sentiment change](https://www.aclweb.org/anthology/D19-1472.pdf)
 > Uses diachronic word embedding to explore moral biases over time (e.g. *slavery*).
 
-[Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition]
+[Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition (TACL?)](https://arxiv.org/abs/1902.10618)
 
 [Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space](https://www.aclweb.org/anthology/D19-1354.pdf)
 
@@ -340,7 +340,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer](https://www.aclweb.org/anthology/D19-1365.pdf)
 
-[IMaT: Unsupervised Text Attribute Transfer via IterativeMatching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf)
+[IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf)
 
 [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
 > What to do if you don't have parallel corpora?
@@ -351,7 +351,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [Learning Rhyming Constraints using Structured Adversaries](https://www.aclweb.org/anthology/D19-1621.pdf)
 
-[An Empirical Comparison on Imitation Learning and ReinforcementLearning for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1619.pdf)
+[An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1619.pdf)
 
 :boom: [Generating Natural Anagrams:Towards Language Generation Under Hard Combinatorial Constraints](https://www.aclweb.org/anthology/D19-1674.pdf)
 
