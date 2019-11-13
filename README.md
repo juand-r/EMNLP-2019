@@ -1,6 +1,6 @@
 # EMNLP 2019
 
-This contains a list of papers from EMNLP 2019 that look interesting (what is missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, question generation, and work on code-switching, rumors, sarcasm, humor, bias and hate speech...).
+This contains a list of papers from EMNLP 2019 that look interesting (what is missing: lots of cross-lingual papers, multi-modal papers, lots of MT papers, dialogue, question answering, intent classification, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, question generation, and work on code-switching, rumors, sarcasm, humor, bias and hate speech...).
 
 Full list of papers:
 
@@ -299,6 +299,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
 
+[Recursive Context-Aware Lexical Simplification](https://www.aclweb.org/anthology/D19-1491.pdf)
+
 ### Evaluation
 
 [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://www.aclweb.org/anthology/D19-1320.pdf)
@@ -307,6 +309,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 
 ## Style transfer
+
+[Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://www.aclweb.org/anthology/D19-1499.pdf)
 
 [Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora](https://www.aclweb.org/anthology/D19-1659.pdf)
 
@@ -499,6 +503,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Entities and NER
 
+[Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks](https://www.aclweb.org/anthology/D19-1502.pdf)
+
 [An Attentive Fine-Grained Entity Typing Model with Latent Type Representation]
 
 :boom: [ner and pos when nothing is capitalized]
@@ -523,6 +529,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 [BERT for Coreference Resolution: Baselines and Analysis]
 
 ## Text classification
+
+[Heterogeneous Graph Attention Networks for Semi-supervisedShort Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
 
 [Rethinking Attribute Representation and Injectionfor Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
 > Different ways to incorporate metadata into the text classifier.
