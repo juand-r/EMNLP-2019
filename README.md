@@ -75,30 +75,38 @@ Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "R
 
 # Tools, demos, datasets
 
+### Annotation tools
+
+- [A Biomedical Free Text Annotation Interface withActive Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
+- [Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
+- [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
+
+### Development and Evaluation Tools
+
+[Joey NMT: A Minimalist **NMT** Toolkit for Novices](https://www.aclweb.org/anthology/D19-3019.pdf)
+
+[OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**](https://www.aclweb.org/anthology/D19-3029.pdf)
+
 [NeuronBlocks: Building Your NLP DNN Models Like Playing Lego](https://www.aclweb.org/anthology/D19-3028.pdf)
 
 [UER: An Open-Source Toolkit for Pre-training Models](https://www.aclweb.org/anthology/D19-3041.pdf)
 
 [CFO: A Framework for Building Production NLP Systems](https://www.aclweb.org/anthology/D19-3006.pdf)
 
+[SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval](https://www.aclweb.org/anthology/D19-3034.pdf)
+
+## Visualization Tools
+
 [Multilingual, Multi-scale and Multi-layer Visualization of Sequence-based Intermediate Representations](https://www.aclweb.org/anthology/D19-3026.pdf)
 > Code: https://github.com/elorala/interlingua-visualization ; Demo: https://upc-nmt-vis.herokuapp.com/
 
-[VerbAtlas a Novel Large-Scale Verbal Semantic Resource and ItsApplication to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
-
-[SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval](https://www.aclweb.org/anthology/D19-3034.pdf)
-
-[Joey NMT: A Minimalist **NMT** Toolkit for Novices](https://www.aclweb.org/anthology/D19-3019.pdf)
-
 [VizSeq: a visual analysis toolkit for text generation tasks](https://www.aclweb.org/anthology/D19-3043.pdf)
 
-[OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**](https://www.aclweb.org/anthology/D19-3029.pdf)
+### Datasets
 
-### Annotation tools
+[VerbAtlas a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
 
-- [A Biomedical Free Text Annotation Interface withActive Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
-- [Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
-- [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
+[Automatic Argument Quality Assessment - New Datasets and Methods](https://www.aclweb.org/anthology/D19-1564.pdf)
 
 # Papers
 
