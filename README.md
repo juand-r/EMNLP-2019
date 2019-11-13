@@ -142,6 +142,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Discourse
 
+[The Role of Pragmatic and Discourse Contextin Determining Argument Impact](https://www.aclweb.org/anthology/D19-1568.pdf)
+
 [Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains](https://www.aclweb.org/anthology/D19-1586.pdf)
 
 [Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs]
@@ -276,7 +278,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 # NLG Tasks
 
-[https://www.aclweb.org/anthology/D19-1536.pdf](https://www.aclweb.org/anthology/D19-1536.pdf)
+[Text2Math: End-to-end Parsing Text into Math Expressions](https://www.aclweb.org/anthology/D19-1536.pdf)
 
 ## Summarization and Simplification
 
@@ -467,6 +469,12 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Commonsense Reasoning
 
+:boom: [Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs](https://www.aclweb.org/anthology/D19-1631.pdf)
+
+[QUARTZ: An Open-Domain Dataset of Qualitative Relationship Questions](https://www.aclweb.org/anthology/D19-1608.pdf)
+
+[Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://www.aclweb.org/anthology/D19-1609.pdf)
+
 [WIQA: A dataset for `What if...` reasoning over procedural text](https://www.aclweb.org/anthology/D19-1629.pdf)
 
 [Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset forCommonsense Reasoning over Adjectives and Objects](https://www.aclweb.org/anthology/D19-1625.pdf)
@@ -499,6 +507,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 [On the Importance of Delexicalization for Fact Verification](https://www.aclweb.org/anthology/D19-1340.pdf)
 
 ## Information Retrieval 
+
+[Bridging the Gap Between Relevance Matching and Semantic Matchingfor Short Text Similarity Modeling](https://www.aclweb.org/anthology/D19-1540.pdf)
 
 [Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval](https://www.aclweb.org/anthology/D19-1352.pdf)
 
