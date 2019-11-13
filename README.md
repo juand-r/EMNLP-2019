@@ -276,6 +276,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 # NLG Tasks
 
+[https://www.aclweb.org/anthology/D19-1536.pdf](https://www.aclweb.org/anthology/D19-1536.pdf)
+
 ## Summarization and Simplification
 
 [Deep Reinforcement Learning with Distributional Semantic Rewardsfor Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
