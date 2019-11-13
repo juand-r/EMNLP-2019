@@ -8,6 +8,9 @@ Full list of papers:
 - ACL Anthology: https://www.aclweb.org/anthology/events/emnlp-2019
 - Computer-selected one-sentence "highlights" of all accepted papers: https://www.paperdigest.org/2019/11/emnlp-2019-highlights/
 
+
+NOTES on ACL 2018: https://shuaitang.github.io/files/acl_2018_notes.html#pf3
+
 **CONTENTS**
 
 - [Tutorials](#tutorials)
