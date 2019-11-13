@@ -217,6 +217,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ### Domain Adaptation
 
+:boom: [**Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling**](https://www.aclweb.org/anthology/D19-1433.pdf)
+
 [Shallow Domain Adaptive Embeddings for Sentiment Analysis](https://www.aclweb.org/anthology/D19-1557.pdf)
 
 [Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification](https://www.aclweb.org/anthology/D19-1558.pdf)
@@ -425,7 +427,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## WSD
 
-[Improved Word Sense DisambiguationUsing Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
+[Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
 
 ## Keyphrase Extraction
 
@@ -439,7 +441,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Fake News
 
-[Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection]
+[Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection](https://www.aclweb.org/anthology/D19-1471.pdf)
 
 ## Relation extraction and Knowledge graphs
 
@@ -487,15 +489,15 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://www.aclweb.org/anthology/D19-1609.pdf)
 
-[WIQA: A dataset for `What if...` reasoning over procedural text](https://www.aclweb.org/anthology/D19-1629.pdf)
+[WIQA: A dataset for 'What if...' reasoning over procedural text](https://www.aclweb.org/anthology/D19-1629.pdf)
 
-[Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset forCommonsense Reasoning over Adjectives and Objects](https://www.aclweb.org/anthology/D19-1625.pdf)
+[Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset for Commonsense Reasoning over Adjectives and Objects](https://www.aclweb.org/anthology/D19-1625.pdf)
 
 [Posing Fair Generalization Tasks for Natural Language Inference](https://www.aclweb.org/anthology/D19-1456.pdf)
 
 [Self-Assembling Modular Networks for **Interpretable** Multi-Hop Reasoning](https://www.aclweb.org/anthology/D19-1455.pdf)
 
-[“Going on a vacation”takes longer than“Going for a walk”:A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf)
+["Going on a vacation" takes longer than "Going for a walk": A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf)
 
 [Answering questions by learning to rank -Learning to rank by answering questions](https://www.aclweb.org/anthology/D19-1256.pdf)
 
@@ -520,7 +522,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Information Retrieval 
 
-[Bridging the Gap Between Relevance Matching and Semantic Matchingfor Short Text Similarity Modeling](https://www.aclweb.org/anthology/D19-1540.pdf)
+[Bridging the Gap Between Relevance Matching and Semantic Matching for Short Text Similarity Modeling](https://www.aclweb.org/anthology/D19-1540.pdf)
 
 [Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval](https://www.aclweb.org/anthology/D19-1352.pdf)
 
@@ -536,11 +538,11 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks](https://www.aclweb.org/anthology/D19-1502.pdf)
 
-[An Attentive Fine-Grained Entity Typing Model with Latent Type Representation]
+[An Attentive Fine-Grained Entity Typing Model with Latent Type Representation](https://www.aclweb.org/anthology/D19-1641.pdf)
 
-:boom: [ner and pos when nothing is capitalized]
+:boom: [ner and pos when nothing is capitalized](https://www.aclweb.org/anthology/D19-1650.pdf)
 
-[Hierarchically-Refined Label Attention Network for Sequence Labeling]
+[Hierarchically-Refined Label Attention Network for Sequence Labeling](https://www.aclweb.org/anthology/D19-1422.pdf)
 
 [Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels](https://www.aclweb.org/anthology/D19-1362.pdf)
 
@@ -555,9 +557,9 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Coreference
 
-[WikiCREM: A Large Unsupervised Corpus for Coreference Resolution]
+[WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://www.aclweb.org/anthology/D19-1439.pdf)
 
-[BERT for Coreference Resolution: Baselines and Analysis]
+[BERT for Coreference Resolution: Baselines and Analysis](https://www.aclweb.org/anthology/D19-1588.pdf)
 
 ## Text classification
 
@@ -598,14 +600,14 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 [Context-Aware Conversation Thread Detection in Multi-Party Chat](https://www.aclweb.org/anthology/D19-1682.pdf)
 
-[A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature]
+[A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature](https://www.aclweb.org/anthology/D19-1524.pdf)
 
 
 ## Propaganda, Persuasion
 
-[Fine-Grained Analysis of Propaganda in News Article]
+[Fine-Grained Analysis of Propaganda in News Article](https://www.aclweb.org/anthology/D19-1565.pdf)
 
-[Revealing and Predicting Online Persuasion Strategy with Elementary Units]
+[Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
 
 ## Social Media
 
@@ -619,7 +621,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 # Organize these later:
 
-[Learning Only from Relevant Keywords and Unlabeled Documents]
+[Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
 
 [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
 
@@ -641,32 +643,27 @@ Neural Gaussian Copula for Variational Autoencoder
 
 Patient Knowledge Distillation for BERT Model Compression
 
-Topics to Avoid: Demoting Latent Confounds in Text Classification. Sachin Kumar, Shuly Wintner, Noah A. Smith and Yulia Tsvetkov  
+Topics to Avoid: Demoting Latent Confounds in Text Classification
 
-Learning to Ask for Conversational Machine Learning. Shashank Srivastava, Igor Labutov and Tom Mitchell  
+Learning to Ask for Conversational Machine Learning
 
 Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training
 
-:boom: Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs. Angela Fan, Claire Gardent, Chloé Braud and Antoine Bordes
+:boom: Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 
-Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation. Huiyun Yang, Shujian Huang, XIN-YU DAI and Jiajun CHEN  
+Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation
 
-Exploiting Monolingual Data at Scale for Neural Machine Translation. Lijun Wu, Yiren Wang, Yingce Xia, Tao QIN, Jianhuang Lai and Tie-Yan Liu  
+Exploiting Monolingual Data at Scale for Neural Machine Translation
 
-:boom: Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs. Mingyang Chen, Wen Zhang, Wei Zhang, Qiang Chen and Huajun Chen  
+:boom: Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs
 
 Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori Hashimoto and Percy Liang  
 
-**Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling**. Xiaochuang Han and Jacob Eisenstein  
+Parallel Iterative Edit Models for Local Sequence Transduction
 
-Learning Latent Parameters without Human Response Patterns: Item Response Theory with Artificial Crowds. John P. Lalor, Hao Wu and Hong Yu  
+ARAML: A Stable Adversarial Training Framework for Text Generation
 
-Parallel Iterative Edit Models for Local Sequence Transduction. Abhijeet Awasthi, Sunita Sarawagi, Rasna Goyal, Sabyasachi Ghosh and Vihari Piratla  
+FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow
 
-ARAML: A Stable Adversarial Training Framework for Text Generation. Pei Ke, Fei Huang, Minlie Huang and xiaoyan zhu  
+Compositional Generalization for Primitive Substitutions  
 
-FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow. Xuezhe Ma, Chunting Zhou, Xian Li, Graham Neubig and Eduard Hovy  
-
-Compositional Generalization for Primitive Substitutions. Yuanpeng Li, Liang Zhao, Jianyu Wang and Joel Hestness  
-
-WikiCREM: A Large Unsupervised Corpus for Coreference Resolution. Vid Kocijan, Oana-Maria Camburu, Ana-Maria Cretu, Yordan Yordanov, Phil Blunsom and Thomas Lukasiewicz  
