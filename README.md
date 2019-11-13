@@ -559,6 +559,8 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Text classification
 
+:boom: [**Label Embedding using Hierarchical Structure of Labels** for Twitter Classification](https://www.aclweb.org/anthology/D19-1660.pdf)
+
 [Heterogeneous Graph Attention Networks for Semi-supervisedShort Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
 
 [Rethinking Attribute Representation and Injectionfor Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
