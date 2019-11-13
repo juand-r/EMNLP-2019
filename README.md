@@ -141,12 +141,17 @@ See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard spli
 
 ## Language learning agents
  
-- [Emergent Linguistic Phenomena in Multi-Agent Communication Games](https://www.aclweb.org/anthology/D19-1384.pdf)
-- [Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
-- [Learning to request guidance in emergent language (LANTERN)](https://www.aclweb.org/anthology/D19-6407.pdf)
-- [EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
-- [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
-- [Interactive Language Learning by Question Answering](https://www.aclweb.org/anthology/D19-1280.pdf)
+[Emergent Linguistic Phenomena in Multi-Agent Communication Games](https://www.aclweb.org/anthology/D19-1384.pdf)
+
+[Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
+
+[Learning to request guidance in emergent language (LANTERN)](https://www.aclweb.org/anthology/D19-6407.pdf)
+
+[EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
+
+[Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
+
+[Interactive Language Learning by Question Answering](https://www.aclweb.org/anthology/D19-1280.pdf)
 
 Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind through Question Answering" ( https://www.aclweb.org/anthology/D19-1598.pdf )
 
