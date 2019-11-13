@@ -330,6 +330,10 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 
 ## Text generation and GPT2
 
+[Learning Rhyming Constraints using Structured Adversaries](https://www.aclweb.org/anthology/D19-1621.pdf)
+
+[An Empirical Comparison on Imitation Learning and ReinforcementLearning for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1619.pdf)
+
 :boom: [Generating Natural Anagrams:Towards Language Generation Under Hard Combinatorial Constraints](https://www.aclweb.org/anthology/D19-1674.pdf)
 
 [Encode, Tag, Realize: High-Precision Text Editing](https://www.aclweb.org/anthology/D19-1510.pdf)
