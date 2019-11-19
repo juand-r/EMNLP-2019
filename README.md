@@ -55,9 +55,10 @@ NOTES on ACL 2018: https://shuaitang.github.io/files/acl_2018_notes.html#pf3
 
 All EMNLP 2019 tutorials: https://www.emnlp-ijcnlp2019.org/program/tutorials/
 
-- Graph-based Deep Learning in Natural Language
-Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "Releases".
-- Semantic Specialization of Distributional Word Vectors
+A few that look particularly interesting:
+
+- Graph-based Deep Learning in Natural Language Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "Releases".
+- Semantic Specialization of Distributional Word Vectors (pdf of slides in this repo).
 - Discreteness  in  Neural Natural Language Processing. Slides:
   - https://lili-mou.github.io/resource/emnlp19-1.pdf
   - https://lili-mou.github.io/resource/emnlp19-2.pdf  
