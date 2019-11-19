@@ -121,13 +121,16 @@ A few that look particularly interesting:
 
 ## Methodological
 
-See also: Gorman, Kyle, and Steven Bedrick. "We need to talk about standard splits." ACL 2019.
+**See also:** Gorman, Kyle, and Steven Bedrick. "We need to talk about standard splits." ACL 2019.
 
 [Polly Want a Cracker: Analyzing Performance of Parroting on Paraphrase Generation Datasets](https://www.aclweb.org/anthology/D19-1611.pdf)
 
 [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224.pdf)
 
 [Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set](https://www.aclweb.org/anthology/D19-1329.pdf)
+
+[Are We Modeling the Task or the Annotator? An Investigation ofAnnotator Bias in Natural Language Understanding Datasets](https://www.aclweb.org/anthology/D19-1107.pdf)
+
 
 ## Analysis
 
