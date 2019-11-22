@@ -476,6 +476,7 @@ Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind
 [A Non-commutative Bilinear Model for Answering Path Queries in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1246.pdf)
 
 :boom: [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf)
+> See also: A Simple Method for Commonsense Reasoning (https://arxiv.org/abs/1806.02847)
 
 [Commonsense Knowledge Mining from Pretrained Models](https://www.aclweb.org/anthology/D19-1109.pdf)
 
