@@ -131,8 +131,6 @@ A few that look particularly interesting:
 > - confirm previous results that Logistic Regression does better using less than 10 hyperparameter search trials; for over 10 trials CNNs do better. Also LR has lower variance over all budgets.
 > - investigate whether the conclusion of Peters et al. (2019) "To tune or not to tune", that it is better to use fixed ELMo embeddings in a task-specific network than to fine-tune ELMo embeddings during training, depends on the computational budget.  For under 2 hours of training time, GloVE is best. For budgets up to 1 day, fixing the ELMo embeddings is best. For larger budgets, fine-tuning outperforms feature extraction.
 
-[Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set](https://www.aclweb.org/anthology/D19-1329.pdf)
-
 [Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets](https://www.aclweb.org/anthology/D19-1107.pdf)
 > This paper investigates whether models can pick up on annotator artifacts. Yes, they can. On 3 NLP datasets (MNLI, OpenBookQA and CommonsenseQA):
 > - using annotator identifiers as features improves performance
