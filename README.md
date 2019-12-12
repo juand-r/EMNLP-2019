@@ -134,7 +134,7 @@ A few that look particularly interesting:
 [Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set](https://www.aclweb.org/anthology/D19-1329.pdf)
 
 [Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets](https://www.aclweb.org/anthology/D19-1107.pdf)
-
+> This paper investigates whether models can pick up on annotator artifacts. Yes, they can. On 3 NLP datasets (), (1) using annotator identifiers as features improves performance and (2) models often do not generalize well to examples from different annotators (not in training).  Suggestions: annotator bias should be monitored during dataset creation, and the *"test set annotators should be disjoint from the training set annotators."*
 
 ## Analysis
 
