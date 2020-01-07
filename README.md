@@ -93,19 +93,23 @@ A few that look particularly interesting:
 
 ### Development and Evaluation Tools
 
-:heavy_minus_sign: [Joey NMT: A Minimalist **NMT** Toolkit for Novices](https://www.aclweb.org/anthology/D19-3019.pdf)
+:boom: [Joey NMT: A Minimalist **NMT** Toolkit for Novices](https://www.aclweb.org/anthology/D19-3019.pdf)
 > Code: https://joeynmt.readthedocs.io/en/latest/ Demo: https://www.youtube.com/watch?v=PzWRWSIwSYc&feature=youtu.be
 
 :heavy_minus_sign: [OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**](https://www.aclweb.org/anthology/D19-3029.pdf)
 > Code: https://github.com/thunlp/OpenNRE Demo: http://opennre.thunlp.ai
 
 :heavy_minus_sign: [NeuronBlocks: Building Your NLP DNN Models Like Playing Lego](https://www.aclweb.org/anthology/D19-3028.pdf)
+> Code: https://github.com/Microsoft/NeuronBlocks Demo: https://youtu.be/x6cOpVSZcdo
 
 :heavy_minus_sign: [UER: An Open-Source Toolkit for Pre-training Models](https://www.aclweb.org/anthology/D19-3041.pdf)
+> Code: https://github.com/dbiir/UER-py **NOTE:** it appears the available models and datasets are only for Chinese.
 
 :heavy_minus_sign: [CFO: A Framework for Building Production NLP Systems](https://www.aclweb.org/anthology/D19-3006.pdf)
+> Code: https://github.com/IBM/flow-compiler Demo: https://www.youtube.com/watch?v=6LOJm5ZcGCs&feature=youtu.be
 
 :heavy_minus_sign: [SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval](https://www.aclweb.org/anthology/D19-3034.pdf)
+
 
 ### Visualization Tools
 
