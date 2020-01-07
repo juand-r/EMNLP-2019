@@ -166,7 +166,7 @@ A few that look particularly interesting:
 > A qualitative and quantitative analysis of the information encoded by the the BERT heads. Conclusion: the model is overparametrized (there is a limited set of attention patterns repeated across different heads). In addition, manually disabling attention in some heads leads to a performance increase. This paper also explores how the self-attention weights change when fine-tuning BERT. **Related work**:
 > - Paul Michel, Omer Levy, and Graham Neubig. 2019. "Are  sixteen  heads  really  better  than  one?" (some layers can be reduced to a single head without degrading performance much).
 > - Frankle and Carbin. 2018. "The lottery ticket hypothesis: Finding sparse, trainable neural networks"
-> - Adhikari et al., 2019.  "Rethinking  complex  neural  network  architectures  for  document  classifica-tion" (a properly tuned BiLSTM without attention is better or competitive to more complicated architectures on document classification).
+> - Adhikari et al., 2019.  "Rethinking  complex  neural  network  architectures  for  document  classification" (a properly tuned BiLSTM without attention is better or competitive to more complicated architectures on document classification).
 
 :heavy_minus_sign: [The Bottom-up Evolution of Representations in the Transformer:A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
 > blog post: https://lena-voita.github.io/posts/emnlp19_evolution.html
