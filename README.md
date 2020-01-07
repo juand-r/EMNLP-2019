@@ -151,9 +151,7 @@ A few that look particularly interesting:
 :heavy_minus_sign: [Quantity doesn't buy quality **syntax** with **neural language models**](https://www.aclweb.org/anthology/D19-1592.pdf)
 > Can increasing the size of the neural network or the amount of training data improve LMs' syntactic ability? Tests on RNNs, GPT and BERT shows diminishing returns in both network capacity and corpus size, and the training corpus would need to be unrealistically large in order to reach human-level performance. **Conclusion:** "reliable and data-efficient learning of syntax is likely to require external supervision signals or a stronger inductive bias than that provided by RNNs and Transformers".
 
-> Details: GPT, BERT Base, and 125 two-layer LSTM language models were trained (using tied input and output embeddings; see Press and Wolf, "Using the Output Embedding to Improve Language Model" and Inan, Khosravi and Socher, ICLR 2017), i.e., on 5 corpus sizes (2M, 10M, 20M, 40M and 80M words), 5 layer sizes (100, 200, 400, 800 or 1600 units in each hidden layer) and 5 corpus subsets of the WikiText-103 corpus. Models were tested on constructions from Marvin and Linzen (2018), which include:
-> - local number agreement. E.g., "the author has/\*have books"
-> - attractors (agreement across subject relative clauses). E.g., =
+> Details: GPT, BERT Base, and 125 two-layer LSTM language models were trained (using tied input and output embeddings; see Press and Wolf, "Using the Output Embedding to Improve Language Model" and Inan, Khosravi and Socher, ICLR 2017), i.e., on 5 corpus sizes (2M, 10M, 20M, 40M and 80M words), 5 layer sizes (100, 200, 400, 800 or 1600 units in each hidden layer) and 5 corpus subsets of the WikiText-103 corpus. Models were tested on constructions from Marvin and Linzen (2018) (e.g., "the author has/\*have books", "the author that likes the guards has/\*have books", "the authors laugh and have/\*has books","The manager that the architects like doubted himself/\*themselves").
 
 :heavy_minus_sign: [What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons](https://www.aclweb.org/anthology/D19-1591.pdf)
 
