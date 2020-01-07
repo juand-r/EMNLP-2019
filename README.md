@@ -83,6 +83,7 @@ A few that look particularly interesting:
 ### Annotation tools
 
 [A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
+> A flexible interactive web interface for NER and linking using active learning. Code: https://github.com/CogStack/MedCATtrainer  Demo: https://www.youtube.com/watch?v=lM914DQjvSo
 
 [Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
 
@@ -102,7 +103,7 @@ A few that look particularly interesting:
 
 [SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval](https://www.aclweb.org/anthology/D19-3034.pdf)
 
-## Visualization Tools
+### Visualization Tools
 
 [Multilingual, Multi-scale and Multi-layer Visualization of Sequence-based Intermediate Representations](https://www.aclweb.org/anthology/D19-3026.pdf)
 > Code: https://github.com/elorala/interlingua-visualization ; Demo: https://upc-nmt-vis.herokuapp.com/
