@@ -159,10 +159,11 @@ A few that look particularly interesting:
 > - Karpathy et al., Visualizing and understanding recurrent networks, arxiv (2015): find individual neurons in LSTM language models that encode specific information such as sequence length.
 > - Radford et al., Learning to generate reviews and discovering sentiment (2017): find that some neurons encode sentiment information.
 
-
 :heavy_minus_sign: [Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel](https://www.aclweb.org/anthology/D19-1443.pdf)
+> Introduces a formulation of the attention mechanism in Transformers using kernels, allowing to unify previous variants of attention and create new ones which are competitive to SOTA models on machine translation and sequence prediction (language modeling).
 
 :heavy_minus_sign: [Visualizing and Understanding the Effectiveness of BERT](https://www.aclweb.org/anthology/D19-1424.pdf)
+
 
 :heavy_minus_sign: [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445.pdf)
 
