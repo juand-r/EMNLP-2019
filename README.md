@@ -148,7 +148,8 @@ A few that look particularly interesting:
 
 ## Analysis
 
-:heavy_minus_sign: [Quantity doesn't buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)
+:heavy_minus_sign: [Quantity doesn't buy quality **syntax** with **neural language models**](https://www.aclweb.org/anthology/D19-1592.pdf)
+> Can increasing the size of the neural network or the amount of training data improve LMs' syntactic ability? Tests on RNNs, GPT and BERT shows diminishing returns in both network capacity and corpus size, and the training corpus would need to be unrealistically large in order to reach human-level performance. Conclusion: "reliable and data-efficient learning of syntax is likely to require external supervision signals or a stronger inductive bias than that provided by RNNs and Transformers".
 
 :heavy_minus_sign: [What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons](https://www.aclweb.org/anthology/D19-1591.pdf)
 
