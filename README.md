@@ -82,28 +82,28 @@ A few that look particularly interesting:
 
 ### Annotation tools
 
-:page_facing_up: [A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
+:heavy_minus_sign: [A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
 > A flexible interactive web interface for NER and linking using active learning. Code: https://github.com/CogStack/MedCATtrainer  Demo: https://www.youtube.com/watch?v=lM914DQjvSo
 
-:page_facing_up: [Redcoat: A **Collaborative** Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
+:heavy_minus_sign: [Redcoat: A **Collaborative** Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
 > Code: https://github.com/Michael-Stewart-Webdev/redcoat ; Demo: https://www.youtube.com/watch?v=igtR8Sfi8oo&feature=youtu.be
 
-:eight_pointed_black_star: [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
+:heavy_minus_sign: [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
 > Code: https://github.com/OSU-slatelab/HARE/
 
 ### Development and Evaluation Tools
 
-[Joey NMT: A Minimalist **NMT** Toolkit for Novices](https://www.aclweb.org/anthology/D19-3019.pdf)
+:heavy_minus_sign: [Joey NMT: A Minimalist **NMT** Toolkit for Novices](https://www.aclweb.org/anthology/D19-3019.pdf)
 
-[OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**](https://www.aclweb.org/anthology/D19-3029.pdf)
+:heavy_minus_sign: [OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**](https://www.aclweb.org/anthology/D19-3029.pdf)
 
-[NeuronBlocks: Building Your NLP DNN Models Like Playing Lego](https://www.aclweb.org/anthology/D19-3028.pdf)
+:heavy_minus_sign: [NeuronBlocks: Building Your NLP DNN Models Like Playing Lego](https://www.aclweb.org/anthology/D19-3028.pdf)
 
-[UER: An Open-Source Toolkit for Pre-training Models](https://www.aclweb.org/anthology/D19-3041.pdf)
+:heavy_minus_sign: [UER: An Open-Source Toolkit for Pre-training Models](https://www.aclweb.org/anthology/D19-3041.pdf)
 
-[CFO: A Framework for Building Production NLP Systems](https://www.aclweb.org/anthology/D19-3006.pdf)
+:heavy_minus_sign: [CFO: A Framework for Building Production NLP Systems](https://www.aclweb.org/anthology/D19-3006.pdf)
 
-[SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval](https://www.aclweb.org/anthology/D19-3034.pdf)
+:heavy_minus_sign: [SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval](https://www.aclweb.org/anthology/D19-3034.pdf)
 
 ### Visualization Tools
 
@@ -142,17 +142,17 @@ Suggestions: annotator bias should be monitored during dataset creation, and the
 
 ## Analysis
 
-[Quantity doesn't buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)
+:heavy_minus_sign: [Quantity doesn't buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)
 
-[What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons](https://www.aclweb.org/anthology/D19-1591.pdf)
+:heavy_minus_sign: [What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons](https://www.aclweb.org/anthology/D19-1591.pdf)
 
-[Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel](https://www.aclweb.org/anthology/D19-1443.pdf)
+:heavy_minus_sign: [Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel](https://www.aclweb.org/anthology/D19-1443.pdf)
 
-[Visualizing and Understanding the Effectiveness of BERT](https://www.aclweb.org/anthology/D19-1424.pdf)
+:heavy_minus_sign: [Visualizing and Understanding the Effectiveness of BERT](https://www.aclweb.org/anthology/D19-1424.pdf)
 
-[Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445.pdf)
+:heavy_minus_sign: [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445.pdf)
 
-[The Bottom-up Evolution of Representations in the Transformer:A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
+:heavy_minus_sign: [The Bottom-up Evolution of Representations in the Transformer:A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
 > blog post: https://lena-voita.github.io/posts/emnlp19_evolution.html
 
 ## Language learning agents
