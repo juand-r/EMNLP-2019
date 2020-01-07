@@ -107,16 +107,16 @@ A few that look particularly interesting:
 
 ### Visualization Tools
 
-[Multilingual, Multi-scale and Multi-layer Visualization of Sequence-based Intermediate Representations](https://www.aclweb.org/anthology/D19-3026.pdf)
+:large_blue_diamond: [Multilingual, Multi-scale and Multi-layer Visualization of Sequence-based Intermediate Representations](https://www.aclweb.org/anthology/D19-3026.pdf)
 > Code: https://github.com/elorala/interlingua-visualization ; Demo: https://upc-nmt-vis.herokuapp.com/
 
-[VizSeq: a visual analysis toolkit for text generation tasks](https://www.aclweb.org/anthology/D19-3043.pdf)
+:large_blue_diamond: [VizSeq: a visual analysis toolkit for text generation tasks](https://www.aclweb.org/anthology/D19-3043.pdf)
 
 ### Datasets
 
-[VerbAtlas a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
+:large_blue_diamond: [VerbAtlas a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
 
-[Automatic Argument Quality Assessment - New Datasets and Methods](https://www.aclweb.org/anthology/D19-1564.pdf)
+:large_blue_diamond: [Automatic Argument Quality Assessment - New Datasets and Methods](https://www.aclweb.org/anthology/D19-1564.pdf)
 
 # Papers
 
@@ -126,7 +126,7 @@ A few that look particularly interesting:
 
 **See also:** Gorman, Kyle, and Steven Bedrick. "We need to talk about standard splits." ACL 2019.
 
-:red_circle: [Polly Want a Cracker: Analyzing Performance of Parroting on **Paraphrase Generation** Datasets](https://www.aclweb.org/anthology/D19-1611.pdf)
+:large_blue_diamond: [Polly Want a Cracker: Analyzing Performance of Parroting on **Paraphrase Generation** Datasets](https://www.aclweb.org/anthology/D19-1611.pdf)
 > Notes an issue with standard metrics (BLEU, METEOR, TER) for paraphrase generation: parroting input sentences surpasses SOTA models. Datasets used: MSCOCO (from image captions), Twitter, Quora.  They do not explore whether this is due to SOTA models (mostly) parroting, or due to BLUE and METEOR being inappropriate for evaluating paraphrase generation. Alternative way to evaluate: effectiveness of paraphrasing on data augmentation (Iyyer et al., NAACL 2018)
 
 :boom: [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224.pdf)
@@ -134,7 +134,7 @@ A few that look particularly interesting:
 > - confirm previous results that Logistic Regression does better using less than 10 hyperparameter search trials; for over 10 trials CNNs do better. Also LR has lower variance over all budgets.
 > - investigate whether the conclusion of Peters et al. (2019) "To tune or not to tune", that it is better to use fixed ELMo embeddings in a task-specific network than to fine-tune ELMo embeddings during training, depends on the computational budget.  For under 2 hours of training time, GloVE is best. For budgets up to 1 day, fixing the ELMo embeddings is best. For larger budgets, fine-tuning outperforms feature extraction.
 
-[Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets](https://www.aclweb.org/anthology/D19-1107.pdf)
+:large_blue_diamond: [Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets](https://www.aclweb.org/anthology/D19-1107.pdf)
 > This paper investigates whether models can pick up on annotator artifacts. Yes, they can. On 3 NLP datasets (MNLI, OpenBookQA and CommonsenseQA):
 > - using annotator identifiers as features improves performance
 > - models often do not generalize well to examples from different annotators (not in training).
