@@ -94,8 +94,10 @@ A few that look particularly interesting:
 ### Development and Evaluation Tools
 
 :heavy_minus_sign: [Joey NMT: A Minimalist **NMT** Toolkit for Novices](https://www.aclweb.org/anthology/D19-3019.pdf)
+> Code: https://joeynmt.readthedocs.io/en/latest/ Demo: https://www.youtube.com/watch?v=PzWRWSIwSYc&feature=youtu.be
 
 :heavy_minus_sign: [OpenNRE: An Open and Extensible Toolkit for **Neural Relation Extraction**](https://www.aclweb.org/anthology/D19-3029.pdf)
+> Code: https://github.com/thunlp/OpenNRE Demo: http://opennre.thunlp.ai
 
 :heavy_minus_sign: [NeuronBlocks: Building Your NLP DNN Models Like Playing Lego](https://www.aclweb.org/anthology/D19-3028.pdf)
 
