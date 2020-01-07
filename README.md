@@ -57,9 +57,9 @@ All EMNLP 2019 tutorials: https://www.emnlp-ijcnlp2019.org/program/tutorials/
 
 A few that look particularly interesting:
 
-- Graph-based Deep Learning in Natural Language Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "Releases".
-- Semantic Specialization of Distributional Word Vectors (pdf of slides in this repo).
-- Discreteness  in  Neural Natural Language Processing. Slides:
+- :memo: Graph-based Deep Learning in Natural Language Processing (https://github.com/svjan5/GNNs-for-NLP) NOTE: slides available in "Releases".
+- :memo: Semantic Specialization of Distributional Word Vectors (pdf of slides in this repo).
+- :memo: Discreteness  in  Neural Natural Language Processing. Slides:
   - https://lili-mou.github.io/resource/emnlp19-1.pdf
   - https://lili-mou.github.io/resource/emnlp19-2.pdf  
   - https://lili-mou.github.io/resource/emnlp19-3.pdf
