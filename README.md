@@ -1,6 +1,6 @@
 # EMNLP 2019
 
-This contains a list of papers from EMNLP 2019 that look interesting (what is missing: lots of **cross-lingual papers**, multi-modal papers, lots of MT papers, dialogue, question answering, intent classification, sentiment, emotion, aspect-level sentiment,stance detection, argument mining, SQL generation, code generation, question generation, and work on code-switching, rumors, sarcasm, humor, bias and hate speech...).
+This contains a list of papers from EMNLP 2019 that look interesting (what is missing: lots of cross-lingual papers, multi-modal papers, and papers on machine translation, dialogue, question answering, intent classification, sentiment, emotion, aspect-level sentiment, stance detection, argument mining, SQL generation, code generation, question generation, code-switching, rumors, sarcasm, humor, bias and hate speech...).
 
 Full list of papers:
 
@@ -85,9 +85,11 @@ A few that look particularly interesting:
 [A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
 > A flexible interactive web interface for NER and linking using active learning. Code: https://github.com/CogStack/MedCATtrainer  Demo: https://www.youtube.com/watch?v=lM914DQjvSo
 
-[Redcoat: A Collaborative Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
+[Redcoat: A **Collaborative** Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
+> Code: https://github.com/Michael-Stewart-Webdev/redcoat ; Demo: https://www.youtube.com/watch?v=igtR8Sfi8oo&feature=youtu.be
 
 [HARE: a Flexible Highlighting Annotator for Ranking and Exploration](https://www.aclweb.org/anthology/D19-3015.pdf)
+> Code: https://github.com/OSU-slatelab/HARE/
 
 ### Development and Evaluation Tools
 
