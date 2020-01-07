@@ -126,8 +126,6 @@ A few that look particularly interesting:
 :heavy_minus_sign: [Automatic Argument Quality Assessment - New Datasets and Methods](https://www.aclweb.org/anthology/D19-1564.pdf)
 > 6.3k arguments, annotated for "quality". Data available at https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument%20Quality
 
-# Papers
-
 # Topics
 
 ## Methodological
