@@ -117,12 +117,14 @@ A few that look particularly interesting:
 > Code: https://github.com/elorala/interlingua-visualization ; Demo: https://upc-nmt-vis.herokuapp.com/
 
 :heavy_minus_sign: [VizSeq: a visual analysis toolkit for text generation tasks](https://www.aclweb.org/anthology/D19-3043.pdf)
+> Code: https://github.com/facebookresearch/vizseq
 
 ### Datasets
 
-:heavy_minus_sign: [VerbAtlas a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
+:heavy_minus_sign: [VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
 
 :heavy_minus_sign: [Automatic Argument Quality Assessment - New Datasets and Methods](https://www.aclweb.org/anthology/D19-1564.pdf)
+> 6.3k arguments, annotated for "quality". Data available at https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument%20Quality
 
 # Papers
 
