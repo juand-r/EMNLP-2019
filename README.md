@@ -2,13 +2,13 @@
 
 This contains a list of papers from EMNLP 2019 that look interesting (what is missing: lots of cross-lingual papers, multi-modal papers, and papers on machine translation, dialogue, question answering, intent classification, sentiment, emotion, aspect-level sentiment, stance detection, argument mining, SQL generation, code generation, question generation, code-switching, rumors, sarcasm, humor, bias and hate speech...).
 
-Full list of papers:
+**Full list of papers:**
 
 - Schedule: https://www.emnlp-ijcnlp2019.org/program/ischedule/
 - ACL Anthology: https://www.aclweb.org/anthology/events/emnlp-2019
 - Computer-selected one-sentence "highlights" of all accepted papers: https://www.paperdigest.org/2019/11/emnlp-2019-highlights/
 
-Other highlights:
+**Other summaries**:
 
 - Highlights from Naver labs: https://europe.naverlabs.com/blog/emnlp2019-what-we-saw-and-liked
 - Highlights - focused on Knowledge Graphs: https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-i-e4e69fd7957c and https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-ii-56f5b03ad9ba 
