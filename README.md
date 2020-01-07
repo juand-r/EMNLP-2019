@@ -168,8 +168,8 @@ A few that look particularly interesting:
 > - Frankle and Carbin. 2018. "The lottery ticket hypothesis: Finding sparse, trainable neural networks"
 > - Adhikari et al., 2019.  "Rethinking  complex  neural  network  architectures  for  document  classification" (a properly tuned BiLSTM without attention is better or competitive to more complicated architectures on document classification).
 
-:heavy_minus_sign: [The Bottom-up Evolution of Representations in the Transformer:A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
-> blog post: https://lena-voita.github.io/posts/emnlp19_evolution.html
+:heavy_minus_sign: [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
+> Blog post: https://lena-voita.github.io/posts/emnlp19_evolution.html
 
 ## Language learning agents
  
