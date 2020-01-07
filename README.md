@@ -126,7 +126,7 @@ A few that look particularly interesting:
 
 **See also:** Gorman, Kyle, and Steven Bedrick. "We need to talk about standard splits." ACL 2019.
 
-[Polly Want a Cracker: Analyzing Performance of Parroting on **Paraphrase Generation** Datasets](https://www.aclweb.org/anthology/D19-1611.pdf)
+:red_circle: [Polly Want a Cracker: Analyzing Performance of Parroting on **Paraphrase Generation** Datasets](https://www.aclweb.org/anthology/D19-1611.pdf)
 > Notes an issue with standard metrics (BLEU, METEOR, TER) for paraphrase generation: parroting input sentences surpasses SOTA models. Datasets used: MSCOCO (from image captions), Twitter, Quora.  They do not explore whether this is due to SOTA models (mostly) parroting, or due to BLUE and METEOR being inappropriate for evaluating paraphrase generation. Alternative way to evaluate: effectiveness of paraphrasing on data augmentation (Iyyer et al., NAACL 2018)
 
 :boom: [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224.pdf)
