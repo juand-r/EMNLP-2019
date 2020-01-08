@@ -1,6 +1,6 @@
 # EMNLP 2019
 
-This contains a list of papers from EMNLP 2019 that look interesting (what is missing: lots of cross-lingual papers, multi-modal papers, and papers on machine translation, dialogue, question answering, intent classification, sentiment, emotion, aspect-level sentiment, stance detection, argument mining, SQL generation, code generation, question generation, code-switching, rumors, sarcasm, humor, bias and hate speech...).
+This contains summaries for a selection of papers from EMNLP 2019. What is missing: lots of cross-lingual papers, multi-modal papers, and papers on machine translation, dialogue, question answering, intent classification, sentiment, emotion, aspect-level sentiment, stance detection, argument mining, SQL generation, code generation, question generation, code-switching, rumors, sarcasm, humor, bias and hate speech...
 
 **Full list of papers:**
 
