@@ -460,6 +460,8 @@ A few that look particularly interesting:
 > Can generate text from BERT!
 
 [How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**](https://www.aclweb.org/anthology/D19-1006.pdf)
+> See also: Coenen et al., Visualizing and Measuring the Geometry of BERT (2019), (paper: https://arxiv.org/pdf/1906.02715.pdf ; blog post: https://pair-code.github.io/interpretability/bert-tree/).
+
 
 [Big Bidirectional Insertion Representations for Documents](https://www.aclweb.org/anthology/D19-5620.pdf)
 > Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
