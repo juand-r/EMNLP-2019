@@ -218,7 +218,7 @@ A selection:
 
 
 :heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
-> Introduces DiscoEval, a test suite of 7 tasks to evaluate whether sentence embedding representations contain incformation about the sentence's discourse context:
+> Introduces DiscoEval, a test suite of 7 tasks to evaluate whether sentence embedding representations contain information about the sentence's discourse context:
 > - PDTB-E: explicit discourse relation classification
 > - PDTB-I: implicit discourse relation classification
 > - RST-DT: predict labels of nodes in RST discourse trees
