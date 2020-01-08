@@ -67,12 +67,15 @@ A few that look particularly interesting:
 
 # Workshops
 
+All workshops: https://www.emnlp-ijcnlp2019.org/program/workshops/
+A small subset:
+
 - [CoNLL 2019](http://www.conll.org/)
-- [W-NUT 2019](http://noisy-text.github.io/)
-- [LOUHI 2019](http://louhi2019.fbk.eu/)
-- [FEVER 2](http://fever.ai/)
-- [DiscoMT19](https://www.idiap.ch/workshop/DiscoMT)
-- [DeepLo 2019](https://sites.google.com/view/deeplo19/)
+- [W-NUT 2019](http://noisy-text.github.io/) (Noisy User-generated Text)
+- [LOUHI 2019](http://louhi2019.fbk.eu/) (Health Text Mining and Information Analysis)
+- [FEVER 2](http://fever.ai/) (Fact Extraction and VERification)
+- [DiscoMT19](https://www.idiap.ch/workshop/DiscoMT) (Discourse in Machine Translation)
+- [DeepLo 2019](https://sites.google.com/view/deeplo19/) (Deep Learning for Low-Resource NLP)
 - [COIN (Commonsense inference in NLP)](http://www.coli.uni-saarland.de/~mroth/COIN/)
 - [WNGT: 3rd workshop on neural generation and translation](https://sites.google.com/view/wngt19/home)
 - [NewSum (summarization)](https://summarization2019.github.io/)
