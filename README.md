@@ -48,6 +48,8 @@ NOTES on ACL 2018: https://shuaitang.github.io/files/acl_2018_notes.html#pf3
     - [Entities and NER](#entities-and-ner)
     - [Coreference](#coreference)
     - [Text classification](#text-classification)
+    - [Propaganda, Persuasion](#propaganda-persuasion)
+    - [Social Media](#social-media)
     - [Other](#other)
   
   
