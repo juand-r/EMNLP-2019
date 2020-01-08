@@ -69,7 +69,7 @@ A few that look particularly interesting:
 
 All workshops: https://www.emnlp-ijcnlp2019.org/program/workshops/
 
-A small subset:
+A selection:
 
 - [CoNLL 2019](http://www.conll.org/)
 - [W-NUT 2019](http://noisy-text.github.io/) (Noisy User-generated Text)
