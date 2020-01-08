@@ -182,6 +182,7 @@ A selection:
 > A simple multi-agent communication framework suggests that some of the properties of language evolution "can  emerge  from  simple  social  exchanges between perceptually-enabled agents playing communication games". Specific properties observed:
 > - "a symmetric communication proto-col  emerges  without  any  innate,  explicit  mecha-nism built in an agent"
 > - Linguistic contact leads to either convergence to a majority protocol or to a "creole", which is of lower complexity than the original languages.
+>  "a linguistic continuum emerges whereneighboring languages are more mutually in-telligible than farther removed languages".
 
 :heavy_minus_sign: [Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
 
