@@ -204,7 +204,7 @@ A selection:
 > - Comparison relation (explicit) [It’s a great album.][**But** it's probably not their best.]
 > - Comparison relation (implicit) [It’s a great album.][It's probably not their best.] 
 > 
-> The task is much harder (~48% SOTA accuracy, before this paper) in the implicit case (without explicit connectives such as but, because, however, for example, previously, moreover, etc.)
+> The task is much harder (45-48% SOTA accuracy, before this paper) in the implicit case (without explicit connectives such as but, because, however, for example, previously, moreover, etc.)
 >
 > BERT outperforms the current SOTA in 11-way classification by 8% on the PDTB dataset; this is probably due to the next sentence prediction (NSP) task that BERT was trained with.  Fine-tuning BERT on PDTB without NSP hurts performance.
 >
