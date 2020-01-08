@@ -210,11 +210,11 @@ A selection:
 >
 > In order to test how well this transfers to out-of-domain data, the BERT fine-tuned on PDTB was also evaluated on BioDRB (biomedical text) - and outperforms previous SOTA by about 15%. In addition, further pre-training on in-domain data (GENIA, or using BioBERT) performs best.
 
+:boom: [Linguistic Versus Latent Relations for Modeling **Coherent Flow** in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
+
 
 :heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining Argument Impact](https://www.aclweb.org/anthology/D19-1568.pdf)
 > Introduces a new dataset to study the effect of "pragmatic and discourse context" (*kairos*) on determining argument quality. The dataset contains arguments covering 741 topics and over 47k claims. Models that incorporate the pragmatic and discourse context (sequences of  of claims which support or oppose other claims in order to defend a certain thesis) outperform models which only rely on claim-specific features.
-
-:heavy_minus_sign: [Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
 
 
 :heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
