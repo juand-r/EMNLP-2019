@@ -187,9 +187,9 @@ A selection:
 > - linguistic contact leads to either convergence to a majority protocol or to a "creole", which is of lower complexity than the original languages.
 > - "a linguistic continuum emerges whereneighboring languages are more mutually in-telligible than farther removed languages".
 
-:heavy_minus_sign: [Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
+:heavy_minus_sign: [Seeded self-play for language learning (LANTERN workshop)](https://www.aclweb.org/anthology/D19-6409.pdf)
 
-:heavy_minus_sign: [Learning to request guidance in emergent language (LANTERN)](https://www.aclweb.org/anthology/D19-6407.pdf)
+:heavy_minus_sign: [Learning to request guidance in emergent language (LANTERN workshop)](https://www.aclweb.org/anthology/D19-6407.pdf)
 
 :heavy_minus_sign: [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
 
@@ -200,7 +200,9 @@ A selection:
 ## Discourse
 
 :boom: [Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains](https://www.aclweb.org/anthology/D19-1586.pdf)
-
+> The task of discourse relation classification: given a pair of sentences, to determine their discourse relation such as "comparison", "contingency", "expansion", "temporal". Examples:
+> - Expansion (explicit)
+> - Expansion (implicit) [Income from continuing operations was up2 6%] 
 
 :boom: [Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
 
