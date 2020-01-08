@@ -218,7 +218,16 @@ A selection:
 
 
 :heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
-
+> Introduces DiscoEval, a test suite of 7 tasks to evaluate whether sentence embedding representations contain incformation about the sentence's discourse context:
+> - PDTB-E: explicit discourse relation classification
+> - PDTB-I: implicit discourse relation classification
+> - RST-DT: predict labels of nodes in RST discourse trees
+> - Sentence Position: predict where an out-of-order sentence should fit amongst 4 other sentences
+> - Binary sentence ordering: decide on the correct order for a pair of consecutive sentences.
+> - Discourse Coherence: determine whether a sequence of 6 sentences forms a coherent paragraph (some paragraphs are left alone; for others one random sentence is replaced with another from another article).
+> - Sentence Section Prediction: predict whether a given sentence belongs to the Abstract.
+>
+> An encoder-decoder model is introduced for these tasks, but is outperformed by BERT.
 
 :heavy_minus_sign: [A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
 
