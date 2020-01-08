@@ -12,8 +12,7 @@ This contains summaries for a selection of papers from EMNLP 2019. What is missi
 
 - Highlights from Naver labs: https://europe.naverlabs.com/blog/emnlp2019-what-we-saw-and-liked
 - Highlights - focused on Knowledge Graphs: https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-i-e4e69fd7957c and https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-ii-56f5b03ad9ba 
-
-NOTES on ACL 2018: https://shuaitang.github.io/files/acl_2018_notes.html#pf3
+- See also: Notes on ACL 2018: https://shuaitang.github.io/files/acl_2018_notes.html#pf3
 
 **CONTENTS**
 
