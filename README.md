@@ -173,56 +173,70 @@ A few that look particularly interesting:
 
 ## Language learning agents
  
-[Emergent Linguistic Phenomena in Multi-Agent Communication Games](https://www.aclweb.org/anthology/D19-1384.pdf)
+:heavy_minus_sign: [Emergent Linguistic Phenomena in Multi-Agent Communication Games](https://www.aclweb.org/anthology/D19-1384.pdf)
 
-[Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
 
-[Learning to request guidance in emergent language (LANTERN)](https://www.aclweb.org/anthology/D19-6407.pdf)
+:heavy_minus_sign: [Seeded self-play for language learning (LANTERN)](https://www.aclweb.org/anthology/D19-6409.pdf)
 
-[EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
 
-[Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
+:heavy_minus_sign: [Learning to request guidance in emergent language (LANTERN)](https://www.aclweb.org/anthology/D19-6407.pdf)
 
-[Interactive Language Learning by Question Answering](https://www.aclweb.org/anthology/D19-1280.pdf)
 
-Also, this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind through Question Answering" ( https://www.aclweb.org/anthology/D19-1598.pdf )
+:heavy_minus_sign: [EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
+
+
+:heavy_minus_sign: [Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue](https://www.aclweb.org/anthology/D19-1203.pdf)
+
+:heavy_minus_sign: [Interactive Language Learning by Question Answering](https://www.aclweb.org/anthology/D19-1280.pdf)
+
+**See also:** this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind through Question Answering, https://www.aclweb.org/anthology/D19-1598.pdf
 
 ## Discourse
 
-[The Role of Pragmatic and Discourse Contextin Determining Argument Impact](https://www.aclweb.org/anthology/D19-1568.pdf)
+:heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining Argument Impact](https://www.aclweb.org/anthology/D19-1568.pdf)
 
-[Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains](https://www.aclweb.org/anthology/D19-1586.pdf)
+:boom: [Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains](https://www.aclweb.org/anthology/D19-1586.pdf)
 
-[Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
+:heavy_minus_sign: [Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
 
-[Evaluation Benchmarks and Learning Criteriafor Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
+:heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
 
-[A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
+:heavy_minus_sign: [A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
 
-[Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
+:boom: [Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
 
 ## Explainability
 
-[Interpretable Word Embeddings via Informative Priors](https://www.aclweb.org/anthology/D19-1661.pdf)
+:heavy_minus_sign: [Interpretable Word Embeddings via Informative Priors](https://www.aclweb.org/anthology/D19-1661.pdf)
+
+
+:heavy_minus_sign: [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
+
 
 :boom: [Human-grounded Evaluations of Explanation Methods for Text Classification](https://www.aclweb.org/anthology/D19-1523.pdf)
 
+
 :boom: [Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control](https://www.aclweb.org/anthology/D19-1420.pdf)
 
-[Identifying and Explaining Discriminative Attributes](https://www.aclweb.org/anthology/D19-1440.pdf)
 
-[Auditing Deep Learning processes through Kernel-based Explanatory Models](https://www.aclweb.org/anthology/D19-1415.pdf)
+:heavy_minus_sign: [Identifying and Explaining Discriminative Attributes](https://www.aclweb.org/anthology/D19-1440.pdf)
 
-[AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
 
-[Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://www.aclweb.org/anthology/D19-1187.pdf)
+:heavy_minus_sign: [Auditing Deep Learning processes through Kernel-based Explanatory Models](https://www.aclweb.org/anthology/D19-1415.pdf)
+
+
+:heavy_minus_sign: [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
+
+
+:heavy_minus_sign: [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://www.aclweb.org/anthology/D19-1187.pdf)
+
 
 :boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
 > Put the description here.
 
-[Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
 
-[Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
+:heavy_minus_sign: [Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
+
 
 ## Adversarial
 
