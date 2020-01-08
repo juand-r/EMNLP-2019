@@ -199,17 +199,23 @@ A selection:
 
 ## Discourse
 
-:heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining Argument Impact](https://www.aclweb.org/anthology/D19-1568.pdf)
-
 :boom: [Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains](https://www.aclweb.org/anthology/D19-1586.pdf)
+
+
+:boom: [Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
+
+
+:heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining Argument Impact](https://www.aclweb.org/anthology/D19-1568.pdf)
+> Introduces a new dataset to study the effect of "pragmatic and discourse context" (*kairos*) on determining argument quality. The dataset contains arguments covering 741 topics and over 47k claims. Models that incorporate the pragmatic and discourse context (sequences of  of claims which support or oppose other claims in order to defend a certain thesis) outperform models which only rely on claim-specific features.
 
 :heavy_minus_sign: [Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
 
+
 :heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
+
 
 :heavy_minus_sign: [A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
 
-:boom: [Predicting Discourse Structure using Distant Supervision from Sentiment](https://www.aclweb.org/anthology/D19-1235.pdf)
 
 ## Explainability
 
