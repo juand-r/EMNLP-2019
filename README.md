@@ -803,7 +803,7 @@ A selection:
 ## Social Media and Authorship Attribution
 
 :heavy_minus_sign: [The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
-> Question: how to quantify the degree to which tweets are characteristic of their authors (probability a given tweet was written by its author)? This is done via binary classification, and calculating the probability using the distance from the decision boundary. One possible application of this: to highlight unusual/suspicious activity (e.g., an account was hacked).  This is studied using the tweets of 15 celebrities (including Oprah, JK Rowling, LeBron James, Justin Bieber, Obama and Trump).
+> How to quantify the degree to which tweets are characteristic of their authors (probability a given tweet was written by its author)? This is done via binary classification, and then calculating the probability using the distance from the decision boundary. One possible application of this: to highlight unusual/suspicious activity (e.g., an account was hacked).  This is studied using the tweets of 15 celebrities (including Oprah, JK Rowling, LeBron James, Justin Bieber, Obama and Trump).
 >
 > Five approaches to authorship identification are tested; in order of increasing performance these are: (1) a compression-based method using Lempel-Ziv-Welch, (2) LDA topic model features using in a Logistic Regression or MLP, (3) n-gram based language model to score the probability of a tweet given positive or negative ngrams, (4) two different document embeddings -- using fastText and BERT -- fed into a classifier, and (5) BERT token embeddings fed to an LSTM.  The BERT+LSTM approach yields the highest accuracy of (on average across celebrities) 90.37%.
 >
