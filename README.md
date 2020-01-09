@@ -796,7 +796,12 @@ A selection:
 
 ## Propaganda, Persuasion
 
+**See also:** Workshop "NLP4IF: Censorship, Disinformation and Propaganda"
+
 :heavy_minus_sign: [Fine-Grained Analysis of Propaganda in News Articles](https://www.aclweb.org/anthology/D19-1565.pdf)
+> Introduces a corpus of news articles annotated (at fragment level) with 18 propaganda techniques. A "multi-granularity" network based on BERT achieves the best performance on the task.
+> 
+> See also: https://propaganda.qcri.org/ and Semeval 2020 Task 11 (https://propaganda.qcri.org/semeval2020-task11/).
 
 :heavy_minus_sign: [Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
 
