@@ -245,12 +245,20 @@ A selection:
 
 :heavy_minus_sign: [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
 
+
+:heavy_minus_sign: [Learning Conceptual Spaces with Disentangled Facets (CoNLL)](https://www.aclweb.org/anthology/K19-1013.pdf)
+
+
 ### Explainability 
 
 :boom: [Human-grounded Evaluations of Explanation Methods for Text Classification](https://www.aclweb.org/anthology/D19-1523.pdf)
 
 
 :boom: [Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control](https://www.aclweb.org/anthology/D19-1420.pdf)
+
+
+:boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
+> Put the description here.
 
 
 :heavy_minus_sign: [Identifying and Explaining Discriminative Attributes](https://www.aclweb.org/anthology/D19-1440.pdf)
@@ -260,10 +268,6 @@ A selection:
 
 
 :heavy_minus_sign: [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://www.aclweb.org/anthology/D19-1187.pdf)
-
-
-:boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
-> Put the description here.
 
 
 :heavy_minus_sign: [Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
