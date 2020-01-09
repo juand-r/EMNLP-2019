@@ -129,6 +129,9 @@ A selection:
 
 ### Datasets
 
+:heavy_minus_sign: [(Male, Bachelor) and (Female, Ph.D) have different connotations: Parallelly Annotated Stylistic Language Dataset with Multiple Personas](https://www.aclweb.org/anthology/D19-1179.pdf)
+> PASTEL dataset with 41K parallel sentences annotated across different personas (age, gender, political orientation, education level, ethnicity, country, time-of-day). Data and code: https://github.com/dykang/PASTEL
+
 :heavy_minus_sign: [VerbAtlas: a Novel Large-Scale **Verbal Semantic Resource** and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
 > Introduces a hand-crafted lexical resource collecting all verb synsets of WordNet into "semantically-coherent frames". Available at http://verbatlas.org
 
@@ -137,7 +140,6 @@ A selection:
 
 :heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining **Argument Impact**](https://www.aclweb.org/anthology/D19-1568.pdf)
 > Introduces a new dataset to study the effect of "pragmatic and discourse context" (*kairos*) on determining argument impact (persuasive power). The dataset contains arguments covering 741 topics and over 47k claims. Models that incorporate the pragmatic and discourse context (i.e., sequences of  of claims which support or oppose other claims in order to defend a certain thesis) outperform models which only rely on claim-specific features.
-
 
 # Topics
 
@@ -161,6 +163,15 @@ A selection:
 
 ## Analysis
 
+:boom: [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445.pdf)
+> A qualitative and quantitative analysis of the information encoded by the the BERT heads. **Conclusion:** the model is overparametrized (there is a limited set of attention patterns repeated across different heads). In addition, manually disabling attention in some heads leads to a performance increase. This paper also explores how the self-attention weights change when fine-tuning BERT. **Related work**:
+> - Paul Michel, Omer Levy, and Graham Neubig. 2019. "Are  sixteen  heads  really  better  than  one?" (some layers can be reduced to a single head without degrading performance much).
+> - Frankle and Carbin. 2018. "The lottery ticket hypothesis: Finding sparse, trainable neural networks"
+> - Adhikari et al., 2019.  "Rethinking  complex  neural  network  architectures  for  document  classification" (a properly tuned BiLSTM without attention is better or competitive to more complicated architectures on document classification).
+
+:boom: [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
+> How does learning objective affect information flow in a Transformer-based neural network? This paper uses canonical correlation analysis (CCA) and mutual information estimators to study how information flows across Transformer layers, and how it depends on the choice of learning objective. This process is compared across three tasks - three objective functions (machine translation, left-to-right language models and masked language models) while keeping the data and the model architecture fixed. **Blog post:** https://lena-voita.github.io/posts/emnlp19_evolution.html
+
 :heavy_minus_sign: [Quantity doesn't buy quality **syntax** with **neural language models**](https://www.aclweb.org/anthology/D19-1592.pdf)
 > Can increasing the size of the neural network or the amount of training data improve LMs' syntactic ability? Tests on RNNs, GPT and BERT shows diminishing returns in both network capacity and corpus size, and the training corpus would need to be unrealistically large in order to reach human-level performance. **Conclusion:** "reliable and data-efficient learning of syntax is likely to require external supervision signals or a stronger inductive bias than that provided by RNNs and Transformers".
 >
@@ -174,15 +185,6 @@ A selection:
 
 :heavy_minus_sign: [Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel](https://www.aclweb.org/anthology/D19-1443.pdf)
 > Introduces a formulation of the attention mechanism in Transformers using kernels, allowing to unify previous variants of attention and create new ones which are competitive to SOTA models on machine translation and sequence prediction (language modeling).
-
-:boom: [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445.pdf)
-> A qualitative and quantitative analysis of the information encoded by the the BERT heads. **Conclusion:** the model is overparametrized (there is a limited set of attention patterns repeated across different heads). In addition, manually disabling attention in some heads leads to a performance increase. This paper also explores how the self-attention weights change when fine-tuning BERT. **Related work**:
-> - Paul Michel, Omer Levy, and Graham Neubig. 2019. "Are  sixteen  heads  really  better  than  one?" (some layers can be reduced to a single head without degrading performance much).
-> - Frankle and Carbin. 2018. "The lottery ticket hypothesis: Finding sparse, trainable neural networks"
-> - Adhikari et al., 2019.  "Rethinking  complex  neural  network  architectures  for  document  classification" (a properly tuned BiLSTM without attention is better or competitive to more complicated architectures on document classification).
-
-:boom: [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448.pdf)
-> How does learning objective affect information flow in a Transformer-based neural network? This paper uses canonical correlation analysis (CCA) and mutual information estimators to study how information flows across Transformer layers, and how it depends on the choice of learning objective. This process is compared across three tasks - three objective functions (machine translation, left-to-right language models and masked language models) while keeping the data and the model architecture fixed. **Blog post:** https://lena-voita.github.io/posts/emnlp19_evolution.html
 
 ## Language learning agents
 
@@ -207,6 +209,8 @@ A selection:
 
 ## Discourse
 
+:boom: [Linguistic Versus Latent Relations for Modeling **Coherent Flow** in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
+
 :boom: [Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains](https://www.aclweb.org/anthology/D19-1586.pdf)
 > The task of discourse relation classification: given a pair of sentences, to determine their discourse relation such as "comparison", "contingency", "expansion", "temporal". Examples:
 > - Comparison relation (explicit) [It’s a great album.][**But** it's probably not their best.]
@@ -217,9 +221,6 @@ A selection:
 > BERT outperforms the current SOTA in 11-way classification by 8% on the PDTB dataset; this is probably due to the next sentence prediction (NSP) task that BERT was trained with.  Fine-tuning BERT on PDTB without NSP hurts performance.
 >
 > In order to test how well this transfers to out-of-domain data, the BERT fine-tuned on PDTB was also evaluated on BioDRB (biomedical text) - and outperforms previous SOTA by about 15%. In addition, further pre-training on in-domain data (GENIA, or using BioBERT) performs best.
-
-:boom: [Linguistic Versus Latent Relations for Modeling **Coherent Flow** in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
-
 
 :heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
 > Introduces DiscoEval, a test suite of 7 tasks to evaluate whether sentence embedding representations contain information about the sentence's discourse context:
@@ -275,16 +276,17 @@ A selection:
 
 ## Adversarial
 
-:heavy_minus_sign: [Adversarial Reprogramming of Text Classification Neural Networks](https://www.aclweb.org/anthology/D19-1525.pdf)
-
-
-:heavy_minus_sign: [Achieving Verified Robustness to Symbol Substitutionsvia Interval Bound Propagation](https://www.aclweb.org/anthology/D19-1419.pdf)
-
 
 :boom: [Topics to Avoid: Demoting Latent Confounds in Text Classification](https://www.aclweb.org/anthology/D19-1425.pdf)
 
 
 :boom: [Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases](https://www.aclweb.org/anthology/D19-1418.pdf)
+
+
+:heavy_minus_sign: [Adversarial Reprogramming of Text Classification Neural Networks](https://www.aclweb.org/anthology/D19-1525.pdf)
+
+
+:heavy_minus_sign: [Achieving Verified Robustness to Symbol Substitutionsvia Interval Bound Propagation](https://www.aclweb.org/anthology/D19-1419.pdf)
 
 
 :heavy_minus_sign: [Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/D19-1423.pdf)
@@ -311,7 +313,14 @@ A selection:
 
 ### Domain Adaptation
 
+:boom: [To Annotate or Not? **Predicting Performance Drop under Domain Shift**](https://www.aclweb.org/anthology/D19-1222.pdf)
+
+
 :boom: [**Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling**](https://www.aclweb.org/anthology/D19-1433.pdf)
+
+
+:boom: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
+
 
 :heavy_minus_sign: [Shallow Domain Adaptive Embeddings for Sentiment Analysis](https://www.aclweb.org/anthology/D19-1557.pdf)
 
@@ -319,18 +328,15 @@ A selection:
 :heavy_minus_sign: [Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification](https://www.aclweb.org/anthology/D19-1558.pdf)
 
 
-:boom: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
-
-
 :heavy_minus_sign: [Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis](https://www.aclweb.org/anthology/D19-1478.pdf)
-
-
-:boom: [To Annotate or Not? **Predicting Performance Drop under Domain Shift**](https://www.aclweb.org/anthology/D19-1222.pdf)
 
 
 :heavy_minus_sign: [Weakly Supervised Domain Detection. Yumo Xu and Mirella Lapata (TACL)](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00287)
 
 ### Meta-learning
+
+:boom: [Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks](https://www.aclweb.org/anthology/D19-1112.pdf)
+
 
 :heavy_minus_sign: [Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification](https://www.aclweb.org/anthology/D19-1444.pdf)
 
@@ -338,14 +344,12 @@ A selection:
 :heavy_minus_sign: [Text Emotion Distribution Learning from Small Sample: A Meta-Learning Approach](https://www.aclweb.org/anthology/D19-1408.pdf)
 
 
-:boom: [Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks](https://www.aclweb.org/anthology/D19-1112.pdf)
-
 ### Few-shot and zero-shot text classification
 
-:heavy_minus_sign: [Look-up and Adapt: A One-shot Semantic Parser](https://www.aclweb.org/anthology/D19-1104.pdf)
-
-
 :boom: [Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://www.aclweb.org/anthology/D19-1404.pdf)
+
+
+:heavy_minus_sign: [Look-up and Adapt: A One-shot Semantic Parser](https://www.aclweb.org/anthology/D19-1104.pdf)
 
 
 :heavy_minus_sign: [Induction Networks for Few-Shot Text Classification](https://www.aclweb.org/anthology/D19-1403.pdf)
@@ -357,20 +361,22 @@ A selection:
 
 :boom: [Practical Obstacles to Deploying **Active Learning**](https://www.aclweb.org/anthology/D19-1003.pdf)
 
+
 :heavy_minus_sign: [Sampling Bias in Deep Active Classification: An Empirical Study](https://www.aclweb.org/anthology/D19-1417.pdf)
+
 
 ## Word Embeddings
 
-:heavy_minus_sign: [Feature2Vec: Distributional semantic modelling of human property knowledge](https://www.aclweb.org/anthology/D19-1595.pdf)
-
-
-:heavy_minus_sign: [Multiplex Word Embeddings for **Selectional Preference Acquisition**](https://www.aclweb.org/anthology/D19-1528.pdf)
+:boom: [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://www.aclweb.org/anthology/D19-1534.pdf)
 
 
 :boom: **Best paper award** [Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf)
 
 
-:boom: [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://www.aclweb.org/anthology/D19-1534.pdf)
+:heavy_minus_sign: [Feature2Vec: Distributional semantic modelling of human property knowledge](https://www.aclweb.org/anthology/D19-1595.pdf)
+
+
+:heavy_minus_sign: [Multiplex Word Embeddings for **Selectional Preference Acquisition**](https://www.aclweb.org/anthology/D19-1528.pdf)
 
 
 :heavy_minus_sign: [Text-based inference of moral sentiment change](https://www.aclweb.org/anthology/D19-1472.pdf)
@@ -393,99 +399,123 @@ A selection:
 
 ## Knowledge enhanced ML
 
-[**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
+:heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
 
-[**Knowledge Enhanced** Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005.pdf)
 
-[Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
+:heavy_minus_sign: [**Knowledge Enhanced** Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005.pdf)
+
+
+:heavy_minus_sign: [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
+
 
 ## Multimodal
 
-[Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
+:heavy_minus_sign: [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
+
 
 # NLG Tasks
 
-[Text2Math: End-to-end Parsing Text into Math Expressions](https://www.aclweb.org/anthology/D19-1536.pdf)
+:heavy_minus_sign: [Text2Math: End-to-end Parsing Text into Math Expressions](https://www.aclweb.org/anthology/D19-1536.pdf)
+
 
 ## Summarization and Simplification
 
-[Deep Reinforcement Learning with Distributional Semantic Rewardsfor Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
+### Summarization
 
-[Abstract Text Summarization: A Low Resource Challenge](https://www.aclweb.org/anthology/D19-1616.pdf)
+:heavy_minus_sign: [Deep Reinforcement Learning with Distributional Semantic Rewardsfor Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
 
-[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
 
-[BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
+:heavy_minus_sign: [Abstract Text Summarization: A Low Resource Challenge](https://www.aclweb.org/anthology/D19-1616.pdf)
 
-[How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing](https://www.aclweb.org/anthology/D19-1388.pdf)
 
-[Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf)
+:heavy_minus_sign: [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
 
-[Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
 
-[Contrastive Attention Mechanism for Abstractive Sentence Summarization](https://www.aclweb.org/anthology/D19-1301.pdf)
+:heavy_minus_sign: [BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
 
-[A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
 
-[Deep copycat Networks for Text-to-Text Generation](https://www.aclweb.org/anthology/D19-1318.pdf)
+:heavy_minus_sign: [How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing](https://www.aclweb.org/anthology/D19-1388.pdf)
+
+
+:heavy_minus_sign: [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf)
+
+
+:heavy_minus_sign: [Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
+
+
+:heavy_minus_sign: [Contrastive Attention Mechanism for Abstractive Sentence Summarization](https://www.aclweb.org/anthology/D19-1301.pdf)
+
+
+:heavy_minus_sign: [A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
+
+
+:heavy_minus_sign: [Deep copycat Networks for Text-to-Text Generation](https://www.aclweb.org/anthology/D19-1318.pdf)
+
 
 ### Simplification
 
-[EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
+:heavy_minus_sign: [EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
 
-[Recursive Context-Aware Lexical Simplification](https://www.aclweb.org/anthology/D19-1491.pdf)
+
+:heavy_minus_sign: [Recursive Context-Aware Lexical Simplification](https://www.aclweb.org/anthology/D19-1491.pdf)
+
 
 ### Evaluation
 
-[Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://www.aclweb.org/anthology/D19-1320.pdf)
+:heavy_minus_sign: [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://www.aclweb.org/anthology/D19-1320.pdf)
 
-[SUM-QE: a BERT-based Summary Quality Estimation Mode](https://www.aclweb.org/anthology/D19-1618.pdf)
+
+:heavy_minus_sign: [SUM-QE: a BERT-based Summary Quality Estimation Mode](https://www.aclweb.org/anthology/D19-1618.pdf)
 
 
 ## Style transfer
 
-[Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://www.aclweb.org/anthology/D19-1499.pdf)
+:heavy_minus_sign: [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://www.aclweb.org/anthology/D19-1499.pdf)
 
-[Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora](https://www.aclweb.org/anthology/D19-1659.pdf)
 
-[Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites](https://www.aclweb.org/anthology/D19-1406.pdf)
+:heavy_minus_sign: [Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora](https://www.aclweb.org/anthology/D19-1659.pdf)
 
-[Multiple Text Style Transfer by using Word-level Conditional GenerativeAdversarial Network with Two-Phase Training](https://www.aclweb.org/anthology/D19-1366.pdf)
+
+:heavy_minus_sign: [Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites](https://www.aclweb.org/anthology/D19-1406.pdf)
+
+
+:heavy_minus_sign: [Multiple Text Style Transfer by using Word-level Conditional Generative Adversarial Network with Two-Phase Training](https://www.aclweb.org/anthology/D19-1366.pdf)
 > See "erase and replace"
 
-[Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer](https://www.aclweb.org/anthology/D19-1365.pdf)
 
-[IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf)
+:heavy_minus_sign: [Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer](https://www.aclweb.org/anthology/D19-1365.pdf)
 
-[Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
+
+:heavy_minus_sign: [IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf)
+
+
+:heavy_minus_sign: [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
 > What to do if you don't have parallel corpora?
 
-[Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
+
+:heavy_minus_sign: [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
 
 ## Text generation and GPT2
 
-[Learning Rhyming Constraints using Structured Adversaries](https://www.aclweb.org/anthology/D19-1621.pdf)
+:heavy_minus_sign: [Learning Rhyming Constraints using Structured Adversaries](https://www.aclweb.org/anthology/D19-1621.pdf)
 
-[An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1619.pdf)
+:heavy_minus_sign: [An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1619.pdf)
 
 :boom: [Generating Natural Anagrams:Towards Language Generation Under Hard Combinatorial Constraints](https://www.aclweb.org/anthology/D19-1674.pdf)
 
-[Encode, Tag, Realize: High-Precision Text Editing](https://www.aclweb.org/anthology/D19-1510.pdf)
+:heavy_minus_sign: [Encode, Tag, Realize: High-Precision Text Editing](https://www.aclweb.org/anthology/D19-1510.pdf)
 
 :boom: [Denoising based Sequence-to-Sequence Pre-training for Text Generation](https://www.aclweb.org/anthology/D19-1412.pdf)
 
-[Towards Controllable and Personalized Review Generation](https://www.aclweb.org/anthology/D19-1319.pdf)
+:heavy_minus_sign: [Towards Controllable and Personalized Review Generation](https://www.aclweb.org/anthology/D19-1319.pdf)
 
-[An End-to-End Generative Architecture for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1309.pdf)
+:heavy_minus_sign: [An End-to-End Generative Architecture for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1309.pdf)
 
-[Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299.pdf)
+:heavy_minus_sign: [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299.pdf)
 
 :boom: [Judge the Judges: A Large-Scale Evaluation Study of Neural Language Models for Online Review Generation](https://www.aclweb.org/anthology/D19-1409.pdf)
 
-[Autoregressive Text Generation Beyond Feedback Loops](https://www.aclweb.org/anthology/D19-1338.pdf)
-
-[(Male, Bachelor) and (Female, Ph.D) have different connotations:Parallelly Annotated Stylistic Language Dataset with Multiple Personas](https://www.aclweb.org/anthology/D19-1179.pdf)
-> PASTEL dataset with 41K parallel sentences annotated across different personas (age, gender, political orientation, education level, ethnicity, country, time-of-day). Data and code: https://github.com/dykang/PASTEL
+:heavy_minus_sign: [Autoregressive Text Generation Beyond Feedback Loops](https://www.aclweb.org/anthology/D19-1338.pdf)
 
 :boom: [Controlling Text Complexity in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1166.pdf)
 
