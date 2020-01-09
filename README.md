@@ -829,6 +829,8 @@ A selection:
 
 :boom: [Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs]
 
+:boom: [Distributionally Robust Language Modeling]
+
 :heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
 
 :heavy_minus_sign: [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
@@ -860,8 +862,6 @@ A selection:
 :heavy_minus_sign: [Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation]
 
 :heavy_minus_sign: [Exploiting Monolingual Data at Scale for Neural Machine Translation]
-
-:boom: [Distributionally Robust Language Modeling]
 
 :heavy_minus_sign: [Parallel Iterative Edit Models for Local Sequence Transduction]
 
