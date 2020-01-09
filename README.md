@@ -52,7 +52,7 @@ This contains summaries for a selection of papers from EMNLP 2019. What is missi
     - [Coreference](#coreference)
     - [Text classification](#text-classification)
     - [Propaganda, Persuasion](#propaganda-persuasion)
-    - [Social Media](#social-media)
+    - [Social Media and Authorship Attribution](#social-media-and-authorship-attribution)
     - [Other](#other)
   
   
@@ -800,7 +800,7 @@ A selection:
 
 :heavy_minus_sign: [Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
 
-## Social Media
+## Social Media and Authorship Attribution
 
 :heavy_minus_sign: [The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
 > Question: how to quantify the degree to which tweets are characteristic of their authors (probability a given tweet was written by its author)? This is done via binary classification, and calculating the probability using the distance from the decision boundary. One possible application of this: to highlight unusual/suspicious activity (e.g., an account was hacked).  This is studied using the tweets of 15 celebrities (including Oprah, JK Rowling, LeBron James, Justin Bieber, Obama and Trump).
