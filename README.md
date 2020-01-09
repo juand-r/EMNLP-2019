@@ -805,10 +805,9 @@ A selection:
 :heavy_minus_sign: [The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
 > How to quantify the degree to which tweets are characteristic of their authors (probability a given tweet was written by its author)? This is done via binary classification, and then calculating the probability using the distance from the decision boundary. One possible application of this: to highlight unusual/suspicious activity (e.g., an account was hacked).  This is studied using the tweets of 15 celebrities (including Oprah, JK Rowling, LeBron James, Justin Bieber, Obama and Trump).
 >
-> Five approaches to authorship identification are tested; in order of increasing performance these are: (1) a compression-based method using Lempel-Ziv-Welch, (2) LDA topic model features using in a Logistic Regression or MLP, (3) n-gram based language model to score the probability of a tweet given positive or negative ngrams, (4) two different document embeddings -- using fastText and BERT -- fed into a classifier, and (5) BERT token embeddings fed to an LSTM.  The BERT+LSTM approach yields the highest accuracy of (on average across celebrities) 90.37%.
+> Five approaches to authorship identification are tested; in order of increasing performance these are: (1) a compression-based method using Lempel-Ziv-Welch, (2) LDA topic model features used in Logistic Regression or MLP, (3) an n-gram based language model to score the probability of a tweet given positive or negative ngrams, (4) two different document embeddings -- using fastText and BERT -- fed into a linear classifier, and (5) BERT token embeddings fed to an LSTM. The BERT+LSTM approach yields the highest accuracy of (on average across celebrities) 90.37%.
 >
-> The paper also finds a strong correlation between "characterstic-ness" and tweet popularity (for 13 of the 15 celebrities in the study); for some celebrities (Trump, Modi, Jimmy Fallon) the correlation is positive, whereas for others it is negative (Bieber, Kim Kardashian, and Obama).
-
+> The paper also finds a strong correlation between "characterstic-ness" and tweet popularity for 13 of the 15 celebrities in the study; for some celebrities (Trump, Modi, Jimmy Fallon) the correlation is positive, whereas for others it is negative (Bieber, Kim Kardashian, and Obama).
 
 :heavy_minus_sign: [Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
 
