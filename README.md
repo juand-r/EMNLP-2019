@@ -71,7 +71,7 @@ All workshops: https://www.emnlp-ijcnlp2019.org/program/workshops/
 
 A selection:
 
-- [CoNLL 2019](http://www.conll.org/)
+- [**CoNLL 2019**](http://www.conll.org/)
 - [W-NUT 2019](http://noisy-text.github.io/) (Noisy User-generated Text)
 - [LOUHI 2019](http://louhi2019.fbk.eu/) (Health Text Mining and Information Analysis)
 - [FEVER 2](http://fever.ai/) (Fact Extraction and VERification)
