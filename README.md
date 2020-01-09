@@ -609,7 +609,7 @@ A selection:
 ## Fact checking
 
 :boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
-
+> See in Commonsense Reasoning section.
 
 :heavy_minus_sign: [MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://www.aclweb.org/anthology/D19-1475.pdf)
 
