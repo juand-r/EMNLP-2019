@@ -245,14 +245,13 @@ A selection:
 
 ### Interpretable Word Embeddings
 
+:boom: [Learning Conceptual Spaces with Disentangled Facets (CoNLL)](https://www.aclweb.org/anthology/K19-1013.pdf)
+
+
 :heavy_minus_sign: [Interpretable Word Embeddings via Informative Priors](https://www.aclweb.org/anthology/D19-1661.pdf)
 
 
 :heavy_minus_sign: [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
-
-
-:heavy_minus_sign: [Learning Conceptual Spaces with Disentangled Facets (CoNLL)](https://www.aclweb.org/anthology/K19-1013.pdf)
-
 
 ### Explainability 
 
