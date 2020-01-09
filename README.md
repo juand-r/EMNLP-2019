@@ -796,7 +796,7 @@ A selection:
 
 ## Propaganda, Persuasion
 
-:heavy_minus_sign: [Fine-Grained Analysis of Propaganda in News Article](https://www.aclweb.org/anthology/D19-1565.pdf)
+:heavy_minus_sign: [Fine-Grained Analysis of Propaganda in News Articles](https://www.aclweb.org/anthology/D19-1565.pdf)
 
 :heavy_minus_sign: [Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
 
