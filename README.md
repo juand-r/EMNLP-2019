@@ -115,6 +115,9 @@ A selection:
 
 ### Visualization and Evaluation Tools
 
+:heavy_minus_sign: [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
+> Demos, code and tutorials: https://allennlp.org/interpret
+
 :heavy_minus_sign: [Multilingual, Multi-scale and Multi-layer Visualization of Sequence-based Intermediate Representations](https://www.aclweb.org/anthology/D19-3026.pdf)
 > Code: https://github.com/elorala/interlingua-visualization ; Demo: https://upc-nmt-vis.herokuapp.com/
 
@@ -214,7 +217,7 @@ A selection:
 
 
 :heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining Argument Impact](https://www.aclweb.org/anthology/D19-1568.pdf)
-> Introduces a new dataset to study the effect of "pragmatic and discourse context" (*kairos*) on determining argument quality. The dataset contains arguments covering 741 topics and over 47k claims. Models that incorporate the pragmatic and discourse context (sequences of  of claims which support or oppose other claims in order to defend a certain thesis) outperform models which only rely on claim-specific features.
+> Introduces a new dataset to study the effect of "pragmatic and discourse context" (*kairos*) on determining argument quality. The dataset contains arguments covering 741 topics and over 47k claims. Models that incorporate the pragmatic and discourse context (i.e., sequences of  of claims which support or oppose other claims in order to defend a certain thesis) outperform models which only rely on claim-specific features.
 
 
 :heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
@@ -227,18 +230,21 @@ A selection:
 > - Discourse Coherence: determine whether a sequence of 6 sentences forms a coherent paragraph (some paragraphs are left alone; for others one random sentence is replaced with another from another article).
 > - Sentence Section Prediction: predict whether a given sentence belongs to the Abstract.
 >
-> An encoder-decoder model is introduced for these tasks, but is outperformed by BERT.
+> An encoder-decoder model (one encoder, many decoders) is introduced for these tasks, but is outperformed by BERT.
 
 :heavy_minus_sign: [A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
 
 
 ## Explainability
 
+### Interpretable Word Embeddings
+
 :heavy_minus_sign: [Interpretable Word Embeddings via Informative Priors](https://www.aclweb.org/anthology/D19-1661.pdf)
 
 
 :heavy_minus_sign: [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
 
+### Explainability 
 
 :boom: [Human-grounded Evaluations of Explanation Methods for Text Classification](https://www.aclweb.org/anthology/D19-1523.pdf)
 
@@ -250,9 +256,6 @@ A selection:
 
 
 :heavy_minus_sign: [Auditing Deep Learning processes through Kernel-based Explanatory Models](https://www.aclweb.org/anthology/D19-1415.pdf)
-
-
-:heavy_minus_sign: [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
 
 
 :heavy_minus_sign: [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://www.aclweb.org/anthology/D19-1187.pdf)
