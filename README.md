@@ -816,9 +816,9 @@ A selection:
 
 # Organize these later:
 
-:boom: Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs
+:boom: [Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs]
 
-:boom: Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
+:boom: [Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs]
 
 :heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
 
@@ -838,27 +838,27 @@ A selection:
 
 :heavy_minus_sign: [A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation](https://www.aclweb.org/anthology/D19-1363.pdf)
 
-:heavy_minus_sign: Neural Gaussian Copula for Variational Autoencoder
+:heavy_minus_sign: [Neural Gaussian Copula for Variational Autoencoder]
 
-:heavy_minus_sign: Patient Knowledge Distillation for BERT Model Compression
+:heavy_minus_sign: [Patient Knowledge Distillation for BERT Model Compression]
 
-:heavy_minus_sign: Topics to Avoid: Demoting Latent Confounds in Text Classification
+:heavy_minus_sign: [Topics to Avoid: Demoting Latent Confounds in Text Classification]
 
-:heavy_minus_sign: Learning to Ask for Conversational Machine Learning
+:heavy_minus_sign: [Learning to Ask for Conversational Machine Learning]
 
-:heavy_minus_sign: Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training
+:heavy_minus_sign: [Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training]
 
-:heavy_minus_sign: Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation
+:heavy_minus_sign: [Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation]
 
-:heavy_minus_sign: Exploiting Monolingual Data at Scale for Neural Machine Translation
+:heavy_minus_sign: [Exploiting Monolingual Data at Scale for Neural Machine Translation]
 
-:boom: Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori Hashimoto and Percy Liang  
+:boom: [Distributionally Robust Language Modeling]
 
-:heavy_minus_sign: Parallel Iterative Edit Models for Local Sequence Transduction
+:heavy_minus_sign: [Parallel Iterative Edit Models for Local Sequence Transduction]
 
-:heavy_minus_sign: ARAML: A Stable Adversarial Training Framework for Text Generation
+:heavy_minus_sign: [ARAML: A Stable Adversarial Training Framework for Text Generation]
 
-:heavy_minus_sign: FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow
+:heavy_minus_sign: [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow]
 
-:heavy_minus_sign: Compositional Generalization for Primitive Substitutions  
+:heavy_minus_sign: [Compositional Generalization for Primitive Substitutions]
 
