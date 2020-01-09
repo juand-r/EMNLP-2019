@@ -803,6 +803,9 @@ A selection:
 ## Social Media
 
 :heavy_minus_sign: [The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
+> Question: can the degree to which tweets are characteristic of their authors be quantified? One possible application of this: to highlight unusual/suspicious activity (e.g., an account was hacked).  This is studied using the tweets of 15 celebrities (including Oprah, JK Rowling, LeBron James, Justin Bieber, Obama and Trump).
+>
+> The paper also finds a strong correlation between "characterstic-ness" and tweet popularity (for 13 of the 15 celebrities in the study); for some celebrities (Trump, Modi, Jimmy Fallon) the correlation is positive, whereas for others it is negative (Bieber, Kim Kardashian, and Obama).
 
 
 :heavy_minus_sign: [Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
