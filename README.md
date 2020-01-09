@@ -679,137 +679,140 @@ A selection:
 
 :boom::boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
 
-[QUARTZ: An Open-Domain Dataset of Qualitative Relationship Questions](https://www.aclweb.org/anthology/D19-1608.pdf)
+:heavy_minus_sign: [QUARTZ: An Open-Domain Dataset of Qualitative Relationship Questions](https://www.aclweb.org/anthology/D19-1608.pdf)
 
-[Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://www.aclweb.org/anthology/D19-1609.pdf)
+:heavy_minus_sign: [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://www.aclweb.org/anthology/D19-1609.pdf)
 
-[WIQA: A dataset for 'What if...' reasoning over procedural text](https://www.aclweb.org/anthology/D19-1629.pdf)
+:heavy_minus_sign: [WIQA: A dataset for 'What if...' reasoning over procedural text](https://www.aclweb.org/anthology/D19-1629.pdf)
 
-[Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset for Commonsense Reasoning over Adjectives and Objects](https://www.aclweb.org/anthology/D19-1625.pdf)
+:heavy_minus_sign: [Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset for Commonsense Reasoning over Adjectives and Objects](https://www.aclweb.org/anthology/D19-1625.pdf)
 
-[Posing Fair Generalization Tasks for Natural Language Inference](https://www.aclweb.org/anthology/D19-1456.pdf)
+:heavy_minus_sign: [Posing Fair Generalization Tasks for Natural Language Inference](https://www.aclweb.org/anthology/D19-1456.pdf)
 
-[Self-Assembling Modular Networks for **Interpretable** Multi-Hop Reasoning](https://www.aclweb.org/anthology/D19-1455.pdf)
+:heavy_minus_sign: [Self-Assembling Modular Networks for **Interpretable** Multi-Hop Reasoning](https://www.aclweb.org/anthology/D19-1455.pdf)
 
-["Going on a vacation" takes longer than "Going for a walk": A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf)
+:heavy_minus_sign: ["Going on a vacation" takes longer than "Going for a walk": A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf)
 
-[Answering questions by learning to rank -Learning to rank by answering questions](https://www.aclweb.org/anthology/D19-1256.pdf)
+:heavy_minus_sign: [Answering questions by learning to rank -Learning to rank by answering questions](https://www.aclweb.org/anthology/D19-1256.pdf)
 
-[Finding Generalizable Evidence by Learning to Convince Q&A Models](https://www.aclweb.org/anthology/D19-1244.pdf)
+:heavy_minus_sign: [Finding Generalizable Evidence by Learning to Convince Q&A Models](https://www.aclweb.org/anthology/D19-1244.pdf)
 
 
-[Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations](https://www.aclweb.org/anthology/D19-1334.pdf)
+:heavy_minus_sign: [Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations](https://www.aclweb.org/anthology/D19-1334.pdf)
 
-[How Reasonable are Common-Sense Reasoning Tasks: A Case-Study on the Winograd Schema Challenge and SWAG](https://www.aclweb.org/anthology/D19-1335.pdf)
+:heavy_minus_sign: [How Reasonable are Common-Sense Reasoning Tasks: A Case-Study on the Winograd Schema Challenge and SWAG](https://www.aclweb.org/anthology/D19-1335.pdf)
 
-[KagNet: Knowledge-Aware Graph Networksfor Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282.pdf)
+:heavy_minus_sign: [KagNet: Knowledge-Aware Graph Networksfor Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282.pdf)
 
-[COSMOSQA: Machine Reading Comprehensionwith Contextual Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1243.pdf)
+:heavy_minus_sign: [COSMOSQA: Machine Reading Comprehensionwith Contextual Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1243.pdf)
 
-[What’s Missing: A Knowledge Gap Guided Approachfor Multi-hop Question Answering](https://www.aclweb.org/anthology/D19-1281.pdf)
+:heavy_minus_sign: [What’s Missing: A Knowledge Gap Guided Approachfor Multi-hop Question Answering](https://www.aclweb.org/anthology/D19-1281.pdf)
 > "given partial knowledge, explicitly  identifying  what’s  missing  substantially outperforms previous approaches".
 
-
-[On the Importance of Delexicalization for Fact Verification](https://www.aclweb.org/anthology/D19-1340.pdf)
+:heavy_minus_sign: [On the Importance of Delexicalization for Fact Verification](https://www.aclweb.org/anthology/D19-1340.pdf)
 
 ## Information Retrieval 
 
-[Bridging the Gap Between Relevance Matching and Semantic Matching for Short Text Similarity Modeling](https://www.aclweb.org/anthology/D19-1540.pdf)
+:heavy_minus_sign: [Bridging the Gap Between Relevance Matching and Semantic Matching for Short Text Similarity Modeling](https://www.aclweb.org/anthology/D19-1540.pdf)
 
-[Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval](https://www.aclweb.org/anthology/D19-1352.pdf)
+:heavy_minus_sign: [Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval](https://www.aclweb.org/anthology/D19-1352.pdf)
 
-[Applying BERT to Document Retrieval with Birch](https://www.aclweb.org/anthology/D19-3004.pdf)
+:heavy_minus_sign: [Applying BERT to Document Retrieval with Birch](https://www.aclweb.org/anthology/D19-3004.pdf)
 
-[Modelling Stopping Criteria for Search Results using Poisson Processes](https://www.aclweb.org/anthology/D19-1351.pdf)
+:heavy_minus_sign: [Modelling Stopping Criteria for Search Results using Poisson Processes](https://www.aclweb.org/anthology/D19-1351.pdf)
 
 ## Entity Linking
 
-[Fine-Grained Evaluation for Entity Linking](https://www.aclweb.org/anthology/D19-1066.pdf)
+:heavy_minus_sign: [Fine-Grained Evaluation for Entity Linking](https://www.aclweb.org/anthology/D19-1066.pdf)
 
 ## Entities and NER
 
 :boom: [ner and pos when nothing is capitalized](https://www.aclweb.org/anthology/D19-1650.pdf)
 
-[Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks](https://www.aclweb.org/anthology/D19-1502.pdf)
+:heavy_minus_sign: [Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks](https://www.aclweb.org/anthology/D19-1502.pdf)
 
-[An Attentive Fine-Grained Entity Typing Model with Latent Type Representation](https://www.aclweb.org/anthology/D19-1641.pdf)
+:heavy_minus_sign: [An Attentive Fine-Grained Entity Typing Model with Latent Type Representation](https://www.aclweb.org/anthology/D19-1641.pdf)
 
-[Hierarchically-Refined Label Attention Network for Sequence Labeling](https://www.aclweb.org/anthology/D19-1422.pdf)
+:heavy_minus_sign: [Hierarchically-Refined Label Attention Network for Sequence Labeling](https://www.aclweb.org/anthology/D19-1422.pdf)
 
-[Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels](https://www.aclweb.org/anthology/D19-1362.pdf)
+:heavy_minus_sign: [Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels](https://www.aclweb.org/anthology/D19-1362.pdf)
 
-[Small and Practical BERT Models for Sequence Labeling](https://www.aclweb.org/anthology/D19-1374.pdf)
+:heavy_minus_sign: [Small and Practical BERT Models for Sequence Labeling](https://www.aclweb.org/anthology/D19-1374.pdf)
 > Multilingual sequence labeling.
 
-[Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition](https://www.aclweb.org/anthology/D19-1360.pdf)
+:heavy_minus_sign: [Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition](https://www.aclweb.org/anthology/D19-1360.pdf)
 
-[EntEval: A Holistic Evaluation Benchmark for **Entity Representations**](https://www.aclweb.org/anthology/D19-1040.pdf)
+:heavy_minus_sign: [EntEval: A Holistic Evaluation Benchmark for **Entity Representations**](https://www.aclweb.org/anthology/D19-1040.pdf)
 
-[A Boundary-aware Neural Model for **Nested Named Entity Recognition**](https://www.aclweb.org/anthology/D19-1034.pdf)
+:heavy_minus_sign: [A Boundary-aware Neural Model for **Nested Named Entity Recognition**](https://www.aclweb.org/anthology/D19-1034.pdf)
 
 ## Coreference
 
-[WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://www.aclweb.org/anthology/D19-1439.pdf)
+:heavy_minus_sign: [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://www.aclweb.org/anthology/D19-1439.pdf)
 
-[BERT for Coreference Resolution: Baselines and Analysis](https://www.aclweb.org/anthology/D19-1588.pdf)
+:heavy_minus_sign: [BERT for Coreference Resolution: Baselines and Analysis](https://www.aclweb.org/anthology/D19-1588.pdf)
 
 ## Text classification
 
 :boom: [**Label Embedding using Hierarchical Structure of Labels** for Twitter Classification](https://www.aclweb.org/anthology/D19-1660.pdf)
 
-[Heterogeneous Graph Attention Networks for Semi-supervisedShort Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
+:heavy_minus_sign: [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
 
-[Rethinking Attribute Representation and Injectionfor Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
+:heavy_minus_sign: [Rethinking Attribute Representation and Injectionfor Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
 > Different ways to incorporate metadata into the text classifier.
 
-[Learning Explicit and Implicit Structures for Targeted Sentiment Analysis](https://www.aclweb.org/anthology/D19-1550.pdf)
+:heavy_minus_sign: [Learning Explicit and Implicit Structures for Targeted Sentiment Analysis](https://www.aclweb.org/anthology/D19-1550.pdf)
 
-[LexicalAT: Lexical-Based Adversarial Reinforcement Trainingfor Robust Sentiment Classification](https://www.aclweb.org/anthology/D19-1554.pdf)
+:heavy_minus_sign: [LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification](https://www.aclweb.org/anthology/D19-1554.pdf)
 
-[Sequential Learning of Convolutional Featuresfor Effective Text Classification](https://www.aclweb.org/anthology/D19-1567.pdf)
+:heavy_minus_sign: [Sequential Learning of Convolutional Features for Effective Text Classification](https://www.aclweb.org/anthology/D19-1567.pdf)
 
-[Text Level Graph Neural Network for Text Classification](https://www.aclweb.org/anthology/D19-1345.pdf)
+:heavy_minus_sign: [Text Level Graph Neural Network for Text Classification](https://www.aclweb.org/anthology/D19-1345.pdf)
 
-[Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings](https://www.aclweb.org/anthology/D19-1347.pdf)
+:heavy_minus_sign: [Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings](https://www.aclweb.org/anthology/D19-1347.pdf)
 
 ## Other
 
-[A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636.pdf)
+:heavy_minus_sign: [A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636.pdf)
 
-[Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf)
+:heavy_minus_sign: [Humor Detection: A Transformer Gets the Last Laugh](https://www.aclweb.org/anthology/D19-1372.pdf)
 
-[Dialog Intent Induction with Deep Multi-View Clustering](https://www.aclweb.org/anthology/D19-1413.pdf)
+:heavy_minus_sign: [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf)
 
-[Humor Detection: A Transformer Gets the Last Laugh](https://www.aclweb.org/anthology/D19-1372.pdf)
+:heavy_minus_sign: [Dialog Intent Induction with Deep Multi-View Clustering](https://www.aclweb.org/anthology/D19-1413.pdf)
 
-[TalkDown: A Corpus for Condescension Detection in Context](https://www.aclweb.org/anthology/D19-1385.pdf)
+:heavy_minus_sign: [TalkDown: A Corpus for Condescension Detection in Context](https://www.aclweb.org/anthology/D19-1385.pdf)
 
-[Partners in Crime: Multi-view Sequential Inference for Movie Understanding](https://www.aclweb.org/anthology/D19-1212.pdf)
+:heavy_minus_sign: [Partners in Crime: Multi-view Sequential Inference for Movie Understanding](https://www.aclweb.org/anthology/D19-1212.pdf)
 
-[Latent Suicide Risk Detection on Microblogvia Suicide-Oriented Word Embeddings and Layered Attention](https://www.aclweb.org/anthology/D19-1181.pdf)
+:heavy_minus_sign: [Latent Suicide Risk Detection on Microblogvia Suicide-Oriented Word Embeddings and Layered Attention](https://www.aclweb.org/anthology/D19-1181.pdf)
 
-[Movie Plot Analysis via Turning Point Identification](https://www.aclweb.org/anthology/D19-1180.pdf)
+:heavy_minus_sign: [Movie Plot Analysis via Turning Point Identification](https://www.aclweb.org/anthology/D19-1180.pdf)
 
-[Context-Aware Conversation Thread Detection in Multi-Party Chat](https://www.aclweb.org/anthology/D19-1682.pdf)
+:heavy_minus_sign: [Context-Aware Conversation Thread Detection in Multi-Party Chat](https://www.aclweb.org/anthology/D19-1682.pdf)
 
-[A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature](https://www.aclweb.org/anthology/D19-1524.pdf)
+:heavy_minus_sign: [A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature](https://www.aclweb.org/anthology/D19-1524.pdf)
 
 
 ## Propaganda, Persuasion
 
-[Fine-Grained Analysis of Propaganda in News Article](https://www.aclweb.org/anthology/D19-1565.pdf)
+:heavy_minus_sign: [Fine-Grained Analysis of Propaganda in News Article](https://www.aclweb.org/anthology/D19-1565.pdf)
 
-[Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
+:heavy_minus_sign: [Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
 
 ## Social Media
 
-[The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
+:heavy_minus_sign: [The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
 
-[Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
 
-[You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://www.aclweb.org/anthology/D19-1477.pdf)
+:heavy_minus_sign: [Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
 
-[A Hierarchical Location Prediction Neural Network for Twitter User Geolocation](https://www.aclweb.org/anthology/D19-1480.pdf)
+
+:heavy_minus_sign: [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://www.aclweb.org/anthology/D19-1477.pdf)
+
+
+:heavy_minus_sign: [A Hierarchical Location Prediction Neural Network for Twitter User Geolocation](https://www.aclweb.org/anthology/D19-1480.pdf)
+
 
 # Organize these later:
 
@@ -817,45 +820,45 @@ A selection:
 
 :boom: Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 
-[Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
+:heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
 
-[**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
+:heavy_minus_sign: [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
 
-[A Logic-Driven Framework for Consistency of Neural Models](https://www.aclweb.org/anthology/D19-1405.pdf)
+:heavy_minus_sign: [A Logic-Driven Framework for Consistency of Neural Models](https://www.aclweb.org/anthology/D19-1405.pdf)
 
-[Pretrained Language Models for Sequential Sentence Classification]
+:heavy_minus_sign: [Pretrained Language Models for Sequential Sentence Classification]
 
-[A Search-based Neural Model for Biomedical Nested and Overlapping Event Detection]
+:heavy_minus_sign: [A Search-based Neural Model for Biomedical Nested and Overlapping Event Detection]
 
-[Efficient Sentence Embedding using Discrete Cosine Transform]
+:heavy_minus_sign: [Efficient Sentence Embedding using Discrete Cosine Transform]
 
-[Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis]
+:heavy_minus_sign: [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis]
 
-[Semantic Relatedness Based Re-ranker for Text Spotting]
+:heavy_minus_sign: [Semantic Relatedness Based Re-ranker for Text Spotting]
 
-[A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation](https://www.aclweb.org/anthology/D19-1363.pdf)
+:heavy_minus_sign: [A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation](https://www.aclweb.org/anthology/D19-1363.pdf)
 
-Neural Gaussian Copula for Variational Autoencoder
+:heavy_minus_sign: Neural Gaussian Copula for Variational Autoencoder
 
-Patient Knowledge Distillation for BERT Model Compression
+:heavy_minus_sign: Patient Knowledge Distillation for BERT Model Compression
 
-Topics to Avoid: Demoting Latent Confounds in Text Classification
+:heavy_minus_sign: Topics to Avoid: Demoting Latent Confounds in Text Classification
 
-Learning to Ask for Conversational Machine Learning
+:heavy_minus_sign: Learning to Ask for Conversational Machine Learning
 
-Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training
+:heavy_minus_sign: Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training
 
-Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation
+:heavy_minus_sign: Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation
 
-Exploiting Monolingual Data at Scale for Neural Machine Translation
+:heavy_minus_sign: Exploiting Monolingual Data at Scale for Neural Machine Translation
 
-Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori Hashimoto and Percy Liang  
+:boom: Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori Hashimoto and Percy Liang  
 
-Parallel Iterative Edit Models for Local Sequence Transduction
+:heavy_minus_sign: Parallel Iterative Edit Models for Local Sequence Transduction
 
-ARAML: A Stable Adversarial Training Framework for Text Generation
+:heavy_minus_sign: ARAML: A Stable Adversarial Training Framework for Text Generation
 
-FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow
+:heavy_minus_sign: FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow
 
-Compositional Generalization for Primitive Substitutions  
+:heavy_minus_sign: Compositional Generalization for Primitive Substitutions  
 
