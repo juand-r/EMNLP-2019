@@ -107,7 +107,7 @@ A selection:
 :heavy_minus_sign: [NeuronBlocks: Building Your NLP DNN Models Like Playing Lego](https://www.aclweb.org/anthology/D19-3028.pdf)
 > Code: https://github.com/Microsoft/NeuronBlocks Demo: https://youtu.be/x6cOpVSZcdo
 
-:heavy_minus_sign: [UER: An Open-Source Toolkit for Pre-training Models](https://www.aclweb.org/anthology/D19-3041.pdf)
+:heavy_minus_sign: [UER: An Open-Source Toolkit for **Pre-training Models**](https://www.aclweb.org/anthology/D19-3041.pdf)
 > Code: https://github.com/dbiir/UER-py **NOTE:** it appears the available models and datasets are only for Chinese.
 
 :heavy_minus_sign: [CFO: A Framework for Building Production NLP Systems](https://www.aclweb.org/anthology/D19-3006.pdf)
@@ -115,24 +115,29 @@ A selection:
 
 ### Visualization and Evaluation Tools
 
-:heavy_minus_sign: [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
+:heavy_minus_sign: [AllenNLP **Interpret**: A Framework for **Explaining Predictions** of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
 > Demos, code and tutorials: https://allennlp.org/interpret
 
 :heavy_minus_sign: [Multilingual, Multi-scale and Multi-layer Visualization of Sequence-based Intermediate Representations](https://www.aclweb.org/anthology/D19-3026.pdf)
 > Code: https://github.com/elorala/interlingua-visualization ; Demo: https://upc-nmt-vis.herokuapp.com/
 
-:heavy_minus_sign: [VizSeq: a visual analysis toolkit for text generation tasks](https://www.aclweb.org/anthology/D19-3043.pdf)
+:heavy_minus_sign: [VizSeq: a visual analysis toolkit for **text generation tasks**](https://www.aclweb.org/anthology/D19-3043.pdf)
 > Code: https://github.com/facebookresearch/vizseq
 
-:heavy_minus_sign: [SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval](https://www.aclweb.org/anthology/D19-3034.pdf)
+:heavy_minus_sign: [SEAGLE: A Platform for **Comparative Evaluation** of Semantic Encoders for **Information Retrieval**](https://www.aclweb.org/anthology/D19-3034.pdf)
 > Code: https://github.com/MarkusDietsche/seagle (missing as of January 2020). Demo: https://www.youtube.com/watch?v=8ncTgRqr8w4&feature=youtu.be
 
 ### Datasets
 
-:heavy_minus_sign: [VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
+:heavy_minus_sign: [VerbAtlas: a Novel Large-Scale **Verbal Semantic Resource** and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
+> Introduces a hand-crafted lexical resource collecting all verb synsets of WordNet into "semantically-coherent frames". Available at http://verbatlas.org
 
-:heavy_minus_sign: [Automatic Argument Quality Assessment - New Datasets and Methods](https://www.aclweb.org/anthology/D19-1564.pdf)
-> 6.3k arguments, annotated for "quality". Data available at https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument%20Quality
+:heavy_minus_sign: [Automatic **Argument Quality Assessment** - New Datasets and Methods](https://www.aclweb.org/anthology/D19-1564.pdf)
+> 6.3k arguments, annotated for "quality". Data available at https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument%20Quality Two methods are introduced for the tasks of argument pair classification and argument ranking, both based on BERT.
+
+:heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining **Argument Impact**](https://www.aclweb.org/anthology/D19-1568.pdf)
+> Introduces a new dataset to study the effect of "pragmatic and discourse context" (*kairos*) on determining argument impact (persuasive power). The dataset contains arguments covering 741 topics and over 47k claims. Models that incorporate the pragmatic and discourse context (i.e., sequences of  of claims which support or oppose other claims in order to defend a certain thesis) outperform models which only rely on claim-specific features.
+
 
 # Topics
 
@@ -214,10 +219,6 @@ A selection:
 > In order to test how well this transfers to out-of-domain data, the BERT fine-tuned on PDTB was also evaluated on BioDRB (biomedical text) - and outperforms previous SOTA by about 15%. In addition, further pre-training on in-domain data (GENIA, or using BioBERT) performs best.
 
 :boom: [Linguistic Versus Latent Relations for Modeling **Coherent Flow** in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
-
-
-:heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining Argument Impact](https://www.aclweb.org/anthology/D19-1568.pdf)
-> Introduces a new dataset to study the effect of "pragmatic and discourse context" (*kairos*) on determining argument quality. The dataset contains arguments covering 741 topics and over 47k claims. Models that incorporate the pragmatic and discourse context (i.e., sequences of  of claims which support or oppose other claims in order to defend a certain thesis) outperform models which only rely on claim-specific features.
 
 
 :heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
