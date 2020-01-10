@@ -256,7 +256,12 @@ A selection:
 ### Explainability 
 
 :boom: [Human-grounded Evaluations of Explanation Methods for Text Classification](https://www.aclweb.org/anthology/D19-1523.pdf)
-
+> Examines "several model-agnostic and model-specific explanation methods for CNNs for text classification" and evaluates them with 3 "human-grounded evaluations" to answer the following questions:
+> - 1. Do the explanations reveal the model behavior?
+> - 2. Do they justify the model predictions?
+> - 3. Does it help people investigate uncertain predictions?
+>
+> See also: recent papers (2019-2020?) by Hanna Wallach on human evaluations of interpretability methods.
 
 :boom: [Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control](https://www.aclweb.org/anthology/D19-1420.pdf)
 
