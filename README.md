@@ -263,9 +263,6 @@ A selection:
 >
 > See also: recent papers (2019-2020?) by Hanna Wallach on human evaluations of interpretability methods.
 
-:boom: [Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control](https://www.aclweb.org/anthology/D19-1420.pdf)
-
-
 :boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
 > Put the description here.
 
