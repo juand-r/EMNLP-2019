@@ -308,7 +308,11 @@ A selection:
 > Check - how similar is this to McHardy, Adel and Klinger, Adversarial Training for Satire Detection: Controlling for Confounding Variables, NAACL 2019?
 
 :boom: [Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases](https://www.aclweb.org/anthology/D19-1418.pdf)
-
+> SOTA models are often right for the wrong reasons (e.g., visual question answering models often ignore the evidence in the image, and predict prototypical answers, and textual entailment models simply learn that certain key words usually imply entailment between sentences). This paper proposes the following method: (1) train a "naive" model that makes predicttions based on dataset biases, and (2) "train a robust model as part of an ensemble with the naive one in order to encourage it to focus on other patterns in the data that are more likely to generalize".
+>
+> Experiments on 5 datasets shows increased robustness to out-of-domain test sets.
+>
+> Code and data: https://github.com/chrisc36/debias
 
 :heavy_minus_sign: [Adversarial Reprogramming of Text Classification Neural Networks](https://www.aclweb.org/anthology/D19-1525.pdf)
 
