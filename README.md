@@ -280,7 +280,10 @@ A selection:
 > - 2. Do they justify the model predictions?
 > - 3. Does it help people investigate uncertain predictions?
 >
-> See also: recent papers by Hanna Wallach on human evaluations of interpretability methods, including "Manipulating and Measuring Model Interpretability" (2019), "A Human-Centered Agenda for Intelligible Machine Learning" (chapter by Vaughan and Wallach) and Kaur et al., "Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning" (also co-authored by Rich Caruana and Hanna Wallach).
+> See also recent papers by Hanna Wallach on human evaluations of interpretability methods:
+> - "Manipulating and Measuring Model Interpretability" (2019)
+> - "A Human-Centered Agenda for Intelligible Machine Learning" (chapter by Vaughan and Wallach)
+> - Kaur et al., "Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning" (also co-authored by Rich Caruana and Hanna Wallach).
 
 :boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
 > Challenges the assumptions underlying the paper "Attention is not Explanation" (Jain and Wallace, 2019). Four alternative tests are proposed to determine when attention can be used as explanation. 
