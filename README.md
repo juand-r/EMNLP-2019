@@ -269,6 +269,7 @@ A selection:
 
 
 :heavy_minus_sign: [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
+> This paper investigates three methods for making word embedding spaces interpretable by rotation: Densifier (Rothe et al., 2016), SVMs, and DensRay (introduced here). DensRay is "hyperparameter-free". The methods are evaluated lexical induction (finding words given properties such as concreteness or sentiment) and on a word analogy task.
 
 ### Explainability 
 
