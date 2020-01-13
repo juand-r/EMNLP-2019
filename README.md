@@ -853,9 +853,8 @@ A selection:
 :heavy_minus_sign: [TalkDown: A Corpus for Condescension Detection in Context](https://www.aclweb.org/anthology/D19-1385.pdf)
 > Goal: to detect condescending language (e.g., "Are you struggling with this whole English language thing?"). Introduces TalkDown, a new labeled dataset of condescending linguistic acts **in context**. Including discourse representations improves performance of a language-only model. Of course, the models are initialized with BERT.
 
-:heavy_minus_sign: [Latent Suicide Risk Detection on Microblogvia Suicide-Oriented Word Embeddings and Layered Attention](https://www.aclweb.org/anthology/D19-1181.pdf)
-
 :heavy_minus_sign: [Movie Plot Analysis via Turning Point Identification](https://www.aclweb.org/anthology/D19-1180.pdf)
+> "We  introduce  a  dataset  consisting of screenplays and plot synopses annotated with turning points and present an end-to-end neural network  model  that  identifies turning points in plot synopses and projects them onto scenes in screenplays". **Data:** https://github.com/ppapalampidi/TRIPOD
 
 :heavy_minus_sign: [Context-Aware Conversation Thread Detection in Multi-Party Chat](https://www.aclweb.org/anthology/D19-1682.pdf)
 
