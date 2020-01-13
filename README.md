@@ -834,6 +834,13 @@ A selection:
 > Task: detecting whether a joke is humorous. Trains a model to identify humorous jokes using the r/Jokes thread. A Transformer architecture outperforms previous work on humor identification tasks and is comparable to human performance.
 
 :heavy_minus_sign: [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf)
+> Task: personalized recipe generation.
+>
+> Example input: "Name:Pomberrytini;Ingredients:pomegranate-blueberry juice, cranberry juice,vodka; Calorie:Low".
+>
+> Output: "Combine  all  ingredients  except  for  the  ice  in  a  blender  or  food  processor. Process to make a  smoothpaste and then add the remaining vodka and blend until smooth. Pour into a chilled glass and garnish with a little lemon and fresh mint."
+>
+> Code: https://github.com/majumderb/recipe-personalization
 
 :heavy_minus_sign: [Dialog Intent Induction with Deep Multi-View Clustering](https://www.aclweb.org/anthology/D19-1413.pdf)
 
