@@ -26,7 +26,7 @@ This contains summaries for a selection of papers from EMNLP 2019. What is missi
     - [Language learning agents](#language-learning-agents)
     - [Discourse](#discourse)
     - [Explainability](#explainability)
-    - [Adversarial](#adversarial)
+    - [Adversarial ML](#adversarial-ml)
     - [Learning with Less Data](#learning-with-less-data)
       - [Domain Adaptation](#domain-adaptation)
       - [Meta-learning](#meta-learning)
@@ -69,7 +69,7 @@ A few that look particularly interesting:
   - https://lili-mou.github.io/resource/emnlp19-2.pdf  
   - https://lili-mou.github.io/resource/emnlp19-3.pdf
 
-# Workshops
+# [Workshops](#contents)
 
 All workshops: https://www.emnlp-ijcnlp2019.org/program/workshops/
 
@@ -87,7 +87,7 @@ A selection:
 - [TextGraphs-19](https://sites.google.com/view/textgraphs2019)
 - [NLP4IF: Censorship, Disinformation and Propaganda](http://www.netcopia.net/nlp4if/)
 
-# Tools, demos, datasets
+# [Tools, demos, datasets](#contents)
 
 ### Annotation tools
 
@@ -145,9 +145,9 @@ A selection:
 :heavy_minus_sign: [The Role of Pragmatic and Discourse Context in Determining **Argument Impact**](https://www.aclweb.org/anthology/D19-1568.pdf)
 > Introduces a new dataset to study the effect of "pragmatic and discourse context" (*kairos*) on determining argument impact (persuasive power). The dataset contains arguments covering 741 topics and over 47k claims. Models that incorporate the pragmatic and discourse context (i.e., sequences of  of claims which support or oppose other claims in order to defend a certain thesis) outperform models which only rely on claim-specific features.
 
-# Topics
+# [Topics](#contents)
 
-## Methodological
+## [Methodological](#contents)
 
 **See also:**
 - Gorman, Kyle, and Steven Bedrick. We need to talk about standard splits. ACL 2019.
@@ -167,7 +167,7 @@ A selection:
 > - models often do not generalize well to examples from different annotators (not in training).
 **Suggestions:** annotator bias should be monitored during dataset creation, and the "test set annotators should be disjoint from the training set annotators."
 
-## Analysis
+## [Analysis](#contents)
 
 :boom: [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445.pdf)
 > A qualitative and quantitative analysis of the information encoded by the the BERT heads. **Conclusion:** the model is overparametrized (there is a limited set of attention patterns repeated across different heads). In addition, manually disabling attention in some heads leads to a performance increase. This paper also explores how the self-attention weights change when fine-tuning BERT. **Related work**:
@@ -196,7 +196,7 @@ A selection:
 :heavy_minus_sign: [Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel](https://www.aclweb.org/anthology/D19-1443.pdf)
 > Introduces a formulation of the attention mechanism in Transformers using kernels, allowing to unify previous variants of attention and create new ones which are competitive to SOTA models on machine translation and sequence prediction (language modeling).
 
-## Language learning agents
+## [Language learning agents](#contents)
 
 :boom: [EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
 > "We introduce EGG, a  toolkit that greatly simplifies the implementation of emergent-languagec ommunication games.   EGG’s  modular  design provides a set of building blocks that the user can combine to create new  games, easily navigating  the optimization and architecture space." **Demo**: https://vimeo.com/345470060 **Code**: https://github.com/facebookresearch/EGG
@@ -217,7 +217,7 @@ A selection:
 
 **See also:** this paper on Theory of Mind: "Revisiting the Evaluation of Theory of Mind through Question Answering, https://www.aclweb.org/anthology/D19-1598.pdf
 
-## Discourse
+## [Discourse](#contents)
 
 :boom: [Linguistic Versus Latent Relations for Modeling **Coherent Flow** in Paragraphs](https://www.aclweb.org/anthology/D19-1589.pdf)
 
@@ -247,7 +247,7 @@ A selection:
 :heavy_minus_sign: [A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
 > Proposes a model that incorporates grammar, inter-sentence coherence relations and global coherence patterns into a common neural framework, which beats SOTA. Code: https://ntunlpsg.github.io/project/coherence/n-coh-emnlp19/
 
-## Explainability
+## [Explainability](#contents)
 
 ### Interpretable Word Embeddings
 
@@ -285,7 +285,7 @@ A selection:
 :heavy_minus_sign: [Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
 
 
-## Adversarial
+## [Adversarial ML](#contents)
 
 
 :boom: [Topics to Avoid: Demoting Latent Confounds in Text Classification](https://www.aclweb.org/anthology/D19-1425.pdf)
@@ -297,13 +297,13 @@ A selection:
 :heavy_minus_sign: [Adversarial Reprogramming of Text Classification Neural Networks](https://www.aclweb.org/anthology/D19-1525.pdf)
 
 
-:heavy_minus_sign: [Achieving Verified Robustness to Symbol Substitutionsvia Interval Bound Propagation](https://www.aclweb.org/anthology/D19-1419.pdf)
+:heavy_minus_sign: [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://www.aclweb.org/anthology/D19-1419.pdf)
 
 
 :heavy_minus_sign: [Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/D19-1423.pdf)
 
 
-## Learning with Less Data
+## [Learning with Less Data](#contents)
 
 :heavy_minus_sign: [FewRel 2.0: Towards More Challenging Few-Shot Relation Classification](https://www.aclweb.org/anthology/D19-1649.pdf)
 
@@ -322,7 +322,7 @@ A selection:
 
 :heavy_minus_sign: [**Transfer Learning** Between Related Tasks Using Expected Label Proportions](https://www.aclweb.org/anthology/D19-1004.pdf)
 
-### Domain Adaptation
+### [Domain Adaptation](#contents)
 
 :boom: [To Annotate or Not? **Predicting Performance Drop under Domain Shift**](https://www.aclweb.org/anthology/D19-1222.pdf)
 
@@ -344,7 +344,7 @@ A selection:
 
 :heavy_minus_sign: [Weakly Supervised Domain Detection. Yumo Xu and Mirella Lapata (TACL)](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00287)
 
-### Meta-learning
+### [Meta-learning](#contents)
 
 :boom: [Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks](https://www.aclweb.org/anthology/D19-1112.pdf)
 
@@ -355,7 +355,7 @@ A selection:
 :heavy_minus_sign: [Text Emotion Distribution Learning from Small Sample: A Meta-Learning Approach](https://www.aclweb.org/anthology/D19-1408.pdf)
 
 
-### Few-shot and zero-shot text classification
+### [Few-shot and zero-shot text classification](#contents)
 
 :boom: [Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://www.aclweb.org/anthology/D19-1404.pdf)
 
@@ -368,7 +368,7 @@ A selection:
 
 :heavy_minus_sign: [Hierarchical Attention Prototypical Networks for **Few-Shot Text Classification**](https://www.aclweb.org/anthology/D19-1042.pdf)
 
-### Active learning
+### [Active learning](#contents)
 
 :boom: [Practical Obstacles to Deploying **Active Learning**](https://www.aclweb.org/anthology/D19-1003.pdf)
 
@@ -376,7 +376,7 @@ A selection:
 :heavy_minus_sign: [Sampling Bias in Deep Active Classification: An Empirical Study](https://www.aclweb.org/anthology/D19-1417.pdf)
 
 
-## Word Embeddings
+## [Word Embeddings](#contents)
 
 :boom: [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://www.aclweb.org/anthology/D19-1534.pdf)
 
