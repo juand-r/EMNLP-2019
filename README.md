@@ -567,6 +567,24 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 :boom: [Select and Attend: Towards Controllable Content Selection in Text Generation](https://www.aclweb.org/anthology/D19-1054.pdf)
 
+:heavy_minus_sign: [A Modular Architecture for Unsupervised **Sarcasm Generation**](https://www.aclweb.org/anthology/D19-1636.pdf)
+> Presents a new framework for sarcasm generation which take a negative opinion as input (e.g., "I hate it when my bus is late.") and translates it to a sarcastic version (e.g., "Absolutely love waiting for the bus").  *This does not require paired training data*.
+>
+> The system is trained only with unlabeled data (sarcastic and non-sarcastic opinions) and employs the theory of "context incongruity": sarcasm is the contrast between positive sentiment context and negative situational context. It uses modules for (1) sentiment neutralization (removing sentiment-bearing words), (2) translation to positive-sentiment phrases, (3) negative situation retrieval of a situation related to the input, (4) sarcasm synthesis. Qualitative and quantitative evaluation shows this system is superior to NMT and style transfer baselines.
+>
+> Examples ("ALL (RL)"): (1) "worrying  because  did  not  finish  my  homework" -> "worrying about finish homework is great". (2) "swimming lessons are very costly in nyc." -> "i am loving the swimming lessons . going to be a very costly in nyc ch."
+>
+>
+> **Code:**  https://github.com/TarunTater/sarcasmgeneration
+
+:heavy_minus_sign: [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf)
+> Task: personalized recipe generation.
+>
+> Example input: "Name:Pomberrytini;Ingredients:pomegranate-blueberry juice, cranberry juice,vodka; Calorie:Low".
+>
+> Output: "Combine  all  ingredients  except  for  the  ice  in  a  blender  or  food  processor. Process to make a  smoothpaste and then add the remaining vodka and blend until smooth. Pour into a chilled glass and garnish with a little lemon and fresh mint."
+>
+> Code: https://github.com/majumderb/recipe-personalization
 
 :heavy_minus_sign: [Learning Rhyming Constraints using Structured Adversaries](https://www.aclweb.org/anthology/D19-1621.pdf)
 
@@ -841,27 +859,8 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 ## [Other](#contents)
 
-:heavy_minus_sign: [A Modular Architecture for Unsupervised **Sarcasm Generation**](https://www.aclweb.org/anthology/D19-1636.pdf)
-> Presents a new framework for sarcasm generation which take a negative opinion as input (e.g., "I hate it when my bus is late.") and translates it to a sarcastic version (e.g., "Absolutely love waiting for the bus").  *This does not require paired training data*.
->
-> The system is trained only with unlabeled data (sarcastic and non-sarcastic opinions) and employs the theory of "context incongruity": sarcasm is the contrast between positive sentiment context and negative situational context. It uses modules for (1) sentiment neutralization (removing sentiment-bearing words), (2) translation to positive-sentiment phrases, (3) negative situation retrieval of a situation related to the input, (4) sarcasm synthesis. Qualitative and quantitative evaluation shows this system is superior to NMT and style transfer baselines.
->
-> Examples ("ALL (RL)"): (1) "worrying  because  did  not  finish  my  homework" -> "worrying about finish homework is great". (2) "swimming lessons are very costly in nyc." -> "i am loving the swimming lessons . going to be a very costly in nyc ch."
->
->
-> **Code:**  https://github.com/TarunTater/sarcasmgeneration
-
 :heavy_minus_sign: [Humor Detection: A Transformer Gets the Last Laugh](https://www.aclweb.org/anthology/D19-1372.pdf)
 > Task: detecting whether a joke is humorous. Trains a model to identify humorous jokes using the r/Jokes thread. A Transformer architecture outperforms previous work on humor identification tasks and is comparable to human performance.
-
-:heavy_minus_sign: [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf)
-> Task: personalized recipe generation.
->
-> Example input: "Name:Pomberrytini;Ingredients:pomegranate-blueberry juice, cranberry juice,vodka; Calorie:Low".
->
-> Output: "Combine  all  ingredients  except  for  the  ice  in  a  blender  or  food  processor. Process to make a  smoothpaste and then add the remaining vodka and blend until smooth. Pour into a chilled glass and garnish with a little lemon and fresh mint."
->
-> Code: https://github.com/majumderb/recipe-personalization
 
 :heavy_minus_sign: [TalkDown: A Corpus for Condescension Detection in Context](https://www.aclweb.org/anthology/D19-1385.pdf)
 > Goal: to detect condescending language (e.g., "Are you struggling with this whole English language thing?"). Introduces TalkDown, a new labeled dataset of condescending linguistic acts **in context**. Including discourse representations improves performance of a language-only model. Of course, the models are initialized with BERT.
