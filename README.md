@@ -249,7 +249,7 @@ A selection:
 
 ## [Explainability](#contents)
 
-### Interpretable Word Embeddings
+### [Interpretable Word Embeddings](#contents)
 
 :boom: [Learning Conceptual Spaces with Disentangled Facets (CoNLL)](https://www.aclweb.org/anthology/K19-1013.pdf)
 > Can vector space embeddings be decomposed into "facets" (domains) of conceptual spaces (Gardenfors, Conceptual Spaces: The Geometry of Thought) *without supervision*? This paper clusters features (word vectors) found via the method of Derrac and Schockaert  2015, into semantically meaningful facets (sets of features, ie., subspaces).
@@ -272,7 +272,7 @@ A selection:
 :heavy_minus_sign: [Identifying and Explaining Discriminative Attributes](https://www.aclweb.org/anthology/D19-1440.pdf)
 
 
-### Explainability 
+### [Explainability](#contents)
 
 :boom: [**Human-grounded Evaluations** of Explanation Methods for Text Classification](https://www.aclweb.org/anthology/D19-1523.pdf)
 > Examines "several model-agnostic and model-specific explanation methods for CNNs for text classification" and evaluates them with 3 "human-grounded evaluations" to answer the following questions:
@@ -280,7 +280,7 @@ A selection:
 > - 2. Do they justify the model predictions?
 > - 3. Does it help people investigate uncertain predictions?
 >
-> See also: recent papers (2019-2020?) by Hanna Wallach on human evaluations of interpretability methods.
+> See also: recent papers by Hanna Wallach on human evaluations of interpretability methods, including "Manipulating and Measuring Model Interpretability" (2019), "A Human-Centered Agenda for Intelligible Machine Learning" (chapter by Vaughan and Wallach) and Kaur et al., "Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning" (also co-authored by Rich Caruana and Hanna Wallach).
 
 :boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
 > Challenges the assumptions underlying the paper "Attention is not Explanation" (Jain and Wallace, 2019). Four alternative tests are proposed to determine when attention can be used as explanation. 
