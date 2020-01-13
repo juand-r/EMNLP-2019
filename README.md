@@ -252,13 +252,13 @@ A selection:
 ### Interpretable Word Embeddings
 
 :boom: [Learning Conceptual Spaces with Disentangled Facets (CoNLL)](https://www.aclweb.org/anthology/K19-1013.pdf)
-> Can vector space embeddings be decomposed into "facets" (domains) of conceptual spaces (Gardenfors, Conceptual Spaces: The Geometry of Thought) *without supervision*? This paper clusters features (found via the method of Derrac and Schockaert  2015) into semantically meaningful facets.
+> Can vector space embeddings be decomposed into "facets" (domains) of conceptual spaces (Gardenfors, Conceptual Spaces: The Geometry of Thought) *without supervision*? This paper clusters features (word vectors) found via the method of Derrac and Schockaert  2015, into semantically meaningful facets (sets of features, ie., subspaces).
 >
 > Conceptual spaces are similar to word embeddings in NLP, except that components of the vectors are interpretable properties of entities of a given kind. A conceptual space for movies could have facets for genre, language, etc., and properties such as "scary". This would be very useful for answering specific queries, e.g., rather than finding movies similar to Poltergeist (in general), one could search for movies which are similar in a particular facet (e.g., cinematography, plot, genre), or which are scarier than Poltergeist. Learning conceptual spaces is similar to "disentangled representation learning" (DRL), except that DRL tries to learn factors which are uncorrelated. However, facets might naturally be correlated (e.g., budget and genre).
 >
 > There hasn't been much work on learning conceptual spaces from data (though see Schockaert's papers, especially Derrac and Schockaert (2015) and his talk at SemDeep-3 "Knowledge Representation with Conceptual Spaces" (2018)).
 >
-> An example facet that was found for buildings: "architecture,  art,  history,  literature,  architectural,  society, culture, ancient, scholars, ver-nacular, classical, historical, contemporary, cultural, medieval", which seems to capture "historical vs contemporary".
+> An example facet that was found for buildings: "architecture,  art,  history,  literature,  architectural,  society, culture, ancient, scholars, vernacular, classical, historical, contemporary, cultural, medieval", which seems to capture "historical vs contemporary". A facet for organizations: "canadian, australian, australia, africa, nations, african, canada, states, countries, asia, united, british, european, competition, world, europe, asian, britain, country, german".
 >
 > **See also**: disentangled representation learning (mostly work in computer vision; however see Jain et al., EMNLP 2018 "Learning disentangled representations of texts with application to biomedical abstracts" and Banaee et al., Data-driven conceptual spaces: Creating semantic representations for linguistic descriptions of numerical data. JAIR 2018. Both of these use supervised approaches.)
 >
