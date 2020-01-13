@@ -301,6 +301,9 @@ A selection:
 
 ## [Adversarial ML](#contents)
 
+### Adversarial Training
+
+The next two papers are about methods to avoid "being right for the wrong reasons", (i.e., relying on dataset artifacts) in order to improve generalizabilty to out-of-domain data.
 
 :boom: [Topics to Avoid: Demoting Latent Confounds in Text Classification](https://www.aclweb.org/anthology/D19-1425.pdf)
 > On the **native language identification** task, classifiers often do not generalize well because they learn topical features which are artifacts (superficial patterns); for example if the label "Swedish" is predicted due to the word 'Sweden' appearing in the text. A model is proposed which predicts both the label of the text and the confound; the two predictors are trained adversarially in order to learn a text representation that predicts the correct label but does not use information from the confound.
@@ -313,6 +316,8 @@ A selection:
 > Experiments on 5 datasets shows increased robustness to out-of-domain test sets.
 >
 > Code and data: https://github.com/chrisc36/debias
+
+### Adversarial Attacks
 
 :heavy_minus_sign: [Adversarial Reprogramming of Text Classification Neural Networks](https://www.aclweb.org/anthology/D19-1525.pdf)
 
