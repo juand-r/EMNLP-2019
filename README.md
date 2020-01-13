@@ -434,6 +434,8 @@ A selection:
 ## [Multimodal](#contents)
 
 :heavy_minus_sign: [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
+>
+> See also at EMNLP 2019: "Dialog Intent Induction with Deep Multi-View Clustering".
 
 # [NLG Tasks](#contents)
 
@@ -842,9 +844,8 @@ A selection:
 >
 > Code: https://github.com/majumderb/recipe-personalization
 
-:heavy_minus_sign: [Dialog Intent Induction with Deep Multi-View Clustering](https://www.aclweb.org/anthology/D19-1413.pdf)
-
 :heavy_minus_sign: [TalkDown: A Corpus for Condescension Detection in Context](https://www.aclweb.org/anthology/D19-1385.pdf)
+> Goal: to detect condescending language (e.g., "Are you struggling with this whole English language thing?"). Introduces TalkDown, a new labeled dataset of condescending linguistic acts **in context**. Including discourse representations improves performance of a language-only model. Of course, the models are initialized with BERT.
 
 :heavy_minus_sign: [Partners in Crime: Multi-view Sequential Inference for Movie Understanding](https://www.aclweb.org/anthology/D19-1212.pdf)
 
