@@ -408,7 +408,7 @@ A selection:
 
 :heavy_minus_sign: [Parameter-free Sentence Embedding via Orthogonal Basis](https://www.aclweb.org/anthology/D19-1059.pdf)
 
-## Knowledge enhanced ML
+## [Knowledge enhanced ML](#contents)
 
 :heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
 
@@ -419,15 +419,15 @@ A selection:
 :heavy_minus_sign: [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
 
 
-## Multimodal
+## [Multimodal](#contents)
 
 :heavy_minus_sign: [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
 
-# NLG Tasks
+# [NLG Tasks](#contents)
 
 :heavy_minus_sign: [Text2Math: End-to-end Parsing Text into Math Expressions](https://www.aclweb.org/anthology/D19-1536.pdf)
 
-## Summarization and Simplification
+## [Summarization and Simplification](#contents)
 
 ### Summarization
 
@@ -477,7 +477,7 @@ A selection:
 :heavy_minus_sign: [SUM-QE: a BERT-based Summary Quality Estimation Mode](https://www.aclweb.org/anthology/D19-1618.pdf)
 
 
-## Style transfer
+## [Style transfer](#contents)
 
 :heavy_minus_sign: [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://www.aclweb.org/anthology/D19-1499.pdf)
 
@@ -503,7 +503,7 @@ A selection:
 
 :heavy_minus_sign: [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
 
-## Text generation and GPT2
+## [Text generation and GPT2](#contents)
 
 :boom: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
 
@@ -564,7 +564,7 @@ A selection:
 
 :heavy_minus_sign: [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://www.aclweb.org/anthology/D19-1055.pdf)
 
-## Machine Translation
+## [Machine Translation](#contents)
 
 :boom: [Synchronously Generating Two Languages with Interactive Decoding](https://www.aclweb.org/anthology/D19-1330.pdf)
 > Simultaneously translating into two languages at once!
@@ -601,19 +601,19 @@ A selection:
 
 :heavy_minus_sign: [Context-Aware Monolingual Repair for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1081.pdf)
 
-# NLU Tasks
+# [NLU Tasks](#contents)
 
-## WSD
+## [WSD](#contents)
 
 :heavy_minus_sign: [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
 
 
-## Keyphrase Extraction
+## [Keyphrase Extraction](#contents)
 
 :heavy_minus_sign: [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://www.aclweb.org/anthology/D19-1521.pdf)
 
 
-## Fact checking
+## [Fact checking](#contents)
 
 :boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
 > See in Commonsense Reasoning section.
@@ -621,14 +621,14 @@ A selection:
 :heavy_minus_sign: [MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://www.aclweb.org/anthology/D19-1475.pdf)
 
 
-## Fake News
+## [Fake News](#contents)
 
 :heavy_minus_sign: [Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection](https://www.aclweb.org/anthology/D19-1471.pdf)
 
 
-## Relation extraction and Knowledge graphs
+## [Relation extraction and Knowledge graphs](#contents)
 
-:boom: [**Automatic Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
+:boom: [Automatic **Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
 
 
 :boom: [Learning to Update Knowledge Graphs by Reading News](https://www.aclweb.org/anthology/D19-1265.pdf)
@@ -678,7 +678,7 @@ A selection:
 
 :heavy_minus_sign: [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
 
-## Commonsense Reasoning
+## [Commonsense Reasoning](#contents)
 
 :boom: [Counterfactual Story Reasoning and Generation](https://www.aclweb.org/anthology/D19-1509.pdf)
 
@@ -718,7 +718,7 @@ A selection:
 
 :heavy_minus_sign: [On the Importance of Delexicalization for Fact Verification](https://www.aclweb.org/anthology/D19-1340.pdf)
 
-## Information Retrieval 
+## [Information Retrieval](#contents)
 
 :heavy_minus_sign: [Bridging the Gap Between Relevance Matching and Semantic Matching for Short Text Similarity Modeling](https://www.aclweb.org/anthology/D19-1540.pdf)
 
@@ -728,11 +728,11 @@ A selection:
 
 :heavy_minus_sign: [Modelling Stopping Criteria for Search Results using Poisson Processes](https://www.aclweb.org/anthology/D19-1351.pdf)
 
-## Entity Linking
+## [Entity Linking](#contents)
 
 :heavy_minus_sign: [Fine-Grained Evaluation for Entity Linking](https://www.aclweb.org/anthology/D19-1066.pdf)
 
-## Entities and NER
+## [Entities and NER](#contents)
 
 :boom: [ner and pos when nothing is capitalized](https://www.aclweb.org/anthology/D19-1650.pdf)
 
@@ -753,13 +753,13 @@ A selection:
 
 :heavy_minus_sign: [A Boundary-aware Neural Model for **Nested Named Entity Recognition**](https://www.aclweb.org/anthology/D19-1034.pdf)
 
-## Coreference
+## [Coreference](#contents)
 
 :heavy_minus_sign: [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://www.aclweb.org/anthology/D19-1439.pdf)
 
 :heavy_minus_sign: [BERT for Coreference Resolution: Baselines and Analysis](https://www.aclweb.org/anthology/D19-1588.pdf)
 
-## Text classification
+## [Text classification](#contents)
 
 :boom: [**Label Embedding using Hierarchical Structure of Labels** for Twitter Classification](https://www.aclweb.org/anthology/D19-1660.pdf)
 
@@ -778,7 +778,7 @@ A selection:
 
 :heavy_minus_sign: [Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings](https://www.aclweb.org/anthology/D19-1347.pdf)
 
-## Propaganda, Persuasion
+## [Propaganda, Persuasion](#contents)
 
 **See also:** Workshop "NLP4IF: Censorship, Disinformation and Propaganda"
 
@@ -789,7 +789,7 @@ A selection:
 
 :heavy_minus_sign: [Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
 
-## Social Media and Authorship Attribution
+## [Social Media and Authorship Attribution](#contents)
 
 :heavy_minus_sign: [The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets](https://www.aclweb.org/anthology/D19-1175.pdf)
 > How to quantify the degree to which tweets are characteristic of their authors (probability a given tweet was written by its author)? This is done via binary classification, and then calculating the probability using the distance from the decision boundary. One possible application of this: to highlight unusual/suspicious activity (e.g., an account was hacked).  This is studied using the tweets of 15 celebrities (including Oprah, JK Rowling, LeBron James, Justin Bieber, Obama and Trump).
@@ -806,7 +806,7 @@ A selection:
 
 :heavy_minus_sign: [A Hierarchical Location Prediction Neural Network for Twitter User Geolocation](https://www.aclweb.org/anthology/D19-1480.pdf)
 
-## Other
+## [Other](#contents)
 
 :heavy_minus_sign: [A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636.pdf)
 
