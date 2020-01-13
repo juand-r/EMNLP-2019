@@ -303,7 +303,9 @@ A selection:
 
 
 :boom: [Topics to Avoid: Demoting Latent Confounds in Text Classification](https://www.aclweb.org/anthology/D19-1425.pdf)
-
+> On the **native language identification** task, classifiers often do not generalize well because they learn topical features which are artifacts (superficial patterns); for example if the label "Swedish" is predicted due to the word 'Sweden' appearing in the text. A model is proposed which predicts both the label of the text and the confound; the two predictors are trained adversarially in order to learn a text representation that predicts the correct label but does not use information from the confound.
+>
+> Check - how similar is this to McHardy, Adel and Klinger, Adversarial Training for Satire Detection: Controlling for Confounding Variables, NAACL 2019?
 
 :boom: [Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases](https://www.aclweb.org/anthology/D19-1418.pdf)
 
