@@ -252,6 +252,8 @@ A selection:
 ### Interpretable Word Embeddings
 
 :boom: [Learning Conceptual Spaces with Disentangled Facets (CoNLL)](https://www.aclweb.org/anthology/K19-1013.pdf)
+> Can a vector space embeddings be decomposed into "facets" (domains) of conceptual spaces (Gardenfors. 2000. Conceptual Spaces: The Geometry of Thought) using unsupervised learning? 
+> See also: "disentangled representation learning" (mostly work in computer vision; however see Jain et al., EMNLP 2018 "Learning disentangled representations of texts with application to biomedical abstracts" and Banaee et al., Data-driven conceptual spaces: Creating semantic representations for linguistic descriptions of numerical data. JAIR 2018. Both of these use supervised approaches.)
 
 
 :heavy_minus_sign: [Interpretable Word Embeddings via Informative Priors](https://www.aclweb.org/anthology/D19-1661.pdf)
