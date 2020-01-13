@@ -199,7 +199,7 @@ A selection:
 ## [Language learning agents](#contents)
 
 :boom: [EGG: a toolkit for research on Emergence of lanGuage in Games](https://www.aclweb.org/anthology/D19-3010.pdf)
-> "We introduce EGG, a  toolkit that greatly simplifies the implementation of emergent-languagec ommunication games.   EGG’s  modular  design provides a set of building blocks that the user can combine to create new  games, easily navigating  the optimization and architecture space." **Demo**: https://vimeo.com/345470060 **Code**: https://github.com/facebookresearch/EGG
+> "We introduce EGG, a  toolkit that greatly simplifies the implementation of emergent-language communication games.   EGG’s  modular  design provides a set of building blocks that the user can combine to create new  games, easily navigating  the optimization and architecture space." **Demo**: https://vimeo.com/345470060 **Code**: https://github.com/facebookresearch/EGG
  
 :heavy_minus_sign: [Emergent Linguistic Phenomena in Multi-Agent Communication Games](https://www.aclweb.org/anthology/D19-1384.pdf)
 > A simple multi-agent communication framework suggests that some of the properties of language evolution "can  emerge  from  simple  social  exchanges between perceptually-enabled agents playing communication games". Specific properties observed:
@@ -264,12 +264,13 @@ A selection:
 >
 > **Code:** https://github.com/rana-alshaikh/Disentangled-Facets
 
+:heavy_minus_sign: [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
+> This paper investigates three methods for making word embedding spaces interpretable by rotation: Densifier (Rothe et al., 2016), SVMs, and DensRay (introduced here). DensRay is "hyperparameter-free". The methods are evaluated lexical induction (finding words given properties such as concreteness or sentiment) and on a word analogy task.
 
 :heavy_minus_sign: [Interpretable Word Embeddings via Informative Priors](https://www.aclweb.org/anthology/D19-1661.pdf)
 
+:heavy_minus_sign: [Identifying and Explaining Discriminative Attributes](https://www.aclweb.org/anthology/D19-1440.pdf)
 
-:heavy_minus_sign: [Analytical Methods for Interpretable Ultradense Word Embeddings](https://www.aclweb.org/anthology/D19-1111.pdf)
-> This paper investigates three methods for making word embedding spaces interpretable by rotation: Densifier (Rothe et al., 2016), SVMs, and DensRay (introduced here). DensRay is "hyperparameter-free". The methods are evaluated lexical induction (finding words given properties such as concreteness or sentiment) and on a word analogy task.
 
 ### Explainability 
 
@@ -282,14 +283,12 @@ A selection:
 > See also: recent papers (2019-2020?) by Hanna Wallach on human evaluations of interpretability methods.
 
 :boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
-> Put the description here.
-
-
-:heavy_minus_sign: [Identifying and Explaining Discriminative Attributes](https://www.aclweb.org/anthology/D19-1440.pdf)
-
+> Challenges the assumptions underlying the paper "Attention is not Explanation" (Jain and Wallace, 2019). Four alternative tests are proposed to determine when attention can be used as explanation. 
 
 :heavy_minus_sign: [Auditing Deep Learning processes through Kernel-based Explanatory Models](https://www.aclweb.org/anthology/D19-1415.pdf)
-
+> Extends the Layerwise Relevance Propagation (LRP) method (used for explaining image classification in Bach et al., 2015) to the linguistically motivated Kernel-Based Deep Architectures (KDA) (Croce et al., 2017). " Theresult is a mechanism  that ... generates an **argument-by-analogy explanation** based on real training examples". This is tested on question classification and argument classification (subtask of frame semantic role labelling, to assign labels to sentence fragments for individual roles of a frame).
+>
+> For example, to explain the classification of "What is the capital of Zimbabwe?" as "LOCATION", the system would return "it recalls me of 'What  is  the  capital  of  California?'  which  also refers  to  a Location."
 
 :heavy_minus_sign: [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://www.aclweb.org/anthology/D19-1187.pdf)
 
