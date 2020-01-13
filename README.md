@@ -285,16 +285,16 @@ A selection:
 :boom: [Attention is not not **Explanation**](https://www.aclweb.org/anthology/D19-1002.pdf)
 > Challenges the assumptions underlying the paper "Attention is not Explanation" (Jain and Wallace, 2019). Four alternative tests are proposed to determine when attention can be used as explanation. 
 
-:heavy_minus_sign: [Auditing Deep Learning processes through Kernel-based Explanatory Models](https://www.aclweb.org/anthology/D19-1415.pdf)
-> Extends the Layerwise Relevance Propagation (LRP) method (used for explaining image classification in Bach et al., 2015) to the linguistically motivated Kernel-Based Deep Architectures (KDA) (Croce et al., 2017). " The result is a mechanism  that ... generates an **argument-by-analogy explanation** based on real training examples". This is tested on question classification and argument classification (subtask of frame semantic role labelling, to assign labels to sentence fragments for individual roles of a frame).
->
-> For example, to explain the classification of "What is the capital of Zimbabwe?" as "LOCATION", the system would return "it recalls me of 'What  is  the  capital  of  California?'  which  also refers  to  a Location."
-
 :heavy_minus_sign: [Many Faces of **Feature Importance**: Comparing Built-in and Post-hoc Feature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
 > Compares feature importance from built-in mechanisms (e.g., attention values) and post-hoc methods such as LIME for text classification. Results:
 > 1. Regardless of the feature importance method, important features from traditional models (SVM, XGBoost, etc) are more similar to each other than deep learning models.
 > 2. Post-hoc methods "tend to generate more similar important features" for two given models than  built-in methods
 > 3. Important features do not are not always more similar when models have the same label than when they disagree.
+
+:heavy_minus_sign: [Auditing Deep Learning processes through Kernel-based Explanatory Models](https://www.aclweb.org/anthology/D19-1415.pdf)
+> Extends the Layerwise Relevance Propagation (LRP) method (used for explaining image classification in Bach et al., 2015) to the linguistically motivated Kernel-Based Deep Architectures (KDA) (Croce et al., 2017). " The result is a mechanism  that ... generates an **argument-by-analogy explanation** based on real training examples". This is tested on question classification and argument classification (subtask of frame semantic role labelling, to assign labels to sentence fragments for individual roles of a frame).
+>
+> For example, to explain the classification of "What is the capital of Zimbabwe?" as "LOCATION", the system would return "it recalls me of 'What  is  the  capital  of  California?'  which  also refers  to  a Location."
 
 ## [Adversarial ML](#contents)
 
