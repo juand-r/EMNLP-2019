@@ -433,8 +433,9 @@ A selection:
 
 ## [Multimodal](#contents)
 
-:heavy_minus_sign: [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
->
+:boom: [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
+> Introduces a multimodal dataset of Instagram posts labeled with author intent and image-text relationships. A baseline deep multimodal classifier is used to validate the proposed taxonomy, and using both the text and the image improves intent detection by almost 10% (over using only the image). Intents include: advocative, promotive, exhibitionist, expressive, informative, entertainment and provocative.
+
 > See also at EMNLP 2019: "Dialog Intent Induction with Deep Multi-View Clustering".
 
 :heavy_minus_sign: [Partners in Crime: Multi-view Sequential Inference for Movie Understanding](https://www.aclweb.org/anthology/D19-1212.pdf)
