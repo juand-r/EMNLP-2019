@@ -848,6 +848,10 @@ A selection:
 > Goal: to detect condescending language (e.g., "Are you struggling with this whole English language thing?"). Introduces TalkDown, a new labeled dataset of condescending linguistic acts **in context**. Including discourse representations improves performance of a language-only model. Of course, the models are initialized with BERT.
 
 :heavy_minus_sign: [Partners in Crime: Multi-view Sequential Inference for Movie Understanding](https://www.aclweb.org/anthology/D19-1212.pdf)
+> "In this paper, we propose a neural architecture coupled with a novel training objective that **integrates multi-view  information for sequence prediction problems.**".  This is used in an incremental inference setup (i.e., making predictions without encoding the full sequence), which better mimics how humans process information. This architecture is tested on three tasks derived from the Frermann et al. (2018) dataset episodes from the CSI TV show:
+> - perpetrator mention identification (task from Frermann et al. (2018))
+> - crime case segmentation (some episodes alternate between more than one crime case)
+> - speaker type tagging (each utterance can come from either a detective, perpretator, suspect, or extra).
 
 :heavy_minus_sign: [Latent Suicide Risk Detection on Microblogvia Suicide-Oriented Word Embeddings and Layered Attention](https://www.aclweb.org/anthology/D19-1181.pdf)
 
