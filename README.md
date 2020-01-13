@@ -831,6 +831,7 @@ A selection:
 > **Code:**  https://github.com/TarunTater/sarcasmgeneration
 
 :heavy_minus_sign: [Humor Detection: A Transformer Gets the Last Laugh](https://www.aclweb.org/anthology/D19-1372.pdf)
+> Task: detecting whether a joke is humorous. Trains a model to identify humorous jokes using the r/Jokes thread. A Transformer architecture outperforms previous work on humor identification tasks and is comparable to human performance.
 
 :heavy_minus_sign: [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf)
 
