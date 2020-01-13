@@ -408,6 +408,8 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 :boom: **Best paper award** [Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf)
 
+:boom: [Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition (TACL?)](https://arxiv.org/abs/1902.10618)
+
 
 :heavy_minus_sign: [Feature2Vec: Distributional semantic modelling of human property knowledge](https://www.aclweb.org/anthology/D19-1595.pdf)
 
@@ -417,9 +419,6 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 :heavy_minus_sign: [Text-based inference of moral sentiment change](https://www.aclweb.org/anthology/D19-1472.pdf)
 > Uses diachronic word embedding to explore moral biases over time (e.g. *slavery*).
-
-
-:heavy_minus_sign: [Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition (TACL?)](https://arxiv.org/abs/1902.10618)
 
 
 :heavy_minus_sign: [Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space](https://www.aclweb.org/anthology/D19-1354.pdf)
