@@ -56,7 +56,7 @@ This contains summaries for a selection of papers from EMNLP 2019. What is missi
     - [Other](#other)
   
   
-# Tutorials
+# [Tutorials](#tutorials)
 
 All EMNLP 2019 tutorials: https://www.emnlp-ijcnlp2019.org/program/tutorials/
 
