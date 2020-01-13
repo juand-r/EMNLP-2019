@@ -247,6 +247,8 @@ A selection:
 :heavy_minus_sign: [A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
 > Proposes a model that incorporates grammar, inter-sentence coherence relations and global coherence patterns into a common neural framework, which beats SOTA. Code: https://ntunlpsg.github.io/project/coherence/n-coh-emnlp19/
 
+:heavy_minus_sign: [Pretrained Language Models for Sequential Sentence Classification](https://www.aclweb.org/anthology/D19-1383.pdf)
+
 ## [Explainability](#contents)
 
 ### [Interpretable Word Embeddings](#contents)
@@ -875,19 +877,17 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 # Organize these later:
 
-:boom: [Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs]
+:boom: [Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1431.pdf)
 
-:boom: [Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs]
+:boom: [Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs](https://www.aclweb.org/anthology/D19-1428.pdf)
 
-:boom: [Distributionally Robust Language Modeling]
+:boom: [Distributionally Robust Language Modeling](https://www.aclweb.org/anthology/D19-1432.pdf)
 
 :heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
 
 :heavy_minus_sign: [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
 
 :heavy_minus_sign: [A Logic-Driven Framework for Consistency of Neural Models](https://www.aclweb.org/anthology/D19-1405.pdf)
-
-:heavy_minus_sign: [Pretrained Language Models for Sequential Sentence Classification]
 
 :heavy_minus_sign: [A Search-based Neural Model for Biomedical Nested and Overlapping Event Detection]
 
