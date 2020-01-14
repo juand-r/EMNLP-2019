@@ -816,9 +816,12 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 :boom: [**Label Embedding using Hierarchical Structure of Labels** for Twitter Classification](https://www.aclweb.org/anthology/D19-1660.pdf)
 
+:heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
+> Task: document classification where no labels are available for training, and only the positive class has a list of keywords associated with the class.  This is a variant of the "dataless classification task". This paper proposes a  "theoretically guaranteed learning framework" for this problem "that is simple to implement and has flexible choices of models".
+
 :heavy_minus_sign: [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
 
-:heavy_minus_sign: [Rethinking Attribute Representation and Injectionfor Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
+:heavy_minus_sign: [Rethinking Attribute Representation and Injection for Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
 > Different ways to incorporate metadata into the text classifier.
 
 :heavy_minus_sign: [Learning Explicit and Implicit Structures for Targeted Sentiment Analysis](https://www.aclweb.org/anthology/D19-1550.pdf)
@@ -883,41 +886,58 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 :boom: [Distributionally Robust Language Modeling](https://www.aclweb.org/anthology/D19-1432.pdf)
 
-:heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
+:heavy_minus_sign: [A Logic-Driven Framework for Consistency of Neural Models](https://www.aclweb.org/anthology/D19-1405.pdf)
+> Abstract: "While neural models show remarkable accuracy on individual predictions, their internal beliefs can be inconsistent across examples. In this paper, we formalize such inconsistency as a generalization of prediction error. We propose a learning framework for constraining models using logic rules to regularize them away from inconsistency. Our framework can leverage both labeled and unlabeled examples and is directly compatible with off-the-shelf learning schemes without model redesign. We instantiate our framework on natural language inference, where experiments show that enforcing invariants stated in logic can help make the predictions of neural models both accurate and consistent."
 
 :heavy_minus_sign: [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
-
-:heavy_minus_sign: [A Logic-Driven Framework for Consistency of Neural Models](https://www.aclweb.org/anthology/D19-1405.pdf)
+> Modifies the pretrained BERT network to use siamese network structures to get semantically meaningful sentence embeddings, which can be compared with cosine similarity for semantic textual similarity (STS). This is much faster than using BERT directly (feeding both sentences into the network to calculate a pairwise score) - 5 seconds rather than 65 hours - and similar in accuracy.
 
 :heavy_minus_sign: [A Search-based Neural Model for Biomedical Nested and Overlapping Event Detection]
+>
 
 :heavy_minus_sign: [Efficient Sentence Embedding using Discrete Cosine Transform]
+>
 
 :heavy_minus_sign: [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis]
+>
 
 :heavy_minus_sign: [Semantic Relatedness Based Re-ranker for Text Spotting]
+>
 
 :heavy_minus_sign: [A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation](https://www.aclweb.org/anthology/D19-1363.pdf)
+>
 
 :heavy_minus_sign: [Neural Gaussian Copula for Variational Autoencoder]
+>
 
 :heavy_minus_sign: [Patient Knowledge Distillation for BERT Model Compression]
+>
 
 :heavy_minus_sign: [Topics to Avoid: Demoting Latent Confounds in Text Classification]
+>
+
 
 :heavy_minus_sign: [Learning to Ask for Conversational Machine Learning]
+>
 
 :heavy_minus_sign: [Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training]
+>
 
 :heavy_minus_sign: [Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation]
+>
 
 :heavy_minus_sign: [Exploiting Monolingual Data at Scale for Neural Machine Translation]
+>
 
 :heavy_minus_sign: [Parallel Iterative Edit Models for Local Sequence Transduction]
+>
 
 :heavy_minus_sign: [ARAML: A Stable Adversarial Training Framework for Text Generation]
+>
 
 :heavy_minus_sign: [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow]
+>
 
 :heavy_minus_sign: [Compositional Generalization for Primitive Substitutions]
+>
 
