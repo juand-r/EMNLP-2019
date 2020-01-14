@@ -901,48 +901,42 @@ The next two papers are about methods to avoid "being right for the wrong reason
 :heavy_minus_sign: [A Search-based Neural Model for **Biomedical Nested and Overlapping Event Detection**](https://www.aclweb.org/anthology/D19-1381.pdf)
 >
 
-
-
-:heavy_minus_sign: [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis]
+:heavy_minus_sign: [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis](https://www.aclweb.org/anthology/D19-1379.pdf)
 >
 
-:heavy_minus_sign: [Semantic Relatedness Based Re-ranker for Text Spotting]
+:heavy_minus_sign: [Semantic Relatedness Based Re-ranker for Text Spotting](https://www.aclweb.org/anthology/D19-1346.pdf)
 >
 
 :heavy_minus_sign: [A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation](https://www.aclweb.org/anthology/D19-1363.pdf)
 >
 
-:heavy_minus_sign: [Neural Gaussian Copula for Variational Autoencoder]
+:heavy_minus_sign: [Neural Gaussian Copula for Variational Autoencoder](https://www.aclweb.org/anthology/D19-1442.pdf)
+> 
+
+:heavy_minus_sign: [Patient Knowledge Distillation for BERT Model Compression](https://www.aclweb.org/anthology/D19-1441.pdf)
 >
 
-:heavy_minus_sign: [Patient Knowledge Distillation for BERT Model Compression]
+:heavy_minus_sign: [Learning to Ask for Conversational Machine Learning](https://www.aclweb.org/anthology/D19-1426.pdf)
 >
 
-:heavy_minus_sign: [Topics to Avoid: Demoting Latent Confounds in Text Classification]
+:heavy_minus_sign: [Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training](https://www.aclweb.org/anthology/D19-1427.pdf)
 >
 
-
-:heavy_minus_sign: [Learning to Ask for Conversational Machine Learning]
+:heavy_minus_sign: [Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation](https://www.aclweb.org/anthology/D19-1429.pdf)
 >
 
-:heavy_minus_sign: [Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training]
+:heavy_minus_sign: [Exploiting Monolingual Data at Scale for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1430.pdf)
 >
 
-:heavy_minus_sign: [Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation]
+:heavy_minus_sign: [Parallel Iterative Edit Models for Local Sequence Transduction](https://www.aclweb.org/anthology/D19-1435.pdf)
 >
 
-:heavy_minus_sign: [Exploiting Monolingual Data at Scale for Neural Machine Translation]
+:heavy_minus_sign: [ARAML: A Stable Adversarial Training Framework for Text Generation](https://www.aclweb.org/anthology/D19-1436.pdf)
 >
 
-:heavy_minus_sign: [Parallel Iterative Edit Models for Local Sequence Transduction]
+:heavy_minus_sign: [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://www.aclweb.org/anthology/D19-1437.pdf)
 >
 
-:heavy_minus_sign: [ARAML: A Stable Adversarial Training Framework for Text Generation]
->
-
-:heavy_minus_sign: [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow]
->
-
-:heavy_minus_sign: [Compositional Generalization for Primitive Substitutions]
+:heavy_minus_sign: [Compositional Generalization for Primitive Substitutions](https://www.aclweb.org/anthology/D19-1438.pdf)
 >
 
