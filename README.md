@@ -324,11 +324,11 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 ### Adversarial Attacks
 
-:heavy_minus_sign: [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://www.aclweb.org/anthology/D19-1419.pdf)
->Abstract: "We ... formally verify a system’s robustness against a predefined class of adversarial attacks. We study text classification under synonym replacements or character flip perturbations. We propose modeling these input perturbations as a simplex and then using **Interval Bound Propagation** – a formal model verification method. We modify the conventional log-likelihood training objective **to train models that can be efficiently verified**, which would otherwise come with exponential search complexity. The resulting models show only little difference in terms of nominal accuracy, but have much improved verified accuracy under perturbations and **come with an efficiently computable formal guarantee on worst case adversaries.**" 
-
 :heavy_minus_sign: [Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/D19-1423.pdf)
 > Abstract: "... This paper considers one exponentially large family of label-preserving transformations, in which every word in the input can be replaced with a similar word. We train **the first models that are provably robust to all word substitutions in this family**. Our training procedure uses Interval Bound Propagation (IBP) to minimize an upper bound on the worst-case loss that any combination of word substitutions can induce. To evaluate models’ robustness to these transformations, we measure accuracy on adversarially chosen word substitutions applied to test examples. Our IBP-trained models attain 75% adversarial accuracy on both sentiment analysis on IMDB and natural language inference on SNLI; in comparison, on IMDB, models trained normally and ones trained with data augmentation achieve adversarial accuracy of only 12% and 41%, respectively."
+
+:heavy_minus_sign: [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://www.aclweb.org/anthology/D19-1419.pdf)
+>Abstract: "We ... formally verify a system’s robustness against a predefined class of adversarial attacks. We study text classification under synonym replacements or character flip perturbations. We propose modeling these input perturbations as a simplex and then using **Interval Bound Propagation** – a formal model verification method. We modify the conventional log-likelihood training objective **to train models that can be efficiently verified**, which would otherwise come with exponential search complexity. The resulting models show only little difference in terms of nominal accuracy, but have much improved verified accuracy under perturbations and **come with an efficiently computable formal guarantee on worst case adversaries.**" 
 
 ## [Learning with Less Data](#contents)
 
