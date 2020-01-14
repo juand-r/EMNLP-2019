@@ -333,7 +333,7 @@ The next two papers are about methods to avoid "being right for the wrong reason
 ## [Learning with Less Data](#contents)
 
 :heavy_minus_sign: [FewRel 2.0: Towards More Challenging Few-Shot Relation Classification](https://www.aclweb.org/anthology/D19-1649.pdf)
-> Updates the FewRel dataset to address two issues that FewRel ignored: domain adaptation (i.e., with a biomedical out-of-domain test set) and "none-of-the-above" (NOTA) detection. Results: existing SOTA few-shot models and as popular methods for NOTA detection and domain adaptaion struggle on these new aspects.  **Data and baselines:** thttps://github.com/thunlp/fewrel
+> Updates the FewRel dataset to address two issues that FewRel ignored: domain adaptation (i.e., with a biomedical out-of-domain test set) and "none-of-the-above" (NOTA) detection. Results: existing SOTA few-shot models and as popular methods for NOTA detection and domain adaptaion struggle on these new aspects.  **Data and baselines:** https://github.com/thunlp/fewrel
 
 :heavy_minus_sign: [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.aclweb.org/anthology/D19-1670.pdf)
 > Performs experiments on "easy data augmentation" (EDA) strategies on five text classification datasets, and both convolutional and recurrent networks. On average "training with EDA while using only 50% of the available training set achieved the same accuracy as normal training with all available data". **Code:** http://github.com/jasonwei20/eda_nlp
