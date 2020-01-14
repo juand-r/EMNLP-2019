@@ -1,7 +1,8 @@
 # EMNLP 2019
 
-This contains a selection of (a little over 200) papers from EMNLP 2019. What is missing: many cross-lingual papers and multi-modal papers, as well as papers on machine translation, dialogue, question answering, intent classification, sentiment/emotion, stance detection, argument mining, SQL and code generation, code-switching, rumors, question generation, humor, bias and hate speech...
+This contains a selection of (a little over 200) papers from EMNLP 2019. The ":boom:" symbol indicates papers that I particularly liked or that I found interesting for one reason or another.
 
+Currently missing: many papers on cross-lingual NLP, multi-modal NLP, dialogue, machine translation, question answering, question generation, intent classification, stance detection, sentiment/emotion, argument mining, SQL and code generation, rumors, humor, bias, hate speech...
 
 **Full list of papers:**
 
@@ -938,6 +939,6 @@ The next two papers are about methods to avoid "being right for the wrong reason
 :heavy_minus_sign: [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://www.aclweb.org/anthology/D19-1437.pdf)
 >
 
-:heavy_minus_sign: [Compositional Generalization for Primitive Substitutions](https://www.aclweb.org/anthology/D19-1438.pdf)
+:boom: [Compositional Generalization for Primitive Substitutions](https://www.aclweb.org/anthology/D19-1438.pdf)
 >
 
