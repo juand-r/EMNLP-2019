@@ -346,7 +346,8 @@ The next two papers are about methods to avoid "being right for the wrong reason
 ### [Domain Adaptation](#contents)
 
 :boom: [To Annotate or Not? **Predicting Performance Drop under Domain Shift**](https://www.aclweb.org/anthology/D19-1222.pdf)
->
+> Abstract: "... we study the problem of predicting the performance drop of modern NLP models under domain-shift, in the absence of any target domain labels. We investigate three families of methods (H-divergence, reverse classification accuracy and confidence measures), show how they can be used to predict the performance drop and study their robustness to adversarial domain-shifts. Our results on sentiment classification and sequence labelling show that our method is able to predict performance drops with an error rate as low as 2.15% and 0.89% for sentiment analysis and POS tagging respectively."
+> 
 > See also:
 > 1. [Dai et al., Using Similarity Measures to Select Pretraining Data for NER, NAACL 2019](https://www.aclweb.org/anthology/N19-1149)
 > 2. van Asch and Daelemans, Using Domain Similarity for Performance Estimation, ACL 2010
