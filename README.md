@@ -33,8 +33,9 @@ This contains summaries for a selection of papers from EMNLP 2019. What is missi
       - [Few-shot and zero-shot text classification](few-shot-and-zero-shot-text-classification)
       - [Active Learning](#active-learning)
     - [Word Embeddings](#word-embeddings)
+    - [Sentence Embeddings](#sentence-embeddings)
     - [Knowledge enhanced ML](#knowledge-enhanced-ml)
-    - [Multimodal](#multimodal)
+    - [Multimodal ML](#multimodal-ml)
   - [NLG Tasks](#nlg-tasks)
     - [Summarization and Simplification](#summarization-and-simplification)
     - [Style transfer](#style-transfer)
@@ -434,6 +435,14 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 :heavy_minus_sign: [Parameter-free Sentence Embedding via Orthogonal Basis](https://www.aclweb.org/anthology/D19-1059.pdf)
 
+## [Sentence Embeddings](#contents)
+
+:heavy_minus_sign: [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
+> Modifies the pretrained BERT network to use siamese network structures to get semantically meaningful sentence embeddings, which can be compared with cosine similarity for semantic textual similarity (STS). This is much faster than using BERT directly (feeding both sentences into the network to calculate a pairwise score) - 5 seconds rather than 65 hours - and similar in accuracy.
+
+:heavy_minus_sign: [Efficient Sentence Embedding using Discrete Cosine Transform](https://www.aclweb.org/anthology/D19-1380.pdf)
+> Abstract: "... We propose the use of discrete cosine transform (DCT) to compress word sequences in an order-preserving manner. The lower order DCT coefficients represent the overall feature patterns in sentences, which results in suitable embeddings for tasks that could benefit from syntactic features. Our results in semantic probing tasks demonstrate that DCT embeddings indeed preserve more syntactic information compared with vector averaging. With practically equivalent complexity, the model yields better overall performance in downstream classification tasks that correlate with syntactic features, which illustrates the capacity of DCT to preserve word order information."
+
 ## [Knowledge enhanced ML](#contents)
 
 :heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
@@ -445,7 +454,7 @@ The next two papers are about methods to avoid "being right for the wrong reason
 :heavy_minus_sign: [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
 
 
-## [Multimodal](#contents)
+## [Multimodal ML](#contents)
 
 :boom: [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
 > Introduces a multimodal dataset of Instagram posts labeled with author intent and image-text relationships. A baseline deep multimodal classifier is used to validate the proposed taxonomy, and using both the text and the image improves intent detection by almost 10% (over using only the image). Intents include: advocative, promotive, exhibitionist, expressive, informative, entertainment and provocative.
@@ -889,14 +898,10 @@ The next two papers are about methods to avoid "being right for the wrong reason
 :heavy_minus_sign: [A Logic-Driven Framework for Consistency of Neural Models](https://www.aclweb.org/anthology/D19-1405.pdf)
 > Abstract: "While neural models show remarkable accuracy on individual predictions, their internal beliefs can be inconsistent across examples. In this paper, we formalize such inconsistency as a generalization of prediction error. We propose a learning framework for constraining models using logic rules to regularize them away from inconsistency. Our framework can leverage both labeled and unlabeled examples and is directly compatible with off-the-shelf learning schemes without model redesign. We instantiate our framework on natural language inference, where experiments show that enforcing invariants stated in logic can help make the predictions of neural models both accurate and consistent."
 
-:heavy_minus_sign: [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
-> Modifies the pretrained BERT network to use siamese network structures to get semantically meaningful sentence embeddings, which can be compared with cosine similarity for semantic textual similarity (STS). This is much faster than using BERT directly (feeding both sentences into the network to calculate a pairwise score) - 5 seconds rather than 65 hours - and similar in accuracy.
-
-:heavy_minus_sign: [A Search-based Neural Model for Biomedical Nested and Overlapping Event Detection]
+:heavy_minus_sign: [A Search-based Neural Model for **Biomedical Nested and Overlapping Event Detection**](https://www.aclweb.org/anthology/D19-1381.pdf)
 >
 
-:heavy_minus_sign: [Efficient Sentence Embedding using Discrete Cosine Transform]
->
+
 
 :heavy_minus_sign: [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis]
 >
