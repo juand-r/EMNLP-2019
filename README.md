@@ -332,6 +332,9 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 ## [Learning with Less Data](#contents)
 
+:heavy_minus_sign: [Latent-Variable Generative Models for Data-Efficient **Text Classification**](https://www.aclweb.org/anthology/D19-1048.pdf)
+> Abstract: "Generative classifiers offer potential advantages over their discriminative counterparts, namely in the areas of data efficiency, robustness to data shift and adversarial examples, and zero-shot learning (Ng and Jordan,2002; Yogatama et al., 2017; Lewis and Fan,2019). In this paper, we improve generative text classifiers by introducing discrete latent variables into the generative story, and explore several graphical model configurations. We parameterize the distributions using standard neural architectures used in conditional language modeling and perform learning by directly maximizing the log marginal likelihood via gradient-based optimization, which avoids the need to do expectation-maximization. We empirically characterize the performance of our models on six text classification datasets. The choice of where to include the latent variable has a significant impact on performance, with **the strongest results obtained when using the latent variable as an auxiliary conditioning variable in the generation of the textual input**. This model **consistently outperforms both the generative and discriminative classifiers in small-data settings**. We analyze our model by finding that **the latent variable captures interpretable properties of the data, even with very small training sets.**"
+
 :heavy_minus_sign: [FewRel 2.0: Towards More Challenging Few-Shot Relation Classification](https://www.aclweb.org/anthology/D19-1649.pdf)
 > Updates the FewRel dataset to address two issues that FewRel ignored: domain adaptation (i.e., with a biomedical out-of-domain test set) and "none-of-the-above" (NOTA) detection. Results: existing SOTA few-shot models and as popular methods for NOTA detection and domain adaptaion struggle on these new aspects.  **Data and baselines:** https://github.com/thunlp/fewrel
 
@@ -339,40 +342,35 @@ The next two papers are about methods to avoid "being right for the wrong reason
 > Performs experiments on "easy data augmentation" (EDA) strategies on five text classification datasets, and both convolutional and recurrent networks. On average "training with EDA while using only 50% of the available training set achieved the same accuracy as normal training with all available data". **Code:** http://github.com/jasonwei20/eda_nlp
 >
 > Details of EDA: for each sentence in the training set, randomly perform one of these operations: (1) synonym replacement for n (randomly chosen) non stop-words in the sentence, (2) random insertion: insert a random synonym of a random word into a random position of the sentence, (3) randomly swap two words in the sentence, (4) randomly remove each word in the sentence with some probability. An ablation study shows that all four operations contribute to performance.
-
-:heavy_minus_sign: [A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers](https://www.aclweb.org/anthology/D19-1520.pdf)
->
-
-:heavy_minus_sign: [Learning to Bootstrap for Entity Set Expansion](https://www.aclweb.org/anthology/D19-1028.pdf)
->
-
-:heavy_minus_sign: [Latent-Variable Generative Models for Data-Efficient **Text Classification**](https://www.aclweb.org/anthology/D19-1048.pdf)
->
-
-:heavy_minus_sign: [**Transfer Learning** Between Related Tasks Using Expected Label Proportions](https://www.aclweb.org/anthology/D19-1004.pdf)
->
-
+ 
 ### [Domain Adaptation](#contents)
 
 :boom: [To Annotate or Not? **Predicting Performance Drop under Domain Shift**](https://www.aclweb.org/anthology/D19-1222.pdf)
-
+>
+> See also:
+> 1. [Dai et al., Using Similarity Measures to Select Pretraining Data for NER, NAACL 2019](https://www.aclweb.org/anthology/N19-1149)
+> 2. van Asch and Daelemans, Using Domain Similarity for Performance Estimation, ACL 2010
+> 3. Jesper Back, thesis (2018), Domain similarity metrics for predicting transfer learning performance
 
 :boom: [**Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling**](https://www.aclweb.org/anthology/D19-1433.pdf)
-
+>
 
 :boom: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
+>
+
 
 
 :heavy_minus_sign: [Shallow Domain Adaptive Embeddings for Sentiment Analysis](https://www.aclweb.org/anthology/D19-1557.pdf)
-
+>
 
 :heavy_minus_sign: [Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification](https://www.aclweb.org/anthology/D19-1558.pdf)
-
+>
 
 :heavy_minus_sign: [Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis](https://www.aclweb.org/anthology/D19-1478.pdf)
-
+>
 
 :heavy_minus_sign: [Weakly Supervised Domain Detection. Yumo Xu and Mirella Lapata (TACL)](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00287)
+>
 
 ### [Meta-learning](#contents)
 
@@ -810,6 +808,9 @@ The next two papers are about methods to avoid "being right for the wrong reason
 ## [Entities and NER](#contents)
 
 :boom: [ner and pos when nothing is capitalized](https://www.aclweb.org/anthology/D19-1650.pdf)
+
+:heavy_minus_sign: [A Little Annotation does a Lot of Good: A Study in Bootstrapping **Low-resource Named Entity Recognizers**](https://www.aclweb.org/anthology/D19-1520.pdf)
+> Abstract: "... What is the most effective method for efficiently creating high-quality entity recognizers in under-resourced languages? Based on extensive experimentation using both simulated and real human annotation, we settle on a recipe of starting with a cross-lingual transferred model, then performing targeted annotation of only uncertain entity spans in the target language, minimizing annotator effort. Results demonstrate that cross-lingual transfer is a powerful tool when very little data can be annotated, but an entity-targeted annotation strategy can achieve competitive accuracy quickly, with just one-tenth of training data."
 
 :heavy_minus_sign: [Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks](https://www.aclweb.org/anthology/D19-1502.pdf)
 
