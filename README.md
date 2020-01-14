@@ -1,6 +1,6 @@
 # EMNLP 2019
 
-This contains a selection of (a little over 200) papers from EMNLP 2019. The ":boom:" symbol indicates papers that I particularly liked or that I found interesting for one reason or another.
+This contains a selection of (a little over) 200 papers from EMNLP 2019. The ":boom:" symbol indicates papers that I particularly liked or that I found interesting for one reason or another.
 
 Currently missing: many papers on cross-lingual NLP, multi-modal NLP, dialogue, machine translation, question answering, question generation, intent classification, stance detection, sentiment/emotion, argument mining, SQL and code generation, rumors, humor, bias, hate speech...
 
