@@ -324,11 +324,8 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 ### Adversarial Attacks
 
-:heavy_minus_sign: [Adversarial Reprogramming of Text Classification Neural Networks](https://www.aclweb.org/anthology/D19-1525.pdf)
-
-
 :heavy_minus_sign: [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://www.aclweb.org/anthology/D19-1419.pdf)
-
+Abstract: "We ... formally verify a system’s robustness against a predefined class of adversarial attacks. We study text classification under synonym replacements or character flip perturbations. We propose modeling these input perturbations as a simplex and then using Interval Bound Propagation – a formal model verification method. We modify the conventional log-likelihood training objective **to train models that can be efficiently verified**, which would otherwise come with exponential search complexity. The resulting models show only little difference in terms of nominal accuracy, but have much improved verified accuracy under perturbations and **come with an efficiently computable formal guarantee on worst case adversaries.**" 
 
 :heavy_minus_sign: [Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/D19-1423.pdf)
 
