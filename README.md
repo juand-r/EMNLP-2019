@@ -884,6 +884,7 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 :heavy_minus_sign: [A Hierarchical Location Prediction Neural Network for Twitter User Geolocation](https://www.aclweb.org/anthology/D19-1480.pdf)
 
+
 ## [Other](#contents)
 
 :heavy_minus_sign: [Humor Detection: A Transformer Gets the Last Laugh](https://www.aclweb.org/anthology/D19-1372.pdf)
@@ -896,9 +897,7 @@ The next two papers are about methods to avoid "being right for the wrong reason
 > "We  introduce  a  dataset  consisting of screenplays and plot synopses annotated with turning points and present an end-to-end neural network  model  that  identifies turning points in plot synopses and projects them onto scenes in screenplays". **Data:** https://github.com/ppapalampidi/TRIPOD
 
 :heavy_minus_sign: [Context-Aware Conversation Thread Detection in Multi-Party Chat](https://www.aclweb.org/anthology/D19-1682.pdf)
-
-:heavy_minus_sign: [A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature](https://www.aclweb.org/anthology/D19-1524.pdf)
-
+> Task: to group messages in a multi-party chat by thread. This proposes a new model for the task.
 
 # Organize these later:
 
