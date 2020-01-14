@@ -2,7 +2,7 @@
 
 This contains a selection of (a little over) 200 papers from EMNLP 2019. The ":boom:" symbol indicates papers that I particularly liked or that I found interesting for one reason or another.
 
-Currently missing: many papers on cross-lingual NLP, multi-modal NLP, dialogue, machine translation, question answering, question generation, intent classification, stance detection, sentiment/emotion, argument mining, SQL and code generation, rumors, humor, bias, hate speech...
+Currently missing: many papers on cross-lingual NLP, multi-modal NLP, code-switching, dialogue, machine translation, question answering, question generation, intent classification, stance detection, sentiment/emotion, argument mining, SQL and code generation, rumors, humor, bias, hate speech...
 
 **Full list of papers:**
 
@@ -578,7 +578,12 @@ The next two papers are about methods to avoid "being right for the wrong reason
 :boom: [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://www.aclweb.org/anthology/D19-1053.pdf)
 
 
+:boom: [Distributionally Robust Language Modeling](https://www.aclweb.org/anthology/D19-1432.pdf)
+> Abstract: "Language models are generally trained on data spanning a wide range of topics (e.g., news, reviews, fiction), but they might be applied to an a priori unknown target distribution (e.g., restaurant reviews). In this paper, we first show that training on text outside the test distribution can degrade test performance when using standard maximum likelihood (MLE) training. To remedy this without the knowledge of the test distribution, we propose an approach which trains a model that performs well over a wide range of potential test distributions. In particular, we derive a new distributionally robust optimization (DRO) procedure which minimizes the loss of the model over the worst-case mixture of topics with sufficient overlap with the training distribution. Our approach, called topic conditional value at risk (topic CVaR), obtains a 5.5 point perplexity reduction over MLE when the language models are trained on a mixture of Yelp reviews and news and tested only on reviews."
+
+
 :boom: [Select and Attend: Towards Controllable Content Selection in Text Generation](https://www.aclweb.org/anthology/D19-1054.pdf)
+
 
 :heavy_minus_sign: [A Modular Architecture for Unsupervised **Sarcasm Generation**](https://www.aclweb.org/anthology/D19-1636.pdf)
 > Presents a new framework for sarcasm generation which take a negative opinion as input (e.g., "I hate it when my bus is late.") and translates it to a sarcastic version (e.g., "Absolutely love waiting for the bus").  *This does not require paired training data*.
@@ -638,6 +643,12 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 :boom: [On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://www.aclweb.org/anthology/D19-1331.pdf)
 
+
+:heavy_minus_sign: [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://www.aclweb.org/anthology/D19-1437.pdf)
+> "... In this paper, we propose a simple, efficient, and effective model for non-autoregressive sequence generation using latent variable models. Specifically, we turn to generative flow, an elegant technique to model complex distributions using neural networks, and design several layers of flow tailored for modeling the conditional density of sequential latent variables. We evaluate this model on three neural machine translation (NMT) benchmark datasets, achieving comparable performance with state-of-the-art non-autoregressive NMT models and almost constant decoding time w.r.t the sequence length."
+
+:heavy_minus_sign: [Exploiting Monolingual Data at Scale for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1430.pdf)
+> Abstract: "While target-side monolingual data has been proven to be very useful to improve neural machine translation (briefly, NMT) through back translation, source-side monolingual data is not well investigated. In this work, we study how to use both the source-side and target-side monolingual data for NMT, and propose an effective strategy leveraging both of them. ...  Our approach achieves state-of-the-art results on WMT16, WMT17, WMT18 English↔German translations and WMT19 German -> French translations, which demonstrate the effectiveness of our method. We also conduct a comprehensive study on how each part in the pipeline works."
 
 :heavy_minus_sign: [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://www.aclweb.org/anthology/D19-1633.pdf)
 
@@ -891,54 +902,27 @@ The next two papers are about methods to avoid "being right for the wrong reason
 
 # Organize these later:
 
-:boom: [Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1431.pdf)
-
 :boom: [Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs](https://www.aclweb.org/anthology/D19-1428.pdf)
+> Abstract: "... We propose **constructing a local graph structured knowledge base for each query**, which compresses the web search information and reduces redundancy. We show that by linearizing the graph into a structured input sequence, models can encode the graph representations within a standard Sequence-to-Sequence setting. For two generative tasks with very long text input, **long-form question answering** and **multi-document summarization**, feeding graph representations as input can achieve better performance than using retrieved text portions."
 
-:boom: [Distributionally Robust Language Modeling](https://www.aclweb.org/anthology/D19-1432.pdf)
+:boom: [Compositional Generalization for Primitive Substitutions](https://www.aclweb.org/anthology/D19-1438.pdf)
+> Abstract: "Compositional generalization is a basic mechanism in human language learning, but current neural networks lack such ability. In this paper, we conduct fundamental research for encoding compositionality in neural networks. Conventional methods use a single representation for the input sentence, making it hard to apply prior knowledge of compositionality. In contrast, our approach leverages such knowledge with two representations, one generating attention maps, and the other mapping attended input words to output symbols. We reduce the entropy in each representation to improve generalization. Our experiments demonstrate significant improvements over the conventional methods in five NLP tasks including instruction learning and machine translation. In the SCAN domain, **it boosts accuracies from 14.0% to 98.8% in Jump task**, and from 92.0% to 99.7% in TurnLeft task. It also beats human performance on a few-shot learning task. We hope the proposed approach can help ease future research towards human-level compositional language learning."
+
+:boom: [Parallel Iterative Edit Models for Local Sequence Transduction](https://www.aclweb.org/anthology/D19-1435.pdf)
+> Abstract: "We present a Parallel Iterative Edit (PIE) model for the problem of local sequence transduction arising in tasks like Grammatical error correction (GEC). Recent approaches are based on the popular encoder-decoder (ED) model for sequence to sequence learning. The ED model auto-regressively captures full dependency among output tokens but is slow due to sequential decoding. The PIE model does parallel decoding, giving up the advantage of modeling full dependency in the output, yet it achieves accuracy competitive with the ED model for four reasons: 1. predicting edits instead of tokens, 2. labeling sequences instead of generating sequences, 3. iteratively refining predictions to capture dependencies, and 4. factorizing logits over edits and their token argument to harness pre-trained language models like BERT. Experiments on tasks spanning GEC, OCR correction and spell correction demonstrate that the PIE model is an accurate and significantly faster alternative for local sequence transduction."
 
 :heavy_minus_sign: [A Logic-Driven Framework for Consistency of Neural Models](https://www.aclweb.org/anthology/D19-1405.pdf)
 > Abstract: "While neural models show remarkable accuracy on individual predictions, their internal beliefs can be inconsistent across examples. In this paper, we formalize such inconsistency as a generalization of prediction error. We propose a learning framework for constraining models using logic rules to regularize them away from inconsistency. Our framework can leverage both labeled and unlabeled examples and is directly compatible with off-the-shelf learning schemes without model redesign. We instantiate our framework on natural language inference, where experiments show that enforcing invariants stated in logic can help make the predictions of neural models both accurate and consistent."
 
-:heavy_minus_sign: [A Search-based Neural Model for **Biomedical Nested and Overlapping Event Detection**](https://www.aclweb.org/anthology/D19-1381.pdf)
->
-
 :heavy_minus_sign: [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis](https://www.aclweb.org/anthology/D19-1379.pdf)
->
-
-:heavy_minus_sign: [Semantic Relatedness Based Re-ranker for Text Spotting](https://www.aclweb.org/anthology/D19-1346.pdf)
->
-
-:heavy_minus_sign: [A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation](https://www.aclweb.org/anthology/D19-1363.pdf)
->
+> Abstract: "In transductive learning, an unlabeled test set is used for model training. Although this setting deviates from the common assumption of a completely unseen test set, it is applicable in many real-world scenarios, wherein the texts to be processed are known in advance. However, despite its practical advantages, transductive learning is underexplored in natural language processing. Here we conduct an empirical study of transductive learning for neural models and demonstrate its utility in syntactic and semantic tasks. Specifically, we fine-tune language models (LMs) on an unlabeled test set to obtain test-set-specific word representations. Through extensive experiments, we demonstrate that despite its simplicity, transductive LM fine-tuning consistently improves state-of-the-art neural models in in-domain and out-of-domain settings."
 
 :heavy_minus_sign: [Neural Gaussian Copula for Variational Autoencoder](https://www.aclweb.org/anthology/D19-1442.pdf)
-> 
+> Abstract: "Variational language models seek to estimate the posterior of latent variables with an approximated variational posterior. The model often assumes the variational posterior to be factorized even when the true posterior is not. The learned variational posterior under this assumption does not capture the dependency relationships over latent variables. We argue that this would cause a typical training problem called posterior collapse observed in all other variational language models. We propose Gaussian Copula Variational Autoencoder (VAE) to avert this problem. Copula is widely used to model correlation and dependencies of high-dimensional random variables, and therefore it is helpful to maintain the dependency relationships that are lost in VAE. The empirical results show that by modeling the correlation of latent variables explicitly using a neural parametric copula, we can avert this training difficulty while getting competitive results among all other VAE approaches."
 
-:heavy_minus_sign: [Patient Knowledge Distillation for BERT Model Compression](https://www.aclweb.org/anthology/D19-1441.pdf)
->
 
-:heavy_minus_sign: [Learning to Ask for Conversational Machine Learning](https://www.aclweb.org/anthology/D19-1426.pdf)
->
 
-:heavy_minus_sign: [Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training](https://www.aclweb.org/anthology/D19-1427.pdf)
->
 
-:heavy_minus_sign: [Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation](https://www.aclweb.org/anthology/D19-1429.pdf)
->
 
-:heavy_minus_sign: [Exploiting Monolingual Data at Scale for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1430.pdf)
->
 
-:heavy_minus_sign: [Parallel Iterative Edit Models for Local Sequence Transduction](https://www.aclweb.org/anthology/D19-1435.pdf)
->
-
-:heavy_minus_sign: [ARAML: A Stable Adversarial Training Framework for Text Generation](https://www.aclweb.org/anthology/D19-1436.pdf)
->
-
-:heavy_minus_sign: [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://www.aclweb.org/anthology/D19-1437.pdf)
->
-
-:boom: [Compositional Generalization for Primitive Substitutions](https://www.aclweb.org/anthology/D19-1438.pdf)
->
 
