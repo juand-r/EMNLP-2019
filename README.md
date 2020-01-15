@@ -445,7 +445,7 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 > 1. "similarities derived from elementary pooling operations and classic correlation coefficients yield excellent results on standard STS benchmarks, outperforming many recently proposed methods **while being much faster and trivial to implement**"
 > 2. "we demonstrate how to avoid pooling operations altogether and **compare sets of word embeddings directly via correlation operators between reproducing kernel Hilbert spaces.** Just like cosine similarity is used to compare individual word vectors, we introduce a novel application of the centered kernel alignment (CKA) as a natural generalisation of squared cosine similarity for sets of word vectors. Likewise, CKA is very easy to implement and enjoys very strong empirical results." 
 
-:heavy_minus_sign: [Game Theory Meets Embeddings (paper on WSD)](https://www.aclweb.org/anthology/D19-1009.pdf)
+:heavy_minus_sign: [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation](https://www.aclweb.org/anthology/D19-1009.pdf)
 >
 
 ## [Sentence Embeddings](#contents)
@@ -698,6 +698,8 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 :heavy_minus_sign: [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
 
+:heavy_minus_sign: [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation](https://www.aclweb.org/anthology/D19-1009.pdf)
+> See under [Word Embeddings](#word-embeddings)
 
 ## [Keyphrase Extraction](#contents)
 
