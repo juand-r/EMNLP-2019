@@ -30,6 +30,8 @@ Currently missing: many papers on cross-lingual NLP, multi-modal NLP, code-switc
     - [Explainability](#explainability)
     - [Adversarial ML](#adversarial-ml)
     - [Learning with Less Data](#learning-with-less-data)
+      - [Out-of-Domain Detection](#out-of-domain-detection)
+      - [Data Augmentation](#data-augmentation)
       - [Domain Adaptation](#domain-adaptation)
       - [Meta-learning](#meta-learning)
       - [Few-shot and zero-shot text classification](few-shot-and-zero-shot-text-classification)
@@ -340,8 +342,19 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 :heavy_minus_sign: [Latent-Variable Generative Models for Data-Efficient **Text Classification**](https://www.aclweb.org/anthology/D19-1048.pdf)
 > Abstract: "Generative classifiers offer potential advantages over their discriminative counterparts, namely in the areas of data efficiency, robustness to data shift and adversarial examples, and zero-shot learning (Ng and Jordan,2002; Yogatama et al., 2017; Lewis and Fan,2019). In this paper, we improve generative text classifiers by introducing discrete latent variables into the generative story, and explore several graphical model configurations. We parameterize the distributions using standard neural architectures used in conditional language modeling and perform learning by directly maximizing the log marginal likelihood via gradient-based optimization, which avoids the need to do expectation-maximization. We empirically characterize the performance of our models on six text classification datasets. The choice of where to include the latent variable has a significant impact on performance, with **the strongest results obtained when using the latent variable as an auxiliary conditioning variable in the generation of the textual input**. This model **consistently outperforms both the generative and discriminative classifiers in small-data settings**. We analyze our model by finding that **the latent variable captures interpretable properties of the data, even with very small training sets.**"
 
+### [Out-of-Domain Detection](#contents)
+
+The next two papers look at the "out-of-domain"/"none-of-the-above" issue, where it is useful to also detect whether an instance does not belong to any of the labels in the training set (this seems useful in real-word settings).
+
 :heavy_minus_sign: [FewRel 2.0: Towards More Challenging Few-Shot Relation Classification](https://www.aclweb.org/anthology/D19-1649.pdf)
 > Updates the FewRel dataset to address two issues that FewRel ignored: domain adaptation (i.e., with a biomedical out-of-domain test set) and "none-of-the-above" (NOTA) detection. Results: existing SOTA few-shot models and as popular methods for NOTA detection and domain adaptaion struggle on these new aspects.  **Data and baselines:** https://github.com/thunlp/fewrel
+
+:heavy_minus_sign: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
+> Task: text classification with very little in-domain labeled data, and no out-of-domain (OOD) data labels (indicating whether an instance has one of the in-domain labels or not). The authors propose an "*OOD-resistant Prototypical Network*" for the task, which is competitive with other baselines.
+
+**See also:**
+
+### [Data Augmentation](#contents)
 
 :heavy_minus_sign: [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.aclweb.org/anthology/D19-1670.pdf)
 > Performs experiments on "easy data augmentation" (EDA) strategies on five text classification datasets, and both convolutional and recurrent networks. On average "training with EDA while using only 50% of the available training set achieved the same accuracy as normal training with all available data". **Code:** http://github.com/jasonwei20/eda_nlp
@@ -349,10 +362,12 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 > Details of EDA: for each sentence in the training set, randomly perform one of these operations: (1) synonym replacement for n (randomly chosen) non stop-words in the sentence, (2) random insertion: insert a random synonym of a random word into a random position of the sentence, (3) randomly swap two words in the sentence, (4) randomly remove each word in the sentence with some probability. An ablation study shows that all four operations contribute to performance.
  >
  > Note: this paper doesn't compare against other benchmarks, such as paraphrases or agumentation with adversarial examples.
-
-:heavy_minus_sign: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
-> Task: text classification with very little in-domain labeled data, and no out-of-domain (OOD) data labels (indicating whether an instance has one of the in-domain labels or not). The authors propose an "*OOD-resistant Prototypical Network*" for the task, which is competitive with other baselines.
  
+ 
+:heavy_minus_sign: [Controlled Text Generation for Data Augmentation in Intelligent Artificial Agents]
+
+
+
 ### [Domain Adaptation](#contents)
 
 Other keywords: "domain adaptive", "cross-domain", "domain shift"...
