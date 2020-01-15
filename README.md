@@ -458,16 +458,17 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 :heavy_minus_sign: [Text-based inference of moral sentiment change](https://www.aclweb.org/anthology/D19-1472.pdf)
 > Uses diachronic word embeddings to explore how moral sentiments change over time (e.g. *slavery*). Abstract: "Our framework is based on the premise that language use can inform people’s moral perception toward right or wrong, and we build our methodology by exploring moral biases learned from diachronic word embeddings. We demonstrate how a parameter-free model supports inference of historical shifts in moral sentiment toward concepts such as slavery and democracy over centuries at three incremental levels: moral relevance, moral polarity, and fine-grained moral dimensions..."
 
-:heavy_minus_sign: [Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space](https://www.aclweb.org/anthology/D19-1354.pdf)
->
-
 :heavy_minus_sign: [Correlations between Word Vector Sets](https://www.aclweb.org/anthology/D19-1008.pdf)
 > From the abstract: "Similarity measures based purely on word embeddings are comfortably competing with much more sophisticated deep learning and expert-engineered systems on unsupervised semantic textual similarity (STS) tasks. In contrast to commonly used geometric approaches, **we treat a single word embedding as e.g. 300 observations from a scalar random variable.**"
 > 1. "similarities derived from elementary pooling operations and classic correlation coefficients yield excellent results on standard STS benchmarks, outperforming many recently proposed methods **while being much faster and trivial to implement**"
 > 2. "we demonstrate how to avoid pooling operations altogether and **compare sets of word embeddings directly via correlation operators between reproducing kernel Hilbert spaces.** Just like cosine similarity is used to compare individual word vectors, we introduce a novel application of the centered kernel alignment (CKA) as a natural generalisation of squared cosine similarity for sets of word vectors. Likewise, CKA is very easy to implement and enjoys very strong empirical results." 
 
 :heavy_minus_sign: [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation](https://www.aclweb.org/anthology/D19-1009.pdf)
+> Builds on Word Sense Disambiguation Games (WSDG), introduced in Tripodi and Pelillo, Computational Linguistics, 2017. This represents words as players in a non-cooperative game, and word senses as strategies. Edges of a graph determine the game interactions. The games are played repeatedly; at each iteration, words update their strategy/sense preferences, which are probability distributions over senses/strategies.
 >
+> The main difference between this paper and Tripodi and Pelillo (2017) is that they use word co-occurence and tf-idf vectors, resulting in sparse graphs, rather than dense vectors (which results in a dense weighted graph). Each player is involved in many more games, so the interaction among players is also changed.
+
+:heavy_minus_sign: [Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space](https://www.aclweb.org/anthology/D19-1354.pdf)
 
 ## [Sentence Embeddings](#contents)
 
