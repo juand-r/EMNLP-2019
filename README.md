@@ -480,13 +480,16 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 ## [Knowledge enhanced ML](#contents)
 
-:heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
+See also many of the papers in [Commonsense Reasoning](#commonsense-reasoning) and [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs) sections.
 
+:heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
+>
 
 :heavy_minus_sign: [**Knowledge Enhanced** Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005.pdf)
-
+>
 
 :heavy_minus_sign: [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
+>
 
 ## [Multimodal ML](#contents)
 
@@ -495,7 +498,7 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 >
 > See also at EMNLP 2019: "Dialog Intent Induction with Deep Multi-View Clustering".
 
-[What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues](https://www.aclweb.org/anthology/D19-1516.pdf)
+:heavy_minus_sign: [What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues](https://www.aclweb.org/anthology/D19-1516.pdf)
 > "... we formally define the task of visual-aware pronoun coreference resolution (PCR) and introduce VisPro, a large-scale dialogue PCR dataset, to investigate whether and how the visual information can help resolve pronouns in dialogues. We then propose a novel visual-aware PCR model, VisCoref, for this task and conduct comprehensive experiments and case studies on our dataset. Results demonstrate the importance of the visual information in this PCR case and show the effectiveness of the proposed model."
 
 :heavy_minus_sign: [Partners in Crime: Multi-view Sequential Inference for Movie Understanding](https://www.aclweb.org/anthology/D19-1212.pdf)
@@ -831,12 +834,11 @@ And of course there are a couple BERT-related papers:
 
 :heavy_minus_sign: [Finding Generalizable Evidence by Learning to Convince Q&A Models](https://www.aclweb.org/anthology/D19-1244.pdf)
 
-
 :heavy_minus_sign: [Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations](https://www.aclweb.org/anthology/D19-1334.pdf)
 
 :heavy_minus_sign: [How Reasonable are Common-Sense Reasoning Tasks: A Case-Study on the Winograd Schema Challenge and SWAG](https://www.aclweb.org/anthology/D19-1335.pdf)
 
-:heavy_minus_sign: [KagNet: Knowledge-Aware Graph Networksfor Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282.pdf)
+:heavy_minus_sign: [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282.pdf)
 
 :heavy_minus_sign: [COSMOSQA: Machine Reading Comprehensionwith Contextual Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1243.pdf)
 
