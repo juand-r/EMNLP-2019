@@ -512,6 +512,7 @@ The next two papers use attention mechanisms to incorporate external knowledge:
 # [NLG Tasks](#contents)
 
 :heavy_minus_sign: [Text2Math: End-to-end Parsing Text into Math Expressions](https://www.aclweb.org/anthology/D19-1536.pdf)
+> Presents an end-to-end system to translate text (arithmetic word problems) into tree-structured math expressions.
 
 ## [Summarization and Simplification](#contents)
 
