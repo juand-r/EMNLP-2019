@@ -696,19 +696,19 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 :heavy_minus_sign: [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation](https://www.aclweb.org/anthology/D19-1009.pdf)
 > See under [Word Embeddings](#word-embeddings)
 
-:heavy_minus_sign: [Encoders Help You Disambiguate Word Sensesin Neural Machine Translation](https://www.aclweb.org/anthology/D19-1149.pdf)
+:heavy_minus_sign: [Encoders Help You Disambiguate Word Senses in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1149.pdf)
 >
 
-[SyntagNet: Challenging Supervised Word Sense Disambiguationwith Lexical-Semantic Combinations](https://www.aclweb.org/anthology/D19-1359.pdf)
+:heavy_minus_sign: [SyntagNet: Challenging Supervised Word Sense Disambiguationwith Lexical-Semantic Combinations](https://www.aclweb.org/anthology/D19-1359.pdf)
 > This presents SyntagNet, a new resource of manually disambiguated "lexical semantic combinations" (sense-annotated lexical combinations, i.e., noun-noun and noun-verb pairs) which can be used in knowledge-based WSD. This supplements resources such as WordNet, with lacks syntagmatic relations ("A syntagmatic relation exists between two words which co-occur in spoken or written language more frequently than would be expected by chance and which have different grammatical roles in the sentences in which they occur"). The resource was extracted from English Wikipedia and the BNC, and disambiguated using WordNet 3.0. Examples: (run.v.19, program.n.07), (run.v.37, race.n.02), (run.v.4, farm.n.01).
 >
-> SyntagNet enables SOTA WSD (using UKB*) competitive with the best supervised systems.
+> SyntagNet enables SOTA WSD (using UKB*) which is competitive with the best supervised systems.
 >
 > **Data:** http://syntagnet.org/download/SyntagNet1.0.zip
 > 
 > \*  Agirre, Random Walks for Knowledge-Based WordSense Disambiguation, Computational Linguistics, 2014.
 
-And of course a few BERT-related papers:
+And of course there are a couple BERT-related papers:
 
 :heavy_minus_sign: [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://www.aclweb.org/anthology/D19-1355.pdf)
 
