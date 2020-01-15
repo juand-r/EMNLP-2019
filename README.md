@@ -349,8 +349,13 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 > Details of EDA: for each sentence in the training set, randomly perform one of these operations: (1) synonym replacement for n (randomly chosen) non stop-words in the sentence, (2) random insertion: insert a random synonym of a random word into a random position of the sentence, (3) randomly swap two words in the sentence, (4) randomly remove each word in the sentence with some probability. An ablation study shows that all four operations contribute to performance.
  >
  > Note: this paper doesn't compare against other benchmarks, such as paraphrases or agumentation with adversarial examples.
+
+:heavy_minus_sign: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
+> Task: text classification with very little in-domain labeled data, and no out-of-domain (OOD) data labels (indicating whether an instance has one of the in-domain labels or not). The authors propose an "*OOD-resistant Prototypical Network*" for the task, which is competitive with other baselines.
  
 ### [Domain Adaptation](#contents)
+
+Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 :boom: [To Annotate or Not? **Predicting Performance Drop under Domain Shift**](https://www.aclweb.org/anthology/D19-1222.pdf)
 > Abstract: "... we study the problem of predicting the performance drop of modern NLP models under domain-shift, in the absence of any target domain labels. We investigate three families of methods (H-divergence, reverse classification accuracy and confidence measures), show how they can be used to predict the performance drop and study their robustness to adversarial domain-shifts. Our results on sentiment classification and sequence labelling show that our method is able to predict performance drops with an error rate as low as 2.15% and 0.89% for sentiment analysis and POS tagging respectively."
@@ -366,16 +371,6 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 > - Rietzler et al., Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification
 > - (the BioBERT results in) [Shi and Demberg, Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains, EMNLP 2019](https://www.aclweb.org/anthology/D19-1586.pdf)
 
-:boom: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
->
-
-
-
-:heavy_minus_sign: [Shallow Domain Adaptive Embeddings for Sentiment Analysis](https://www.aclweb.org/anthology/D19-1557.pdf)
->
-
-:heavy_minus_sign: [Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification](https://www.aclweb.org/anthology/D19-1558.pdf)
->
 
 :heavy_minus_sign: [Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis](https://www.aclweb.org/anthology/D19-1478.pdf)
 >
