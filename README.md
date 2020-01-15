@@ -497,8 +497,11 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 :boom: [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
 > Introduces a multimodal dataset of Instagram posts labeled with author intent and image-text relationships. A baseline deep multimodal classifier is used to validate the proposed taxonomy, and using both the text and the image improves intent detection by almost 10% (over using only the image). Intents include: advocative, promotive, exhibitionist, expressive, informative, entertainment and provocative.
-
+>
 > See also at EMNLP 2019: "Dialog Intent Induction with Deep Multi-View Clustering".
+
+[What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues](https://www.aclweb.org/anthology/D19-1516.pdf)
+> "... we formally define the task of visual-aware pronoun coreference resolution (PCR) and introduce VisPro, a large-scale dialogue PCR dataset, to investigate whether and how the visual information can help resolve pronouns in dialogues. We then propose a novel visual-aware PCR model, VisCoref, for this task and conduct comprehensive experiments and case studies on our dataset. Results demonstrate the importance of the visual information in this PCR case and show the effectiveness of the proposed model."
 
 :heavy_minus_sign: [Partners in Crime: Multi-view Sequential Inference for Movie Understanding](https://www.aclweb.org/anthology/D19-1212.pdf)
 > "In this paper, we propose a neural architecture coupled with a novel training objective that **integrates multi-view  information for sequence prediction problems.**".  This is used in an incremental inference setup (i.e., making predictions without encoding the full sequence), which better mimics how humans process information. This architecture is tested on three tasks derived from the Frermann et al. (2018) dataset episodes from the CSI TV show:
@@ -889,7 +892,12 @@ And of course there are a couple BERT-related papers:
 
 :heavy_minus_sign: [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://www.aclweb.org/anthology/D19-1439.pdf)
 
+:heavy_minus_sign: [Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning](https://www.aclweb.org/anthology/D19-1606.pdf)
+"... most current reading comprehension benchmarks do not contain complex coreferential phenomena and hence fail to evaluate the ability of models to resolve coreference. We present a new crowdsourced dataset containing more than 24K span-selection questions that require resolving coreference among entities in over 4.7K English paragraphs from Wikipedia. Obtaining questions focused on such phenomena is challenging, because it is hard to avoid lexical cues that shortcut complex reasoning. We deal with this issue by using a strong baseline model as an adversary in the crowdsourcing loop, which helps crowdworkers avoid writing questions with exploitable surface cues. We show that state-of-the-art reading comprehension models perform significantly worse than humans on this benchmark—the best model performance is 70.5 F1, while the estimated human performance is 93.4 F1."
+
 :heavy_minus_sign: [BERT for Coreference Resolution: Baselines and Analysis](https://www.aclweb.org/anthology/D19-1588.pdf)
+
+:heavy_minus_sign: [Coreference Resolution in Full Text Articles with BERT and Syntax-based Mention Filtering](https://www.aclweb.org/anthology/D19-5727.pdf)
 
 ## [Text classification](#contents)
 
