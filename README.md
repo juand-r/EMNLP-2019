@@ -44,7 +44,7 @@ Currently missing: many papers on cross-lingual NLP, multi-modal NLP, code-switc
     - [Text generation and GPT2](#text-generation-and-gpt2)
     - [Machine Translation](#machine-translation)
   - [NLU Tasks](#nlu-tasks)
-    - [WSD](#wsd)
+    - [Word Sense Disambiguation (WSD)](#word-sense-disambiguation-wsd)
     - [Keyphrase extraction](#keyphrase-extraction)
     - [Fact checking](#fact-checking)
     - [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs)
@@ -681,9 +681,6 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 :heavy_minus_sign: [Self-Attention with Structural Position Representations](https://www.aclweb.org/anthology/D19-1145.pdf)
 
 
-:heavy_minus_sign: [Encoders Help You Disambiguate Word Sensesin Neural Machine Translation](https://www.aclweb.org/anthology/D19-1149.pdf)
-
-
 :heavy_minus_sign: [Simple, Scalable Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1165.pdf)
 
 
@@ -694,12 +691,27 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 # [NLU Tasks](#contents)
 
-## [WSD](#contents)
+## [Word Sense Disambiguation (WSD)](#contents)
 
 :heavy_minus_sign: [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
+>
 
 :heavy_minus_sign: [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation](https://www.aclweb.org/anthology/D19-1009.pdf)
 > See under [Word Embeddings](#word-embeddings)
+
+:heavy_minus_sign: [Encoders Help You Disambiguate Word Sensesin Neural Machine Translation](https://www.aclweb.org/anthology/D19-1149.pdf)
+>
+
+[SyntagNet: Challenging Supervised Word Sense Disambiguationwith Lexical-Semantic Combinations](https://www.aclweb.org/anthology/D19-1359.pdf)
+> Presents SyntagNet, a manually-created resource of "disambiguated lexical semantic combinations", which can be used in knowledge-based WSD 
+
+And of course a few BERT-related papers:
+
+:heavy_minus_sign: [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://www.aclweb.org/anthology/D19-1355.pdf)
+
+:heavy_minus_sign: [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
+
+**See also:** the "Word-in-Context" (WiC) challenge, and associated papers: https://pilehvar.github.io/wic/
 
 ## [Keyphrase Extraction](#contents)
 
