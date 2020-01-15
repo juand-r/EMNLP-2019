@@ -378,7 +378,7 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 > This is work co-authored by Jessy Li (with Shrey Desai, Barea Sinno, Alex Rosenfeld).
 
 :heavy_minus_sign: [Weakly Supervised Domain Detection. Yumo Xu and Mirella Lapata (TACL)](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00287)
->
+> Abstract: "... we introduce **domain detection** as a new natural language processing task. We argue that the ability to detect textual segments that are **domain-heavy (i.e., sentences or phrases that are representative of and provide evidence for a given domain)** could enhance the robustness and portability of various text classification applications. We propose an encoder-detector framework for domain detection and **bootstrap classifiers with multiple instance learning**. The model is hierarchically organized and suited to multilabel classification. We demonstrate that despite learning with minimal supervision, our model can be **applied to text spans of different granularities, languages, and genres**. We also showcase the potential of domain detection for text summarization."
 
 ### [Meta-learning](#contents)
 
