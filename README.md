@@ -344,6 +344,8 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 > Performs experiments on "easy data augmentation" (EDA) strategies on five text classification datasets, and both convolutional and recurrent networks. On average "training with EDA while using only 50% of the available training set achieved the same accuracy as normal training with all available data". **Code:** http://github.com/jasonwei20/eda_nlp
 >
 > Details of EDA: for each sentence in the training set, randomly perform one of these operations: (1) synonym replacement for n (randomly chosen) non stop-words in the sentence, (2) random insertion: insert a random synonym of a random word into a random position of the sentence, (3) randomly swap two words in the sentence, (4) randomly remove each word in the sentence with some probability. An ablation study shows that all four operations contribute to performance.
+ >
+ > Note: this paper doesn't compare against other benchmarks, such as paraphrases or agumentation with adversarial examples.
  
 ### [Domain Adaptation](#contents)
 
