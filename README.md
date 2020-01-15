@@ -235,6 +235,11 @@ A selection:
 >
 > In order to test how well this transfers to out-of-domain data, the BERT fine-tuned on PDTB was also evaluated on BioDRB (biomedical text) - and outperforms previous SOTA by about 15%. In addition, further pre-training on in-domain data (GENIA, or using BioBERT) performs best.
 
+:boom: [Pretrained Language Models for Sequential Sentence Classification](https://www.aclweb.org/anthology/D19-1383.pdf)
+> Task: classification of sentences in a document (a) according to their rhetorical roles (e.g., Introduction, Method, Result, etc.), or (b) according to  whether or not it should be included in an (extractive) summary of the document.
+>
+> **Code and data:** https://github.com/allenai/sequential_sentence_classification
+
 :heavy_minus_sign: [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://www.aclweb.org/anthology/D19-1060.pdf)
 > Introduces DiscoEval, a test suite of 7 tasks to evaluate whether sentence embedding representations contain information about the sentence's discourse context:
 > - PDTB-E: explicit discourse relation classification
@@ -249,8 +254,6 @@ A selection:
 
 :heavy_minus_sign: [A Unified Neural Coherence Model](https://www.aclweb.org/anthology/D19-1231.pdf)
 > Proposes a model that incorporates grammar, inter-sentence coherence relations and global coherence patterns into a common neural framework, which beats SOTA. Code: https://ntunlpsg.github.io/project/coherence/n-coh-emnlp19/
-
-:heavy_minus_sign: [Pretrained Language Models for Sequential Sentence Classification](https://www.aclweb.org/anthology/D19-1383.pdf)
 
 ## [Explainability](#contents)
 
