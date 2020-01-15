@@ -890,6 +890,8 @@ And of course there are a couple BERT-related papers:
 
 ## [Coreference](#contents)
 
+Two new coreference-related datasets:
+
 :heavy_minus_sign: [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://www.aclweb.org/anthology/D19-1439.pdf)
 > Abstract:"... In this work, we introduce WikiCREM (Wikipedia CoREferences Masked) a large-scale, yet accurate dataset of pronoun disambiguation instances. We use a language-model-based approach for pronoun resolution in combination with our WikiCREM dataset. We compare a series of models on a collection of diverse and challenging coreference resolution problems, where we match or outperform previous state-of-the-art approaches on 6 out of 7 datasets, such as GAP, DPR, WNLI, PDP, WinoBias, and WinoGender. We release our model to be used off-the-shelf for solving pronoun disambiguation."
 >
@@ -897,6 +899,8 @@ And of course there are a couple BERT-related papers:
 
 :heavy_minus_sign: [Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning](https://www.aclweb.org/anthology/D19-1606.pdf)
 >"... most current reading comprehension benchmarks do not contain complex coreferential phenomena and hence fail to evaluate the ability of models to resolve coreference. We present a new crowdsourced dataset containing more than 24K span-selection questions that require resolving coreference among entities in over 4.7K English paragraphs from Wikipedia. Obtaining questions focused on such phenomena is challenging, because it is hard to avoid lexical cues that shortcut complex reasoning. We deal with this issue by using a strong baseline model as an adversary in the crowdsourcing loop, which helps crowdworkers avoid writing questions with exploitable surface cues. We show that state-of-the-art reading comprehension models perform significantly worse than humans on this benchmark—the best model performance is 70.5 F1, while the estimated human performance is 93.4 F1."
+
+And two more papers using BERT for coreference:
 
 :heavy_minus_sign: [BERT for Coreference Resolution: Baselines and Analysis](https://www.aclweb.org/anthology/D19-1588.pdf)
 
