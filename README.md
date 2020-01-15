@@ -344,7 +344,7 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 
 ### [Out-of-Domain Detection](#contents)
 
-The next two papers look at the "out-of-domain"/"none-of-the-above" issue, where it is useful to also detect whether an instance does not belong to any of the labels in the training set (this seems useful in real-word settings).
+The next two papers look at the "out-of-domain"/"none-of-the-above" issue, where it is useful to also detect whether an instance does not belong to any of the labels in the training set (this seems useful in real-word settings). Note: the term "out-of-domain" seems a bit misleading...this is not to be confused with "out-of-distribution" or novelty detection (https://arxiv.org/pdf/1610.02136.pdf)
 
 :heavy_minus_sign: [FewRel 2.0: Towards More Challenging Few-Shot Relation Classification](https://www.aclweb.org/anthology/D19-1649.pdf)
 > Updates the FewRel dataset to address two issues that FewRel ignored: domain adaptation (i.e., with a biomedical out-of-domain test set) and "none-of-the-above" (NOTA) detection. Results: existing SOTA few-shot models and as popular methods for NOTA detection and domain adaptaion struggle on these new aspects.  **Data and baselines:** https://github.com/thunlp/fewrel
@@ -896,7 +896,7 @@ And of course there are a couple BERT-related papers:
 :boom: [**Label Embedding using Hierarchical Structure of Labels** for Twitter Classification](https://www.aclweb.org/anthology/D19-1660.pdf)
 
 :heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
-> Task: document classification where no labels are available for training, and only the positive class has a list of keywords associated with the class.  This is a variant of the "dataless classification task". This paper proposes a  "theoretically guaranteed learning framework" for this problem "that is simple to implement and has flexible choices of models".
+> Task: document classification where no labels are available for training, and only the positive class has a list of keywords associated with the class.  This is a variant of the "dataless classification task" (this has also been called "lightly-supervised one-class classification"). This paper proposes a  "theoretically guaranteed learning framework" for this problem "that is simple to implement and has flexible choices of models".
 
 :heavy_minus_sign: [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
 
