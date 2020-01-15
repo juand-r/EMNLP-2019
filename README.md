@@ -482,11 +482,11 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 See also many of the papers in [Commonsense Reasoning](#commonsense-reasoning) and [Relation extraction and Knowledge graphs](#relation-extraction-and-knowledge-graphs) sections.
 
-:heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
->
+:boom: [**Knowledge Enhanced** Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005.pdf)
+> This presents a method to embed multiple knowledge bases (KB) into large-scale models. After integrating WordNet and part of Wikipedia into BERT, **KnowBERT** shows improvements in perplexity, fact recall (via probing tasks) and downstream tasks (relationship extraction, entity typing, WSD).
 
-:heavy_minus_sign: [**Knowledge Enhanced** Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005.pdf)
->
+:heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
+> Proposes a " Knowledge-Enriched Transformer" (KET), where "utterances are interpreted using hierarchical self-attention and external commonsense knowledge is dynamically leveraged using a context-aware affective graph attention mechanism." This is applied to emotion detection tasks with promising (SOTA) results.
 
 :heavy_minus_sign: [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
 >
