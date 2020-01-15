@@ -518,45 +518,44 @@ The next two papers use attention mechanisms to incorporate external knowledge:
 
 ### Summarization
 
+There are a huge number of papers for this task. The following paper may be useful to see the big picture:
+
+:boom: [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
+> Abstract: "...We critically evaluate key ingredients of the current research setup: datasets, evaluation metrics, and models, and highlight three primary shortcomings: 1) automatically collected datasets leave the task underconstrained and may contain noise detrimental to training and evaluation, 2) **current evaluation protocol is weakly correlated with human judgment and does not account for important characteristics such as factual correctness**, 3) models **overfit to layout biases of current datasets** and offer limited diversity in their outputs.
+
+:boom: [BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
+
 #### Reinforcement Learning
 
 :heavy_minus_sign: [Deep Reinforcement Learning with Distributional Semantic Rewardsfor Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
 > Rather than use Rouge-L (the conventional reward for RL-based abstractive summarization), this proposes a new "distributional semantics reward", which performs better according to human judgments.
 
-:heavy_minus_sign: [Abstract Text Summarization: A Low Resource Challenge](https://www.aclweb.org/anthology/D19-1616.pdf)
->
-
-:heavy_minus_sign: [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
->
-
-:heavy_minus_sign: [BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
->
-
-:heavy_minus_sign: [How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing](https://www.aclweb.org/anthology/D19-1388.pdf)
->
-
-:heavy_minus_sign: [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf)
->
-
 :heavy_minus_sign: [Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
->
+> Abstract: "... summaries with high ROUGE scores often receive low human judgement. To find a better reward function that can guide RL to generate human-appealing summaries, we learn a reward function from human ratings on 2,500 summaries. Our reward function only takes the document and system summary as input. Hence, once trained, it can be used to train RL based summarisation systems without using any reference summaries. We show that our learned rewards have significantly higher correlation with human ratings than previous approaches."
+
+#### Other
+
+:heavy_minus_sign: [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf) (BERT)
+> Abstract: "... we showcase how BERT can be usefully applied in text summarization and propose a general framework for both **extractive** and **abstractive** models. We introduce a novel document-level encoder based on BERT which is able to express the semantics of a document and obtain representations for its sentences..." 
 
 :heavy_minus_sign: [Contrastive Attention Mechanism for Abstractive Sentence Summarization](https://www.aclweb.org/anthology/D19-1301.pdf)
->
+> Abstract: "We propose a contrastive attention mechanism to extend the sequence-to-sequence framework for abstractive sentence summarization task, which aims to generate a brief summary of a given source sentence. The proposed contrastive attention mechanism accommodates **two categories of attention**: one is the conventional attention that attends to relevant parts of the source sentence, **the other is the opponent attention that attends to irrelevant or less relevant parts of the source sentence**. Both attentions are trained in an opposite way so that the contribution from the conventional attention is encouraged and the contribution from the opponent attention is discouraged through a novel softmax and softmin functionality..." **Code:** https://github.com/travel-go/Abstractive-Text-Summarization
 
-:heavy_minus_sign: [A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
->
 
 :heavy_minus_sign: [Deep copycat Networks for Text-to-Text Generation](https://www.aclweb.org/anthology/D19-1318.pdf)
 >
 
+:heavy_minus_sign: [How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing](https://www.aclweb.org/anthology/D19-1388.pdf)
+
+:heavy_minus_sign: [A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
+
 ### Simplification
 
 :heavy_minus_sign: [EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
-
+>
 
 :heavy_minus_sign: [Recursive Context-Aware Lexical Simplification](https://www.aclweb.org/anthology/D19-1491.pdf)
-
+>
 
 ### Evaluation
 
