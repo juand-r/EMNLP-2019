@@ -415,7 +415,10 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 > "While  a  specific  acquisition  function  and model applied to a particular task and domain maybe quite effective, it is not clear that this can be predicted ahead of time. Indeed, there is no way to retrospectively determine the relative success of AL without collecting a relatively large quantity of i.i.d. sampled data, and this would undermine the purpose of AL in the first place. Further, even if such an i.i.d. sample were taken as a diagnostic tool early in the active learning cycle, relative success early in the AL cycle is not necessarily indicative of relative success later in the  cycle ... Problematically, even in successful cases, **an actively sampled training set is linked to the model used  to  acquire  it.**"
 
 :heavy_minus_sign: [Sampling Bias in Deep Active Classification: An Empirical Study](https://www.aclweb.org/anthology/D19-1417.pdf)
+> This is the first thorough investigation of active learning for neural machine translation (NMT). "Our experimental setup to compare different AL methods uses: i) State-of-the-art NMT architecture to achieve realistic results; and ii) the same dataset (WMT’13 English-Spanish) to have fair comparison across different methods. We then demonstrate how recent advancements in unsupervised pre-training and paraphrastic embedding can be used to improve existing AL methods. Finally, we propose a neural extension for an AL sampling method used in the context of phrase-based MT - Round Trip Translation Likelihood (RTTL). RTTL uses a bidirectional translation model to estimate the loss of information during translation and outperforms previous methods."
 
+:heavy_minus_sign: [Empirical Evaluation of Active Learning Techniques for Neural MT](https://www.aclweb.org/anthology/D19-6110.pdf)
+>
 
 ## [Word Embeddings](#contents)
 
