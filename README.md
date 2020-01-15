@@ -373,7 +373,9 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 
 :heavy_minus_sign: [Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis](https://www.aclweb.org/anthology/D19-1478.pdf)
+> Presents a new unsupervised domain adaptation framework, *adaptive ensembling*, which outperforms strong benchmarks on  two political text classification tasks, with the Annotated NYT as the source domain and COHA as the target domain. **Code and data**: http://github.com/shreydesai/adaptive-ensembling
 >
+> This is work co-authored by Jessy Li (with Shrey Desai, Barea Sinno, Alex Rosenfeld).
 
 :heavy_minus_sign: [Weakly Supervised Domain Detection. Yumo Xu and Mirella Lapata (TACL)](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00287)
 >
