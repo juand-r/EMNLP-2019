@@ -354,11 +354,14 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 > 
 > See also:
 > 1. [Dai et al., Using Similarity Measures to Select Pretraining Data for NER, NAACL 2019](https://www.aclweb.org/anthology/N19-1149)
-> 2. van Asch and Daelemans, Using Domain Similarity for Performance Estimation, ACL 2010
+> 2. [van Asch and Daelemans, Using Domain Similarity for Performance Estimation, ACL 2010](https://www.aclweb.org/anthology/W10-2605.pdf)
 > 3. Jesper Back, thesis (2018), Domain similarity metrics for predicting transfer learning performance
 
 :boom: [**Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling**](https://www.aclweb.org/anthology/D19-1433.pdf)
 >
+> See also:
+> - Rietzler et al., Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification
+> - (the BioBERT results in) [Shi and Demberg, Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains, EMNLP 2019](https://www.aclweb.org/anthology/D19-1586.pdf)
 
 :boom: [**Out-of-Domain Detection** for **Low-Resource** Text Classification Tasks](https://www.aclweb.org/anthology/D19-1364.pdf)
 >
@@ -869,7 +872,7 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 :heavy_minus_sign: [Fine-Grained Analysis of Propaganda in News Articles](https://www.aclweb.org/anthology/D19-1565.pdf)
 > Introduces a corpus of news articles annotated (at fragment level) with 18 propaganda techniques. A "multi-granularity" network based on BERT achieves the best performance on the task.
 > 
-> See also: https://propaganda.qcri.org/ and Semeval 2020 Task 11 (https://propaganda.qcri.org/semeval2020-task11/).
+> See also: https://propaganda.qcri.org/ , the Fine Grained Propaganda Detection competition at the NLP4IF’19 workshop, and Semeval 2020 Task 11 (https://propaganda.qcri.org/semeval2020-task11/).
 
 :heavy_minus_sign: [Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
 
