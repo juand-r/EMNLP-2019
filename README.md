@@ -94,7 +94,7 @@ A selection:
 
 ### Annotation tools
 
-:heavy_minus_sign: [A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
+:heavy_minus_sign: [MedCATTrainer: A Biomedical Free Text Annotation Interface with **Active Learning** and Research Use Case Specific Customisation](https://www.aclweb.org/anthology/D19-3024.pdf)
 > A flexible interactive web interface for NER and linking using active learning. Code: https://github.com/CogStack/MedCATtrainer  Demo: https://www.youtube.com/watch?v=lM914DQjvSo
 
 :heavy_minus_sign: [Redcoat: A **Collaborative** Annotation Tool for **Hierarchical Entity Typing**](https://www.aclweb.org/anthology/D19-3033.pdf)
