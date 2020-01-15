@@ -518,35 +518,37 @@ The next two papers use attention mechanisms to incorporate external knowledge:
 
 ### Summarization
 
-:heavy_minus_sign: [Deep Reinforcement Learning with Distributional Semantic Rewardsfor Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
+#### Reinforcement Learning
 
+:heavy_minus_sign: [Deep Reinforcement Learning with Distributional Semantic Rewardsfor Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
+> Rather than use Rouge-L (the conventional reward for RL-based abstractive summarization), this proposes a new "distributional semantics reward", which performs better according to human judgments.
 
 :heavy_minus_sign: [Abstract Text Summarization: A Low Resource Challenge](https://www.aclweb.org/anthology/D19-1616.pdf)
-
+>
 
 :heavy_minus_sign: [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051.pdf)
-
+>
 
 :heavy_minus_sign: [BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
-
+>
 
 :heavy_minus_sign: [How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing](https://www.aclweb.org/anthology/D19-1388.pdf)
-
+>
 
 :heavy_minus_sign: [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf)
-
+>
 
 :heavy_minus_sign: [Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
-
+>
 
 :heavy_minus_sign: [Contrastive Attention Mechanism for Abstractive Sentence Summarization](https://www.aclweb.org/anthology/D19-1301.pdf)
-
+>
 
 :heavy_minus_sign: [A Summarization System for Scientific Documents](https://www.aclweb.org/anthology/D19-3036.pdf)
-
+>
 
 :heavy_minus_sign: [Deep copycat Networks for Text-to-Text Generation](https://www.aclweb.org/anthology/D19-1318.pdf)
-
+>
 
 ### Simplification
 
