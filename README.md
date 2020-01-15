@@ -693,9 +693,6 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 ## [Word Sense Disambiguation (WSD)](#contents)
 
-:heavy_minus_sign: [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
->
-
 :heavy_minus_sign: [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation](https://www.aclweb.org/anthology/D19-1009.pdf)
 > See under [Word Embeddings](#word-embeddings)
 
@@ -703,7 +700,11 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 >
 
 [SyntagNet: Challenging Supervised Word Sense Disambiguationwith Lexical-Semantic Combinations](https://www.aclweb.org/anthology/D19-1359.pdf)
-> Presents SyntagNet, a manually-created resource of "disambiguated lexical semantic combinations", which can be used in knowledge-based WSD 
+> There are very few non-ML papers at this conference. This is one of them.
+>
+> This presents SyntagNet, a new resource of manually disambiguated "lexical semantic combinations" (sense-annotated lexical combinations) which can be used in knowledge-based WSD. This supplements resources such as WordNet,  with lacks syntagmatic relations ("A syntagmatic relation exists between two words which co-occur in spoken or written language more frequently than would be expected by chance and which have different grammatical roles in the sentences in which they occur). SyntagNet enables SOTA WSD (using UKB*) competitive with the best supervised systems.
+>
+> \*  Agirre, Random Walks for Knowledge-Based WordSense Disambiguation, Computational Linguistics, 2014.
 
 And of course a few BERT-related papers:
 
