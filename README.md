@@ -344,7 +344,7 @@ These two papers (from two different groups, Stanford and Deepmind) discuss "cer
 
 ### [Out-of-Domain Detection](#contents)
 
-The next two papers look at the "out-of-domain"/"none-of-the-above" issue, where it is useful to also detect whether an instance does not belong to any of the labels in the training set (this seems useful in real-word settings). Note: the term "out-of-domain" seems a bit misleading...this is not to be confused with "out-of-distribution" or novelty detection (https://arxiv.org/pdf/1610.02136.pdf)
+The next two papers look at the "out-of-domain"/"none-of-the-above" issue, where it is useful to also detect whether an instance does not belong to any of the labels in the training set (this seems useful in real-word settings). Note: the term "out-of-domain" seems a bit misleading...this is not to be confused with "out-of-distribution" or novelty detection (https://arxiv.org/pdf/1610.02136.pdf ; https://arxiv.org/pdf/1911.07421.pdf)
 
 :heavy_minus_sign: [FewRel 2.0: Towards More Challenging Few-Shot Relation Classification](https://www.aclweb.org/anthology/D19-1649.pdf)
 > Updates the FewRel dataset to address two issues that FewRel ignored: domain adaptation (i.e., with a biomedical out-of-domain test set) and "none-of-the-above" (NOTA) detection. Results: existing SOTA few-shot models and as popular methods for NOTA detection and domain adaptaion struggle on these new aspects.  **Data and baselines:** https://github.com/thunlp/fewrel
@@ -485,8 +485,10 @@ See also many of the papers in [Commonsense Reasoning](#commonsense-reasoning) a
 :boom: [**Knowledge Enhanced** Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005.pdf)
 > This presents a method to embed multiple knowledge bases (KB) into large-scale models. After integrating WordNet and part of Wikipedia into BERT, **KnowBERT** shows improvements in perplexity, fact recall (via probing tasks) and downstream tasks (relationship extraction, entity typing, WSD).
 
+The next two papers
+
 :heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
-> Proposes a " Knowledge-Enriched Transformer" (KET), where "utterances are interpreted using hierarchical self-attention and external commonsense knowledge is dynamically leveraged using a context-aware affective graph attention mechanism." This is applied to emotion detection tasks with promising (SOTA) results.
+> Proposes a "Knowledge-Enriched Transformer" (KET), where "utterances are interpreted using hierarchical self-attention and external commonsense knowledge is dynamically leveraged using a context-aware affective graph attention mechanism." This is applied to emotion detection tasks with promising (SOTA) results.
 
 :heavy_minus_sign: [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
 >
