@@ -472,11 +472,8 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 :heavy_minus_sign: [Parameter-free Sentence Embedding via Orthogonal Basis](https://www.aclweb.org/anthology/D19-1059.pdf)
 > A simple, non-parametrized approach, inspired by the Gram-Schmidt process: "we build an orthogonal basis of the subspace spanned by a word and its surrounding context in a sentence... We evaluate our approach on 11 downstream NLP tasks. Our model shows superior performance compared with non-parameterized alternatives and it is **competitive to other approaches relying on either large amounts of labelled data or prolonged training time.**"
 
-:heavy_minus_sign: [Higher-order Comparisons of Sentence Encoder Representations](https://www.aclweb.org/anthology/D19-1593.pdf)
->
-
-:heavy_minus_sign: [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
-> Paper by Nils Reimers and Iryna Gurevych. They modify the pretrained BERT network to use siamese network structures to get semantically meaningful sentence embeddings, which can be compared with cosine similarity for semantic textual similarity (STS). This is much faster than using BERT directly (feeding both sentences into the network to calculate a pairwise score) - 5 seconds rather than 65 hours - and similar in accuracy.
+:heavy_minus_sign: [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
+> Paper by Nils Reimers and Iryna Gurevych. They modify the pretrained BERT network to use siamese network structures to get semantically meaningful sentence embeddings, which can be compared using cosine similarity for semantic textual similarity (STS). This approach ("SBERT") is much faster than using BERT directly (feeding both sentences into the network to calculate a pairwise score): it takes 5 seconds rather than 65 hours has similar accuracy.
 
 :heavy_minus_sign: [Efficient Sentence Embedding using Discrete Cosine Transform](https://www.aclweb.org/anthology/D19-1380.pdf)
 > Abstract: "... We propose the use of discrete cosine transform (DCT) to compress word sequences in an order-preserving manner. The lower order DCT coefficients represent the overall feature patterns in sentences, which results in suitable embeddings for tasks that could benefit from syntactic features. Our results in semantic probing tasks demonstrate that DCT embeddings indeed preserve more syntactic information compared with vector averaging. With practically equivalent complexity, the model yields better overall performance in downstream classification tasks that correlate with syntactic features, which illustrates **the capacity of DCT to preserve word order information.**"
