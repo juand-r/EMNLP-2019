@@ -485,13 +485,13 @@ See also many of the papers in [Commonsense Reasoning](#commonsense-reasoning) a
 :boom: [**Knowledge Enhanced** Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005.pdf)
 > This presents a method to embed multiple knowledge bases (KB) into large-scale models. After integrating WordNet and part of Wikipedia into BERT, **KnowBERT** shows improvements in perplexity, fact recall (via probing tasks) and downstream tasks (relationship extraction, entity typing, WSD).
 
-The next two papers
+The next two papers use attention mechanisms to incorporate external knowledge:
 
 :heavy_minus_sign: [**Knowledge-Enriched** Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf)
 > Proposes a "Knowledge-Enriched Transformer" (KET), where "utterances are interpreted using hierarchical self-attention and external commonsense knowledge is dynamically leveraged using a context-aware affective graph attention mechanism." This is applied to emotion detection tasks with promising (SOTA) results.
 
 :heavy_minus_sign: [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
->
+> Abstract: "...We propose a novel knowledge-attention encoder **which incorporates prior knowledge from external lexical resources into deep neural networks for relation extraction** task. Furthermore, we present three effective ways of integrating knowledge-attention with self-attention to maximize the utilization of both knowledge and data..."
 
 ## [Multimodal ML](#contents)
 
