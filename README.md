@@ -407,7 +407,12 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 ### [Active learning](#contents)
 
 :boom: [Practical Obstacles to Deploying **Active Learning**](https://www.aclweb.org/anthology/D19-1003.pdf)
-
+>
+> Paper by David Lowell, Zachary Lipton and Byron Wallace. This is a thorough empirical study of various active learning methods on text classification and NER tasks that shows **consistent improved performance for NER**, while for text classification:
+> 1. current active learning methods don't "generalize reliably across models and tasks".
+> 2. "subsequently training a successor model with an actively-acquired dataset does not consistently outperform training on i.i.d. sampled data"
+>
+> "While  a  specific  acquisition  function  and model applied to a particular task and domain maybe quite effective, it is not clear that this can be predicted ahead of time. Indeed, there is no way to retrospectively determine the relative success of AL without collecting a relatively large quantity of i.i.d. sampled data, and this would undermine the purpose of AL in the first place. Further, even if such an i.i.d. sample were taken as a diagnostic tool early in the active learning cycle, relative success early in the AL cycle is not necessarily indicative of relative success later in the  cycle ... Problematically, even in successful cases, **an actively sampled training set is linked to the model used  to  acquire  it.**"
 
 :heavy_minus_sign: [Sampling Bias in Deep Active Classification: An Empirical Study](https://www.aclweb.org/anthology/D19-1417.pdf)
 
