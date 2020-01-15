@@ -386,10 +386,10 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 
 :heavy_minus_sign: [Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification](https://www.aclweb.org/anthology/D19-1444.pdf)
-
+> "... we propose a meta-learning method to capture these complex label dependencies. More specifically, our method utilizes a meta-learner to jointly learn the training policies and prediction policies for different labels. The training policies are then used to train the classifier with the cross-entropy loss function, and the prediction policies are further implemented for prediction. "
 
 :heavy_minus_sign: [Text Emotion Distribution Learning from Small Sample: A Meta-Learning Approach](https://www.aclweb.org/anthology/D19-1408.pdf)
-
+> Emotion distribution learning (EDL) task: predict the intensity of a sentence across a set of emotion categories. The authors "propose a meta-learning approach to learn text emotion distributions from a small sample", by (1) learning a low-rank sentence embedding via tensor decomposition, (2) generating sample clusters using K-nearest neighbors (KNNs) of sentence embeddings, and (3) "train a meta-learner that can adapt to new data with only a few training samples on the clusters, and further fit the meta-learner on KNNs of a testing sample for EDL."
 
 ### [Few-shot and zero-shot text classification](#contents)
 
@@ -397,7 +397,7 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 
 :heavy_minus_sign: [Look-up and Adapt: A One-shot Semantic Parser](https://www.aclweb.org/anthology/D19-1104.pdf)
-
+> Abstract: "... we propose a semantic parser that generalizes to out-of-domain examples by learning a general strategy for parsing an unseen utterance **through adapting the logical forms of seen utterances, instead of learning to generate a logical form from scratch**. Our parser maintains a memory consisting of a representative subset of the seen utterances paired with their logical forms. Given an unseen utterance, our parser works by looking up a similar utterance from the memory and adapting its logical form until it fits the unseen utterance. Moreover, we present a data generation strategy for constructing utterance-logical form pairs from different domains. **Our results show an improvement of up to 68.8% on one-shot parsing under two different evaluation settings compared to the baselines.**
 
 :heavy_minus_sign: [Induction Networks for Few-Shot Text Classification](https://www.aclweb.org/anthology/D19-1403.pdf)
 
