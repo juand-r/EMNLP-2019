@@ -356,6 +356,8 @@ The next two papers look at the "out-of-domain"/"none-of-the-above" issue, where
 
 ### [Data Augmentation](#contents)
 
+Something to keep an eye on: improvements in text generation for data augmentation in NLP (see below).
+
 :heavy_minus_sign: [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.aclweb.org/anthology/D19-1670.pdf)
 > Performs experiments on "easy data augmentation" (EDA) strategies on five text classification datasets, and both convolutional and recurrent networks. On average "training with EDA while using only 50% of the available training set achieved the same accuracy as normal training with all available data". **Code:** http://github.com/jasonwei20/eda_nlp
 >
@@ -363,9 +365,13 @@ The next two papers look at the "out-of-domain"/"none-of-the-above" issue, where
  >
  > Note: this paper doesn't compare against other benchmarks, such as paraphrases or agumentation with adversarial examples.
  
- 
-:heavy_minus_sign: [Controlled Text Generation for Data Augmentation in Intelligent Artificial Agents]
+:heavy_minus_sign: [Controlled Text Generation for Data Augmentation in Intelligent Artificial Agents](https://www.aclweb.org/anthology/D19-5609.pdf)
+> "We investigate the use of text generation techniques to augment the training data of a popular commercial artificial agent" (Alexa?; slot filling task)
 
+:heavy_minus_sign: [Data Augmentation with Atomic Templates for Spoken Language Understanding]
+> Abstract: "Spoken Language Understanding (SLU) converts user utterances into structured semantic representations. Data sparsity is one of the main obstacles of SLU due to the high cost of human annotation, especially when domain changes or a new domain comes. In this work, we propose **a data augmentation method with atomic templates for SLU, which involves minimum human efforts**. The atomic templates produce exemplars for fine-grained constituents of semantic representations. **We propose an encoder-decoder model to generate the whole utterance from atomic exemplars**. Moreover, the generator could be transferred from source domains to help a new domain which has little data. Experimental results show that our method achieves significant improvements on DSTC 2&3 dataset which is a domain adaptation setting of SLU."
+
+There are also data augmentation papers applied to [domain agnostic question answering](https://www.aclweb.org/anthology/D19-5829.pdf), [detecting adverse drug reactions](https://www.aclweb.org/anthology/D19-1239.pdf), [text normalization](https://www.aclweb.org/anthology/D19-5536.pdf), [intent classification](https://www.aclweb.org/anthology/D19-6101.pdf), [dialogue generation](https://www.aclweb.org/anthology/D19-1132.pdf) and machine translation ([G. Li et al.](https://www.aclweb.org/anthology/D19-1570.pdf), [Z. Li and Specia](https://www.aclweb.org/anthology/D19-5543.pdf), [Tong et al.,](https://www.aclweb.org/anthology/D19-5218.pdf)).
 
 
 ### [Domain Adaptation](#contents)
