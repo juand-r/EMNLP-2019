@@ -420,41 +420,47 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 ## [Word Embeddings](#contents)
 
 :boom: [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://www.aclweb.org/anthology/D19-1534.pdf)
-
+>
 
 :boom: **Best paper award** [Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf)
+>
 
 :boom: [Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition (TACL?)](https://arxiv.org/abs/1902.10618)
-
-
-:heavy_minus_sign: [Feature2Vec: Distributional semantic modelling of human property knowledge](https://www.aclweb.org/anthology/D19-1595.pdf)
-
+>
 
 :heavy_minus_sign: [Multiplex Word Embeddings for **Selectional Preference Acquisition**](https://www.aclweb.org/anthology/D19-1528.pdf)
+>  A multiplex  network  embedding  model (originally used to model social networks in Zhang et al., Scalable  multiplex  network embedding, IJCAI 2018) is used to encode selectional preference information in a set of embeddings to represent both its general semantics and relation-dependent (e.g., subject, object) semantics. This is used to learn selectional preferences (for example, that "song" is a more plausible object for "sing" than "potato"). Experiments on selectional preference acquisition and word similarity demonstrate the effectiveness of the embeddings.
 
+:heavy_minus_sign: [Feature2Vec: Distributional semantic modelling of human property knowledge](https://www.aclweb.org/anthology/D19-1595.pdf)
+> *Feature norm* datasets list properties of words; they "yield highly interpretable models of word meaning and play an important role in neurolinguistic research on semantic cognition".  This paper proposes "a method for mapping human property knowledge onto a distributional semantic space, which adapts the word2vec architecture to the task of modelling concept features".
 
 :heavy_minus_sign: [Text-based inference of moral sentiment change](https://www.aclweb.org/anthology/D19-1472.pdf)
-> Uses diachronic word embedding to explore moral biases over time (e.g. *slavery*).
-
+> Uses diachronic word embeddings to explore how moral sentiments change over time (e.g. *slavery*). Abstract: "Our framework is based on the premise that language use can inform people’s moral perception toward right or wrong, and we build our methodology by exploring moral biases learned from diachronic word embeddings. We demonstrate how a parameter-free model supports inference of historical shifts in moral sentiment toward concepts such as slavery and democracy over centuries at three incremental levels: moral relevance, moral polarity, and fine-grained moral dimensions..."
 
 :heavy_minus_sign: [Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space](https://www.aclweb.org/anthology/D19-1354.pdf)
-
+>
 
 :heavy_minus_sign: [Correlations between Word Vector Sets](https://www.aclweb.org/anthology/D19-1008.pdf)
-
+> From the abstract: "Similarity measures based purely on word embeddings are comfortably competing with much more sophisticated deep learning and expert-engineered systems on unsupervised semantic textual similarity (STS) tasks. In contrast to commonly used geometric approaches, **we treat a single word embedding as e.g. 300 observations from a scalar random variable.**"
+> 1. "similarities derived from elementary pooling operations and classic correlation coefficients yield excellent results on standard STS benchmarks, outperforming many recently proposed methods **while being much faster and trivial to implement**"
+> 2. "we demonstrate how to avoid pooling operations altogether and **compare sets of word embeddings directly via correlation operators between reproducing kernel Hilbert spaces.** Just like cosine similarity is used to compare individual word vectors, we introduce a novel application of the centered kernel alignment (CKA) as a natural generalisation of squared cosine similarity for sets of word vectors. Likewise, CKA is very easy to implement and enjoys very strong empirical results." 
 
 :heavy_minus_sign: [Game Theory Meets Embeddings (paper on WSD)](https://www.aclweb.org/anthology/D19-1009.pdf)
-
-
-:heavy_minus_sign: [Parameter-free Sentence Embedding via Orthogonal Basis](https://www.aclweb.org/anthology/D19-1059.pdf)
+>
 
 ## [Sentence Embeddings](#contents)
+
+:heavy_minus_sign: [Parameter-free Sentence Embedding via Orthogonal Basis](https://www.aclweb.org/anthology/D19-1059.pdf)
+>
+
+:heavy_minus_sign: [Higher-order Comparisons of Sentence Encoder Representations](https://www.aclweb.org/anthology/D19-1593.pdf)
+>
 
 :heavy_minus_sign: [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**](https://www.aclweb.org/anthology/D19-1410.pdf)
 > Modifies the pretrained BERT network to use siamese network structures to get semantically meaningful sentence embeddings, which can be compared with cosine similarity for semantic textual similarity (STS). This is much faster than using BERT directly (feeding both sentences into the network to calculate a pairwise score) - 5 seconds rather than 65 hours - and similar in accuracy.
 
 :heavy_minus_sign: [Efficient Sentence Embedding using Discrete Cosine Transform](https://www.aclweb.org/anthology/D19-1380.pdf)
-> Abstract: "... We propose the use of discrete cosine transform (DCT) to compress word sequences in an order-preserving manner. The lower order DCT coefficients represent the overall feature patterns in sentences, which results in suitable embeddings for tasks that could benefit from syntactic features. Our results in semantic probing tasks demonstrate that DCT embeddings indeed preserve more syntactic information compared with vector averaging. With practically equivalent complexity, the model yields better overall performance in downstream classification tasks that correlate with syntactic features, which illustrates the capacity of DCT to preserve word order information."
+> Abstract: "... We propose the use of discrete cosine transform (DCT) to compress word sequences in an order-preserving manner. The lower order DCT coefficients represent the overall feature patterns in sentences, which results in suitable embeddings for tasks that could benefit from syntactic features. Our results in semantic probing tasks demonstrate that DCT embeddings indeed preserve more syntactic information compared with vector averaging. With practically equivalent complexity, the model yields better overall performance in downstream classification tasks that correlate with syntactic features, which illustrates **the capacity of DCT to preserve word order information.**"
 
 ## [Knowledge enhanced ML](#contents)
 
@@ -465,7 +471,6 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 
 
 :heavy_minus_sign: [Improving Relation Extraction with **Knowledge-attention**](https://www.aclweb.org/anthology/D19-1022.pdf)
-
 
 ## [Multimodal ML](#contents)
 
