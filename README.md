@@ -34,7 +34,7 @@ Currently missing: many papers on cross-lingual NLP, multi-modal NLP, code-switc
       - [Data Augmentation](#data-augmentation)
       - [Domain Adaptation](#domain-adaptation)
       - [Meta-learning](#meta-learning)
-      - [Few-shot and zero-shot text classification](few-shot-and-zero-shot-text-classification)
+      - [Few-shot and zero-shot text classification](#few-shot-and-zero-shot-text-classification)
       - [Active Learning](#active-learning)
     - [Word Embeddings](#word-embeddings)
     - [Sentence Embeddings](#sentence-embeddings)
