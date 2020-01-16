@@ -2,6 +2,8 @@
 
 This contains a selection of (a little over) 200 papers from EMNLP 2019. The ":boom:" symbol indicates papers that I particularly liked or that I found interesting for one reason or another.
 
+Note: there are papers on neural-rule/logic/template hybrids spread throughout.
+
 Currently missing: many papers on cross-lingual NLP, multi-modal NLP, code-switching, dialogue, machine translation, question answering, question generation, intent classification, stance detection, sentiment/emotion, argument mining, SQL and code generation, rumors, humor, bias, hate speech...
 
 **Full list of papers:**
@@ -575,21 +577,19 @@ The following two papers focus on finding better reward functions for RL-based s
 
 ## [Style transfer](#contents)
 
+Why are there papers that do "style transfer" for sentiment? The point of sentiment transfer is to preserve "sentence meaning", but changing "I loved the burger" to "I hated the burger" is completely changing the meaning... Also, is there any compelling use case here?
+
+See also: papers on style transfer using disentangled representation learning, e.g., John et al., Disentangled representation learning for text style transfer, 2018.
+
 :heavy_minus_sign: [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://www.aclweb.org/anthology/D19-1499.pdf)
 > The authors propose a "semi-supervised text style transfer model that combines the small-scale parallel data with the large-scale nonparallel data". The authors evaluate this on a dataset for style transfer between ancient and modern Chinese.
 
 :heavy_minus_sign: [Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora](https://www.aclweb.org/anthology/D19-1659.pdf)
+> "We introduce a method for acquiring imperfectly aligned sentences from non-parallel corpora and propose a model that learns to minimize the sentiment and content losses in a fully end-to-end manner."
 
 
-:heavy_minus_sign: [Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites](https://www.aclweb.org/anthology/D19-1406.pdf)
-
-
-:heavy_minus_sign: [Multiple Text Style Transfer by using Word-level Conditional Generative Adversarial Network with Two-Phase Training](https://www.aclweb.org/anthology/D19-1366.pdf)
-> See "erase and replace"
-
-
-:heavy_minus_sign: [Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer](https://www.aclweb.org/anthology/D19-1365.pdf)
-
+:heavy_minus_sign: [Harnessing Pre-Trained Neural Networks **with Rules** for Formality Style Transfer](https://www.aclweb.org/anthology/D19-1365.pdf)
+> Abstract: we study how to harness rules into a state-of-the-art neural network that is typically pretrained on massive corpora. We propose three fine-tuning methods in this paper and achieve a new state-of-the-art on benchmark datasets
 
 :heavy_minus_sign: [IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf)
 
