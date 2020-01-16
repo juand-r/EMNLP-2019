@@ -527,10 +527,12 @@ There are a huge number of papers for this task. The following paper may be usef
 
 #### Reinforcement Learning
 
-:heavy_minus_sign: [Deep Reinforcement Learning with Distributional Semantic Rewardsfor Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
+The following two papers focus on finding better reward functions for RL-based summarization:
+
+:heavy_minus_sign: [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1623.pdf)
 > Rather than use Rouge-L (the conventional reward for RL-based abstractive summarization), this proposes a new "distributional semantics reward", which performs better according to human judgments.
 
-:heavy_minus_sign: [Better Rewards Yield Better Summaries: Learning to Summarise **Without References**](https://www.aclweb.org/anthology/D19-1307.pdf)
+:heavy_minus_sign: [Better Rewards Yield Better Summaries: Learning to Summarise Without References](https://www.aclweb.org/anthology/D19-1307.pdf)
 > Abstract: "... summaries with high ROUGE scores often receive low human judgement. To find a better reward function that can guide RL to generate human-appealing summaries, we learn a reward function from human ratings on 2,500 summaries. Our reward function only takes the document and system summary as input. Hence, once trained, it can be used to train RL based summarisation systems without using any reference summaries. We show that our learned rewards have significantly higher correlation with human ratings than previous approaches."
 
 #### Other
@@ -552,15 +554,16 @@ There are a huge number of papers for this task. The following paper may be usef
 ### Simplification
 
 :heavy_minus_sign: [EASSE: Easier Automatic Sentence Simplification Evaluation](https://www.aclweb.org/anthology/D19-3009.pdf)
+> Demo paper introducing EASSE, a Python package for automatic evaluation and comparison of sentence simplification systems. "EASSE provides a single access point to a broad range of evaluation resources: standard automatic metrics for assessing SS outputs (e.g. SARI), word-level accuracy scores for certain simplification transformations, reference-independent quality estimation features (e.g. compression ratio), and standard test data for SS evaluation (e.g. TurkCorpus)."
 >
+> **Code:** https://github.com/feralvam/easse
 
 :heavy_minus_sign: [Recursive Context-Aware Lexical Simplification](https://www.aclweb.org/anthology/D19-1491.pdf)
->
 
 ### Evaluation
 
 :heavy_minus_sign: [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://www.aclweb.org/anthology/D19-1320.pdf)
-
+> ROUGE is a bad metric for summarization - so the authors "explore and propose alternative evaluation measures: the reported human-evaluation analysis shows that the proposed metrics, based on Question Answering, favorably compare to ROUGE – **with the additional property of not requiring reference summaries**". These evaluation metrics are also useful when used in an RL model: "training a RL-based model on these metrics leads to improvements (both in terms of human or automated metrics) over current approaches that use ROUGE as reward."
 
 :heavy_minus_sign: [SUM-QE: a BERT-based Summary Quality Estimation Mode](https://www.aclweb.org/anthology/D19-1618.pdf)
 
