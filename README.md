@@ -140,6 +140,8 @@ A selection:
 
 :heavy_minus_sign: [(Male, Bachelor) and (Female, Ph.D) have different connotations: Parallelly Annotated Stylistic Language Dataset with Multiple Personas](https://www.aclweb.org/anthology/D19-1179.pdf)
 > PASTEL dataset with 41K parallel sentences annotated across different personas (age, gender, political orientation, education level, ethnicity, country, time-of-day). Data and code: https://github.com/dykang/PASTEL
+>
+> Note: this could be useful for semi-supervised style transfer; e.g., see "Semi-supervised Text Style Transfer: Cross Projection in Latent Space" in the [Style Transfer](#style-transfer) section.
 
 :heavy_minus_sign: [VerbAtlas: a Novel Large-Scale **Verbal Semantic Resource** and Its Application to Semantic Role Labeling](https://www.aclweb.org/anthology/D19-1058.pdf)
 > Introduces a hand-crafted lexical resource collecting all verb synsets of WordNet into "semantically-coherent frames". Available at http://verbatlas.org
@@ -569,12 +571,12 @@ The following two papers focus on finding better reward functions for RL-based s
 > ROUGE is a bad metric for summarization - so the authors "explore and propose alternative evaluation measures: the reported human-evaluation analysis shows that the proposed metrics, based on Question Answering, favorably compare to ROUGE – **with the additional property of not requiring reference summaries**". These evaluation metrics are also useful when used in an RL model: "training a RL-based model on these metrics leads to improvements (both in terms of human or automated metrics) over current approaches that use ROUGE as reward."
 
 :heavy_minus_sign: [SUM-QE: a BERT-based Summary Quality Estimation Mode](https://www.aclweb.org/anthology/D19-1618.pdf)
-
+> A new BERT-based **quality estimation** model for summarization, which also doesn't involve comparison with human references.
 
 ## [Style transfer](#contents)
 
 :heavy_minus_sign: [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://www.aclweb.org/anthology/D19-1499.pdf)
-
+> The authors propose a "semi-supervised text style transfer model that combines the small-scale parallel data with the large-scale nonparallel data". The authors evaluate this on a dataset for style transfer between ancient and modern Chinese.
 
 :heavy_minus_sign: [Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora](https://www.aclweb.org/anthology/D19-1659.pdf)
 
