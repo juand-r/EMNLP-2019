@@ -609,45 +609,45 @@ Most of these papers address the crucial issue of lack of parallel training data
 > Abstract: "... In this work we introduce the Generative Style Transformer (GST) - a new approach to rewriting sentences to a target style **in the absence of parallel style corpora**. GST leverages the power of both, large unsupervised pre-trained language models as well as the Transformer. GST is a part of a larger ‘Delete Retrieve Generate’ framework, in which we also propose a novel method of deleting style attributes from the source sentence by exploiting the inner workings of the Transformer. Our models outperform state-of-art systems across 5 datasets on sentiment, gender and political slant transfer. We also propose the use of the GLEU metric as an automatic metric of evaluation of style transfer, which we found to compare better with human ratings than the predominantly used BLEU score."
 
 :heavy_minus_sign: [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
-Abstract: "...The proposed models presumably learn from the source domain to: (i) distinguish stylized information and generic content information; (ii) maximally preserve content information; and (iii) adaptively transfer the styles in a domain-aware manner. We evaluate the proposed models on two style transfer tasks (sentiment and formality) over multiple target domains where only limited non-parallel data is available. Extensive experiments demonstrate the effectiveness of the proposed model compared to the baselines."
+> Abstract: "...The proposed models presumably learn from the source domain to: (i) distinguish stylized information and generic content information; (ii) maximally preserve content information; and (iii) adaptively transfer the styles in a domain-aware manner. We evaluate the proposed models on two style transfer tasks (sentiment and formality) over multiple target domains where only limited non-parallel data is available. Extensive experiments demonstrate the effectiveness of the proposed model compared to the baselines."
 
 ## [Text generation and GPT2](#contents)
 
 These are papers on text generation which are not focused on [style transfer](#style-transfer), [summarization](#summarization) or [machine translation](#machine-translation).
 
 :boom: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
-
+>
 
 :boom: [Generating Natural Anagrams: Towards Language Generation Under Hard Combinatorial Constraints](https://www.aclweb.org/anthology/D19-1674.pdf)
-
+>
 
 :boom: [Denoising based Sequence-to-Sequence Pre-training for Text Generation](https://www.aclweb.org/anthology/D19-1412.pdf)
-
+>
 
 :boom: [Judge the Judges: A Large-Scale Evaluation Study of Neural Language Models for Online Review Generation](https://www.aclweb.org/anthology/D19-1409.pdf)
-
+>
 
 :boom: [Controlling Text Complexity in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1166.pdf)
-
+>
 
 :boom: [See et al., Do Massively Pretrained Language Models Make Better Storytellers? (CoNLL)](https://www.aclweb.org/anthology/K19-1079.pdf)
-
+>
 
 :boom: [Attending to Future Tokens for Bidirectional Sequence Generation](https://www.aclweb.org/anthology/D19-1001.pdf)
-> Can generate text from BERT!
+> The BISON paper. Can generate text from BERT!
 
 :boom: [How Contextual are Contextualized Word Representations? Comparing **the Geometry of BERT, ELMo, and GPT-2 Embeddings**](https://www.aclweb.org/anthology/D19-1006.pdf)
 > See also: Coenen et al., Visualizing and Measuring the Geometry of BERT (2019), (paper: https://arxiv.org/pdf/1906.02715.pdf ; blog post: https://pair-code.github.io/interpretability/bert-tree/).
 
 :boom: [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://www.aclweb.org/anthology/D19-1053.pdf)
-
+>
 
 :boom: [Distributionally Robust Language Modeling](https://www.aclweb.org/anthology/D19-1432.pdf)
 > Abstract: "Language models are generally trained on data spanning a wide range of topics (e.g., news, reviews, fiction), but they might be applied to an a priori unknown target distribution (e.g., restaurant reviews). In this paper, we first show that training on text outside the test distribution can degrade test performance when using standard maximum likelihood (MLE) training. To remedy this without the knowledge of the test distribution, we propose an approach which trains a model that performs well over a wide range of potential test distributions. In particular, we derive a new distributionally robust optimization (DRO) procedure which minimizes the loss of the model over the worst-case mixture of topics with sufficient overlap with the training distribution. Our approach, called topic conditional value at risk (topic CVaR), obtains a 5.5 point perplexity reduction over MLE when the language models are trained on a mixture of Yelp reviews and news and tested only on reviews."
 
 
 :boom: [Select and Attend: Towards Controllable Content Selection in Text Generation](https://www.aclweb.org/anthology/D19-1054.pdf)
-
+>
 
 :heavy_minus_sign: [A Modular Architecture for Unsupervised **Sarcasm Generation**](https://www.aclweb.org/anthology/D19-1636.pdf)
 > Presents a new framework for sarcasm generation which take a negative opinion as input (e.g., "I hate it when my bus is late.") and translates it to a sarcastic version (e.g., "Absolutely love waiting for the bus").  *This does not require paired training data*.
@@ -669,33 +669,34 @@ These are papers on text generation which are not focused on [style transfer](#s
 > Code: https://github.com/majumderb/recipe-personalization
 
 :heavy_minus_sign: [Learning Rhyming Constraints using Structured Adversaries](https://www.aclweb.org/anthology/D19-1621.pdf)
-
+>
 
 :heavy_minus_sign: [An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1619.pdf)
-
+>
 
 :heavy_minus_sign: [Encode, Tag, Realize: High-Precision Text Editing](https://www.aclweb.org/anthology/D19-1510.pdf)
-
+>
 
 :heavy_minus_sign: [Towards Controllable and Personalized Review Generation](https://www.aclweb.org/anthology/D19-1319.pdf)
-
+>
 
 :heavy_minus_sign: [An End-to-End Generative Architecture for Paraphrase Generation](https://www.aclweb.org/anthology/D19-1309.pdf)
-
+>
 
 :heavy_minus_sign: [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299.pdf)
-
+>
 
 :heavy_minus_sign: [Autoregressive Text Generation Beyond Feedback Loops](https://www.aclweb.org/anthology/D19-1338.pdf)
-
+>
 
 :heavy_minus_sign: [Big Bidirectional Insertion Representations for Documents](https://www.aclweb.org/anthology/D19-5620.pdf)
 > Insertion Transformer: well suited for long form text generation; this builds on it to produce BIRD for use in machine translation task.
 
 :heavy_minus_sign: [Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://www.aclweb.org/anthology/D19-1052.pdf)
-
+>
 
 :heavy_minus_sign: [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://www.aclweb.org/anthology/D19-1055.pdf)
+>
 
 ## [Machine Translation](#contents)
 
@@ -703,10 +704,10 @@ These are papers on text generation which are not focused on [style transfer](#s
 > Simultaneously translating into two languages at once!
 
 :boom: [Machine Translation With Weakly Paired Documents](https://www.aclweb.org/anthology/D19-1446.pdf)
-
+>
 
 :boom: [On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://www.aclweb.org/anthology/D19-1331.pdf)
-
+>
 
 :heavy_minus_sign: [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://www.aclweb.org/anthology/D19-1437.pdf)
 > "... In this paper, we propose a simple, efficient, and effective model for non-autoregressive sequence generation using latent variable models. Specifically, we turn to generative flow, an elegant technique to model complex distributions using neural networks, and design several layers of flow tailored for modeling the conditional density of sequential latent variables. We evaluate this model on three neural machine translation (NMT) benchmark datasets, achieving comparable performance with state-of-the-art non-autoregressive NMT models and almost constant decoding time w.r.t the sequence length."
@@ -715,27 +716,28 @@ These are papers on text generation which are not focused on [style transfer](#s
 > Abstract: "While target-side monolingual data has been proven to be very useful to improve neural machine translation (briefly, NMT) through back translation, source-side monolingual data is not well investigated. In this work, we study how to use both the source-side and target-side monolingual data for NMT, and propose an effective strategy leveraging both of them. ...  Our approach achieves state-of-the-art results on WMT16, WMT17, WMT18 English↔German translations and WMT19 German -> French translations, which demonstrate the effectiveness of our method. We also conduct a comprehensive study on how each part in the pipeline works."
 
 :heavy_minus_sign: [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://www.aclweb.org/anthology/D19-1633.pdf)
-
+>
 
 :heavy_minus_sign: [Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings](https://www.aclweb.org/anthology/D19-1147.pdf)
-
+>
 
 :heavy_minus_sign: [Machine Translation for Machines: the Sentiment Classification Use Case](https://www.aclweb.org/anthology/D19-1140.pdf)
-
+>
 
 :heavy_minus_sign: [Iterative Dual Domain Adaptation for NMT](https://www.aclweb.org/anthology/D19-1078.pdf)
-
+>
 
 :heavy_minus_sign: [Self-Attention with Structural Position Representations](https://www.aclweb.org/anthology/D19-1145.pdf)
-
+>
 
 :heavy_minus_sign: [Simple, Scalable Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1165.pdf)
-
+>
 
 :heavy_minus_sign: [Hierarchical Modeling of Global Context for Document-Level Neural Machine Translation](https://www.aclweb.org/anthology/D19-1168.pdf)
-
+>
 
 :heavy_minus_sign: [Context-Aware Monolingual Repair for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1081.pdf)
+>
 
 # [NLU Tasks](#contents)
 
@@ -743,9 +745,6 @@ These are papers on text generation which are not focused on [style transfer](#s
 
 :heavy_minus_sign: [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation](https://www.aclweb.org/anthology/D19-1009.pdf)
 > See under [Word Embeddings](#word-embeddings)
-
-:heavy_minus_sign: [Encoders Help You Disambiguate Word Senses in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1149.pdf)
->
 
 :heavy_minus_sign: [SyntagNet: Challenging Supervised Word Sense Disambiguationwith Lexical-Semantic Combinations](https://www.aclweb.org/anthology/D19-1359.pdf)
 > This presents SyntagNet, a new resource of manually disambiguated "lexical semantic combinations" (sense-annotated lexical combinations, i.e., noun-noun and noun-verb pairs) which can be used in knowledge-based WSD. This supplements resources such as WordNet, with lacks syntagmatic relations ("A syntagmatic relation exists between two words which co-occur in spoken or written language more frequently than would be expected by chance and which have different grammatical roles in the sentences in which they occur"). The resource was extracted from English Wikipedia and the BNC, and disambiguated using WordNet 3.0. Examples: (run.v.19, program.n.07), (run.v.37, race.n.02), (run.v.4, farm.n.01).
@@ -759,15 +758,17 @@ These are papers on text generation which are not focused on [style transfer](#s
 And of course there are a couple BERT-related papers:
 
 :heavy_minus_sign: [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://www.aclweb.org/anthology/D19-1355.pdf)
+>
 
 :heavy_minus_sign: [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)
+>
 
 **See also:** the "Word-in-Context" (WiC) challenge, and associated papers: https://pilehvar.github.io/wic/
 
 ## [Keyphrase Extraction](#contents)
 
 :heavy_minus_sign: [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://www.aclweb.org/anthology/D19-1521.pdf)
-
+>
 
 ## [Fact checking](#contents)
 
@@ -775,141 +776,175 @@ And of course there are a couple BERT-related papers:
 > See in Commonsense Reasoning section.
 
 :heavy_minus_sign: [MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://www.aclweb.org/anthology/D19-1475.pdf)
-
+>
 
 ## [Fake News](#contents)
 
 :heavy_minus_sign: [Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection](https://www.aclweb.org/anthology/D19-1471.pdf)
-
+>
 
 ## [Relation extraction and Knowledge graphs](#contents)
 
 :boom: [Automatic **Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
-
+>
 
 :boom: [Learning to Update Knowledge Graphs by Reading News](https://www.aclweb.org/anthology/D19-1265.pdf)
-
+>
 
 :boom: [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://www.aclweb.org/anthology/D19-1264.pdf)
-
+>
 
 :boom: [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf)
 > See also: A Simple Method for Commonsense Reasoning (https://arxiv.org/abs/1806.02847)
 
 :heavy_minus_sign: [Entity, Relation, and Event Extractionwith Contextualized Span Representations](https://www.aclweb.org/anthology/D19-1585.pdf)
-
+>
 
 :heavy_minus_sign: [TuckER: Tensor Factorization for Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1522.pdf)
-
+>
 
 :heavy_minus_sign: [Improving Distantly-Supervised Relation Extraction withJoint Label Embedding](https://www.aclweb.org/anthology/D19-1395.pdf)
-
+>
 
 :heavy_minus_sign: [Representation Learning with Ordered Relation Pathsfor Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1268.pdf)
+>
 
 :heavy_minus_sign: [Collaborative Policy Learning for Open Knowledge Graph Reasoning](https://www.aclweb.org/anthology/D19-1269.pdf)
-
+>
 
 :heavy_minus_sign: [DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning](https://www.aclweb.org/anthology/D19-1266.pdf)
-
+>
 
 :heavy_minus_sign: [A Non-commutative Bilinear Model for Answering Path Queries in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1246.pdf)
-
+>
 
 :heavy_minus_sign: [Commonsense Knowledge Mining from Pretrained Models](https://www.aclweb.org/anthology/D19-1109.pdf)
-
+>
 
 :heavy_minus_sign: [KnowledgeNet: A Benchmark Dataset for Knowledge Base Population](https://www.aclweb.org/anthology/D19-1069/)
-
+>
 
 :heavy_minus_sign: [CaRe: Open Knowledge Graph Embeddings](https://www.aclweb.org/anthology/D19-1036.pdf)
-
+>
 
 :heavy_minus_sign: [Supervising Unsupervised Open Information Extraction Models](https://www.aclweb.org/anthology/D19-1067.pdf)
-
+>
 
 :heavy_minus_sign: [Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data](https://www.aclweb.org/anthology/D19-1021.pdf)
+>
 
 :heavy_minus_sign: [Multi-Input Multi-Output Sequence Labeling for **Joint Extraction of Fact and Condition Tuples** from Scientific Text](https://www.aclweb.org/anthology/D19-1029.pdf)
+>
 
 :heavy_minus_sign: [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
+>
 
 ## [Commonsense Reasoning](#contents)
 
 :boom: [Counterfactual Story Reasoning and Generation](https://www.aclweb.org/anthology/D19-1509.pdf)
+>
 
 :boom: [Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs](https://www.aclweb.org/anthology/D19-1631.pdf)
+>
 
 :boom::boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
+>
 
 :heavy_minus_sign: [QUARTZ: An Open-Domain Dataset of Qualitative Relationship Questions](https://www.aclweb.org/anthology/D19-1608.pdf)
+>
 
 :heavy_minus_sign: [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://www.aclweb.org/anthology/D19-1609.pdf)
+>
 
 :heavy_minus_sign: [WIQA: A dataset for 'What if...' reasoning over procedural text](https://www.aclweb.org/anthology/D19-1629.pdf)
+>
 
 :heavy_minus_sign: [Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset for Commonsense Reasoning over Adjectives and Objects](https://www.aclweb.org/anthology/D19-1625.pdf)
+>
 
 :heavy_minus_sign: [Posing Fair Generalization Tasks for Natural Language Inference](https://www.aclweb.org/anthology/D19-1456.pdf)
+>
 
 :heavy_minus_sign: [Self-Assembling Modular Networks for **Interpretable** Multi-Hop Reasoning](https://www.aclweb.org/anthology/D19-1455.pdf)
+>
 
 :heavy_minus_sign: ["Going on a vacation" takes longer than "Going for a walk": A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf)
+>
 
 :heavy_minus_sign: [Answering questions by learning to rank -Learning to rank by answering questions](https://www.aclweb.org/anthology/D19-1256.pdf)
+>
 
 :heavy_minus_sign: [Finding Generalizable Evidence by Learning to Convince Q&A Models](https://www.aclweb.org/anthology/D19-1244.pdf)
+>
 
 :heavy_minus_sign: [Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations](https://www.aclweb.org/anthology/D19-1334.pdf)
+>
 
 :heavy_minus_sign: [How Reasonable are Common-Sense Reasoning Tasks: A Case-Study on the Winograd Schema Challenge and SWAG](https://www.aclweb.org/anthology/D19-1335.pdf)
+>
 
 :heavy_minus_sign: [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282.pdf)
+>
 
 :heavy_minus_sign: [COSMOSQA: Machine Reading Comprehensionwith Contextual Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1243.pdf)
+>
 
 :heavy_minus_sign: [What’s Missing: A Knowledge Gap Guided Approachfor Multi-hop Question Answering](https://www.aclweb.org/anthology/D19-1281.pdf)
 > "given partial knowledge, explicitly  identifying  what’s  missing  substantially outperforms previous approaches".
 
 :heavy_minus_sign: [On the Importance of Delexicalization for Fact Verification](https://www.aclweb.org/anthology/D19-1340.pdf)
+>
 
 ## [Information Retrieval](#contents)
 
 :heavy_minus_sign: [Bridging the Gap Between Relevance Matching and Semantic Matching for Short Text Similarity Modeling](https://www.aclweb.org/anthology/D19-1540.pdf)
+>
 
 :heavy_minus_sign: [Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval](https://www.aclweb.org/anthology/D19-1352.pdf)
+>
 
 :heavy_minus_sign: [Applying BERT to Document Retrieval with Birch](https://www.aclweb.org/anthology/D19-3004.pdf)
+>
 
 :heavy_minus_sign: [Modelling Stopping Criteria for Search Results using Poisson Processes](https://www.aclweb.org/anthology/D19-1351.pdf)
+>
 
 ## [Entity Linking](#contents)
 
 :heavy_minus_sign: [Fine-Grained Evaluation for Entity Linking](https://www.aclweb.org/anthology/D19-1066.pdf)
+>
 
 ## [Entities and NER](#contents)
 
 :boom: [ner and pos when nothing is capitalized](https://www.aclweb.org/anthology/D19-1650.pdf)
+>
 
 :heavy_minus_sign: [A Little Annotation does a Lot of Good: A Study in Bootstrapping **Low-resource Named Entity Recognizers**](https://www.aclweb.org/anthology/D19-1520.pdf)
 > Abstract: "... What is the most effective method for efficiently creating high-quality entity recognizers in under-resourced languages? Based on extensive experimentation using both simulated and real human annotation, we settle on a recipe of starting with a cross-lingual transferred model, then performing targeted annotation of only uncertain entity spans in the target language, minimizing annotator effort. Results demonstrate that cross-lingual transfer is a powerful tool when very little data can be annotated, but an entity-targeted annotation strategy can achieve competitive accuracy quickly, with just one-tenth of training data."
 
 :heavy_minus_sign: [Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks](https://www.aclweb.org/anthology/D19-1502.pdf)
+>
 
 :heavy_minus_sign: [An Attentive Fine-Grained Entity Typing Model with Latent Type Representation](https://www.aclweb.org/anthology/D19-1641.pdf)
+>
 
 :heavy_minus_sign: [Hierarchically-Refined Label Attention Network for Sequence Labeling](https://www.aclweb.org/anthology/D19-1422.pdf)
+>
 
 :heavy_minus_sign: [Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels](https://www.aclweb.org/anthology/D19-1362.pdf)
+>
 
 :heavy_minus_sign: [Small and Practical BERT Models for Sequence Labeling](https://www.aclweb.org/anthology/D19-1374.pdf)
-> Multilingual sequence labeling.
+> Paper on **Multilingual sequence labeling**.
 
 :heavy_minus_sign: [Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition](https://www.aclweb.org/anthology/D19-1360.pdf)
+>
 
 :heavy_minus_sign: [EntEval: A Holistic Evaluation Benchmark for **Entity Representations**](https://www.aclweb.org/anthology/D19-1040.pdf)
+>
 
 :heavy_minus_sign: [A Boundary-aware Neural Model for **Nested Named Entity Recognition**](https://www.aclweb.org/anthology/D19-1034.pdf)
+>
 
 ## [Coreference](#contents)
 
@@ -931,25 +966,32 @@ And two more papers using BERT for coreference:
 
 ## [Text classification](#contents)
 
+:boom: [Rethinking Attribute Representation and Injection for Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
+> Explores different ways to incorporate metadata into the text classifier.
+
 :boom: [**Label Embedding using Hierarchical Structure of Labels** for Twitter Classification](https://www.aclweb.org/anthology/D19-1660.pdf)
+>
 
 :heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
 > Task: document classification where no labels are available for training, and only the positive class has a list of keywords associated with the class.  This is a variant of the "dataless classification task" (this has also been called "lightly-supervised one-class classification"). This paper proposes a  "theoretically guaranteed learning framework" for this problem "that is simple to implement and has flexible choices of models".
 
 :heavy_minus_sign: [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
-
-:heavy_minus_sign: [Rethinking Attribute Representation and Injection for Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
-> Different ways to incorporate metadata into the text classifier.
+>
 
 :heavy_minus_sign: [Learning Explicit and Implicit Structures for Targeted Sentiment Analysis](https://www.aclweb.org/anthology/D19-1550.pdf)
+>
 
 :heavy_minus_sign: [LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification](https://www.aclweb.org/anthology/D19-1554.pdf)
+>
 
 :heavy_minus_sign: [Sequential Learning of Convolutional Features for Effective Text Classification](https://www.aclweb.org/anthology/D19-1567.pdf)
+>
 
 :heavy_minus_sign: [Text Level Graph Neural Network for Text Classification](https://www.aclweb.org/anthology/D19-1345.pdf)
+>
 
 :heavy_minus_sign: [Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings](https://www.aclweb.org/anthology/D19-1347.pdf)
+>
 
 ## [Propaganda, Persuasion](#contents)
 
@@ -961,6 +1003,7 @@ And two more papers using BERT for coreference:
 > See also: https://propaganda.qcri.org/ , the Fine Grained Propaganda Detection competition at the NLP4IF’19 workshop, and Semeval 2020 Task 11 (https://propaganda.qcri.org/semeval2020-task11/).
 
 :heavy_minus_sign: [Revealing and Predicting Online Persuasion Strategy with Elementary Units](https://www.aclweb.org/anthology/D19-1653.pdf)
+>
 
 ## [Social Media and Authorship Attribution](#contents)
 
@@ -972,13 +1015,13 @@ And two more papers using BERT for coreference:
 > The paper also finds a strong correlation between "characterstic-ness" and tweet popularity for 13 of the 15 celebrities in the study; for some celebrities (Trump, Modi, Jimmy Fallon) the correlation is positive, whereas for others it is negative (Bieber, Kim Kardashian, and Obama).
 
 :heavy_minus_sign: [Learning Invariant Representations of Social Media Users](https://www.aclweb.org/anthology/D19-1178.pdf)
-
+>
 
 :heavy_minus_sign: [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://www.aclweb.org/anthology/D19-1477.pdf)
-
+>
 
 :heavy_minus_sign: [A Hierarchical Location Prediction Neural Network for Twitter User Geolocation](https://www.aclweb.org/anthology/D19-1480.pdf)
-
+>
 
 ## [Other](#contents)
 
