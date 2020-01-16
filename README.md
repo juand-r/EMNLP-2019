@@ -513,6 +513,9 @@ The next two papers use attention mechanisms to incorporate external knowledge:
 
 :heavy_minus_sign: [Text2Math: End-to-end Parsing Text into Math Expressions](https://www.aclweb.org/anthology/D19-1536.pdf)
 > Presents an end-to-end system to translate text (arithmetic word problems) into tree-structured math expressions.
+>
+> See also: [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412), and associated blog post [Using neural networks to solve advanced mathematics equations](https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/)
+
 
 ## [Summarization and Simplification](#contents)
 
