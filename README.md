@@ -577,29 +577,36 @@ The following two papers focus on finding better reward functions for RL-based s
 
 ## [Style transfer](#contents)
 
-Why are there papers that do "style transfer" for sentiment? The point of sentiment transfer is to preserve "sentence meaning", but changing "I loved the burger" to "I hated the burger" is completely changing the meaning... Also, is there any compelling use case here?
+Style transfer in NLP is also a hot area now. I think a lot of interest in this area also comes from adapting NMT methods, and from recent progress on unsupervised neural machine translation (because it is hard/impractical to obtain paired datasets for style transfer). I have a couple questions:
+
+- Why are there so many papers that do "style transfer" for sentiment? The point of sentiment transfer is to preserve "sentence meaning", but changing "I loved the burger" to "I hated the burger" completely changes the meaning... Also, is there any compelling use case for sentiment style transfer?
+- Are there any good surveys, reviews, or comparative evaluation papers?
 
 See also: papers on style transfer using disentangled representation learning, e.g., John et al., Disentangled representation learning for text style transfer, 2018.
+
+Most of these papers address the crucial issue of lack of parallel training data for style transfer in different ways: semi-supervised learning, pretrained text generation (GPT2) networks (combined with rules or with Transformers), and creating corpora of "pseudo-parallel" aligned sentences:
 
 :heavy_minus_sign: [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://www.aclweb.org/anthology/D19-1499.pdf)
 > The authors propose a "semi-supervised text style transfer model that combines the small-scale parallel data with the large-scale nonparallel data". The authors evaluate this on a dataset for style transfer between ancient and modern Chinese.
 
+:heavy_minus_sign: [Harnessing Pre-Trained Neural Networks **with Rules** for **Formality** Style Transfer](https://www.aclweb.org/anthology/D19-1365.pdf)
+> Abstract: we study how to harness rules into a state-of-the-art neural network that is typically pretrained on massive corpora. We propose three fine-tuning methods in this paper and achieve a new state-of-the-art on benchmark datasets
+
 :heavy_minus_sign: [Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora](https://www.aclweb.org/anthology/D19-1659.pdf)
 > "We introduce a method for acquiring imperfectly aligned sentences from non-parallel corpora and propose a model that learns to minimize the sentiment and content losses in a fully end-to-end manner."
 
-
-:heavy_minus_sign: [Harnessing Pre-Trained Neural Networks **with Rules** for Formality Style Transfer](https://www.aclweb.org/anthology/D19-1365.pdf)
-> Abstract: we study how to harness rules into a state-of-the-art neural network that is typically pretrained on massive corpora. We propose three fine-tuning methods in this paper and achieve a new state-of-the-art on benchmark datasets
-
 :heavy_minus_sign: [IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf)
-
+>  Abstract: "... Existing approaches try to explicitly disentangle content and attribute information, but this is difficult and often results in poor content-preservation and ungrammaticality. In contrast, we propose a simpler approach, Iterative Matching and Translation (IMaT), which: (1) constructs a pseudo-parallel corpus by aligning a subset of semantically similar sentences from the source and the target corpora; (2) applies a standard sequence-to-sequence model to learn the attribute transfer; (3) iteratively improves the learned transfer function by refining imperfections in the alignment..."
 
 :heavy_minus_sign: [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://www.aclweb.org/anthology/D19-1322.pdf)
-> What to do if you don't have parallel corpora?
+> Abstract: "... In this work we introduce the Generative Style Transformer (GST) - a new approach to rewriting sentences to a target style **in the absence of parallel style corpora**. GST leverages the power of both, large unsupervised pre-trained language models as well as the Transformer. GST is a part of a larger ‘Delete Retrieve Generate’ framework, in which we also propose a novel method of deleting style attributes from the source sentence by exploiting the inner workings of the Transformer. Our models outperform state-of-art systems across 5 datasets on sentiment, gender and political slant transfer. We also propose the use of the GLEU metric as an automatic metric of evaluation of style transfer, which we found to compare better with human ratings than the predominantly used BLEU score."
 
 :heavy_minus_sign: [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
 
+
 ## [Text generation and GPT2](#contents)
+
+These are papers on text generation which are not focused on [style transfer](#style-transfer), [summarization](#summarization) or [machine translation](#machine-translation).
 
 :boom: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
 
