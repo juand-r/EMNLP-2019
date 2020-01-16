@@ -402,6 +402,10 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 :heavy_minus_sign: [Weakly Supervised Domain Detection. Yumo Xu and Mirella Lapata (TACL)](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00287)
 > Abstract: "... we introduce **domain detection** as a new natural language processing task. We argue that the ability to detect textual segments that are **domain-heavy (i.e., sentences or phrases that are representative of and provide evidence for a given domain)** could enhance the robustness and portability of various text classification applications. We propose an encoder-detector framework for domain detection and **bootstrap classifiers with multiple instance learning**. The model is hierarchically organized and suited to multilabel classification. We demonstrate that despite learning with minimal supervision, our model can be **applied to text spans of different granularities, languages, and genres**. We also showcase the potential of domain detection for text summarization."
 
+
+:heavy_minus_sign: [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
+> See under [Style transfer](#style-transfer)
+
 ### [Meta-learning](#contents)
 
 :boom: [Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks](https://www.aclweb.org/anthology/D19-1112.pdf)
@@ -515,11 +519,14 @@ The next two papers use attention mechanisms to incorporate external knowledge:
 
 # [NLG Tasks](#contents)
 
+## Miscellaneous Tasks:
+
+There are also papers on code generation, particularly SQL generation, that should go here.
+
 :heavy_minus_sign: [Text2Math: End-to-end Parsing Text into Math Expressions](https://www.aclweb.org/anthology/D19-1536.pdf)
 > Presents an end-to-end system to translate text (arithmetic word problems) into tree-structured math expressions.
 >
 > See also: [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412), and associated blog post [Using neural networks to solve advanced mathematics equations](https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/)
-
 
 ## [Summarization and Simplification](#contents)
 
@@ -602,7 +609,7 @@ Most of these papers address the crucial issue of lack of parallel training data
 > Abstract: "... In this work we introduce the Generative Style Transformer (GST) - a new approach to rewriting sentences to a target style **in the absence of parallel style corpora**. GST leverages the power of both, large unsupervised pre-trained language models as well as the Transformer. GST is a part of a larger ‘Delete Retrieve Generate’ framework, in which we also propose a novel method of deleting style attributes from the source sentence by exploiting the inner workings of the Transformer. Our models outperform state-of-art systems across 5 datasets on sentiment, gender and political slant transfer. We also propose the use of the GLEU metric as an automatic metric of evaluation of style transfer, which we found to compare better with human ratings than the predominantly used BLEU score."
 
 :heavy_minus_sign: [Domain Adaptive Text Style Transfer](https://www.aclweb.org/anthology/D19-1325.pdf)
-
+Abstract: "...The proposed models presumably learn from the source domain to: (i) distinguish stylized information and generic content information; (ii) maximally preserve content information; and (iii) adaptively transfer the styles in a domain-aware manner. We evaluate the proposed models on two style transfer tasks (sentiment and formality) over multiple target domains where only limited non-parallel data is available. Extensive experiments demonstrate the effectiveness of the proposed model compared to the baselines."
 
 ## [Text generation and GPT2](#contents)
 
