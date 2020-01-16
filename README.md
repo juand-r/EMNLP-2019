@@ -549,8 +549,6 @@ The following two papers focus on finding better reward functions for RL-based s
 :heavy_minus_sign: [Better Rewards Yield Better Summaries: Learning to Summarise Without References](https://www.aclweb.org/anthology/D19-1307.pdf)
 > Abstract: "... summaries with high ROUGE scores often receive low human judgement. To find a better reward function that can guide RL to generate human-appealing summaries, we learn a reward function from human ratings on 2,500 summaries. Our reward function only takes the document and system summary as input. Hence, once trained, it can be used to train RL based summarisation systems without using any reference summaries. We show that our learned rewards have significantly higher correlation with human ratings than previous approaches."
 
-#### Other
-
 :heavy_minus_sign: [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf) (BERT)
 > Abstract: "... we showcase how BERT can be usefully applied in text summarization and propose a general framework for both **extractive** and **abstractive** models. We introduce a novel document-level encoder based on BERT which is able to express the semantics of a document and obtain representations for its sentences..." 
 
