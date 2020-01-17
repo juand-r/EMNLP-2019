@@ -807,12 +807,10 @@ There are a few fake-news related papers that could go in here.
 >
 >**See also:** a paper showing why using LMs as knowledge bases is a bad idea: [Negated LAMA: Birds cannot fly](https://arxiv.org/pdf/1911.03343.pdf). Also: [A Simple Method for Commonsense Reasoning](https://arxiv.org/abs/1806.02847); [Don’t SayThat! Making Inconsistent Dialogue Unlikely with Unlikelihood Training](https://arxiv.org/pdf/1911.03860.pdf)
 
-:boom: [Automatic **Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
+:heavy_minus_sign: [Automatic **Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
 > (Demo paper). Demo: https://ibm.box.com/v/emnlp-2019-demo
 
----
-
-There were several papers using graph neural networks:
+**Papers using graph neural networks:**
 
 :boom: [Learning to Update Knowledge Graphs by Reading News](https://www.aclweb.org/anthology/D19-1265.pdf)
 > Abstract: "...  we propose a novel neural network method, GUpdater ...built upon graph neural networks (GNNs) with a text-based attention mechanism to guide the updating message passing through the KG structures. Experiments on a real-world KG updating dataset show that our model can effectively broadcast the news information to the KG structures and perform necessary link-adding or link-deleting operations to ensure the KG up-to-date according to news snippets."
@@ -820,17 +818,29 @@ There were several papers using graph neural networks:
 :boom: [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://www.aclweb.org/anthology/D19-1264.pdf)
 >
 
-:heavy_minus_sign: [Entity, Relation, and Event Extractionwith Contextualized Span Representations](https://www.aclweb.org/anthology/D19-1585.pdf)
->
+**Papers doing joint or multi-task learning for relation extraction and other things:**
+
+:heavy_minus_sign: [Entity, Relation, and Event Extraction with Contextualized Span Representations](https://www.aclweb.org/anthology/D19-1585.pdf)
+> "We examine the capabilities of a unified, multi-task framework for three information extraction tasks: named entity recognition, relation extraction, and event extraction." **Code:**: https://github.com/dwadden/dygiep
+
+:heavy_minus_sign: [Improving Distantly-Supervised Relation Extraction with Joint Label Embedding](https://www.aclweb.org/anthology/D19-1395.pdf)
+> "... we propose a novel multi-layer attention-based model to improve relation extraction with joint label embedding."
+
+**Papers on knowledge graph completion:**
 
 :heavy_minus_sign: [TuckER: Tensor Factorization for Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1522.pdf)
+> Abstract: "... Link prediction is a task of inferring missing facts based on existing ones. We propose TuckER, a relatively **straightforward but powerful linear model based on Tucker decomposition of the binary tensor representation of knowledge graph triples**. TuckER outperforms previous state-of-the-art models across standard link prediction datasets, acting as a strong baseline for more elaborate models. We show that TuckER is a fully expressive model, derive sufficient bounds on its embedding dimensionalities and demonstrate that **several previously introduced linear models can be viewed as special cases of TuckER.**"  Datasets evaluated: FB15k, FB15k-237, WN18 and WN18RR.
+
+:heavy_minus_sign: [Representation Learning with Ordered Relation Paths for Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1268.pdf)
 >
 
-:heavy_minus_sign: [Improving Distantly-Supervised Relation Extraction withJoint Label Embedding](https://www.aclweb.org/anthology/D19-1395.pdf)
+:heavy_minus_sign: [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
 >
 
-:heavy_minus_sign: [Representation Learning with Ordered Relation Pathsfor Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1268.pdf)
+:heavy_minus_sign: [Using Pairwise Occurrence Information to Improve Knowledge Graph Completion on Large-Scale Datasets](https://www.aclweb.org/anthology/D19-1368.pdf)
 >
+
+**Other papers:**
 
 :heavy_minus_sign: [Collaborative Policy Learning for Open Knowledge Graph Reasoning](https://www.aclweb.org/anthology/D19-1269.pdf)
 >
@@ -856,11 +866,6 @@ There were several papers using graph neural networks:
 :heavy_minus_sign: [Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data](https://www.aclweb.org/anthology/D19-1021.pdf)
 >
 
-:heavy_minus_sign: [Multi-Input Multi-Output Sequence Labeling for **Joint Extraction of Fact and Condition Tuples** from Scientific Text](https://www.aclweb.org/anthology/D19-1029.pdf)
->
-
-:heavy_minus_sign: [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024.pdf)
->
 
 ## [Commonsense Reasoning](#contents)
 
