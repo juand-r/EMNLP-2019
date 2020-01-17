@@ -999,7 +999,9 @@ And two more papers using BERT for coreference:
 ## [Text classification](#contents)
 
 :boom: [Rethinking Attribute Representation and Injection for Sentiment Classification](https://www.aclweb.org/anthology/D19-1562.pdf)
-> Explores different ways to incorporate metadata into the text classifier.
+> **Explores different ways to incorporate metadata** (e.g., user or product information for sentiment classification) into text classifiers with attention. From the abstract: "The de facto standard method is to incorporate them as additional biases in the  attention mechanism ... we  show that the above method is the least effective way to represent and inject attributes." The authors test this using a BiLSTM with attention classifier, and test various places for incorporating attributes into the model (embedding, encoding, attention, classifier).
+>
+> **Code and data:** https://github.com/rktamplayo/CHIM
 
 :boom: [**Label Embedding using Hierarchical Structure of Labels** for Twitter Classification](https://www.aclweb.org/anthology/D19-1660.pdf)
 >
