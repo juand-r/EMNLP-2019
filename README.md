@@ -1,6 +1,6 @@
 # EMNLP 2019
 
-This contains a selection of (a little over) 200 papers from EMNLP 2019. The ":boom:" symbol indicates papers that I particularly liked or that I found interesting for one reason or another.
+This contains a selection of papers from EMNLP 2019. The ":boom:" symbol indicates papers that I particularly liked or that I found interesting for one reason or another.
 
 Note: there are papers on neural-rule/logic/template hybrids spread throughout.
 
