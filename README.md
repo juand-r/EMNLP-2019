@@ -317,6 +317,8 @@ A selection:
 
 ### Adversarial Training
 
+:heavy_minus_sign: [LexicalAT: Lexical-Based **Adversarial Reinforcement Training** for Robust Sentiment Classification](https://www.aclweb.org/anthology/D19-1554.pdf)
+
 The next two papers are about methods to avoid "being right for the wrong reasons", (i.e., relying on dataset artifacts) in order to improve generalizabilty to out-of-domain data.
 
 :boom: [Topics to Avoid: Demoting Latent Confounds in Text Classification](https://www.aclweb.org/anthology/D19-1425.pdf)
@@ -1004,18 +1006,15 @@ And two more papers using BERT for coreference:
 > **Code and data:** https://github.com/rktamplayo/CHIM
 
 :boom: [**Label Embedding using Hierarchical Structure of Labels** for Twitter Classification](https://www.aclweb.org/anthology/D19-1660.pdf)
->
+> Tweets can be classified into pre-definited classes, but these classes can be put into a hierarchical structure. ".. we propose a method that can consider the hierarchical structure of labels and label texts themselves. We conducted evaluation over the Text REtrieval Conference (TREC) 2018 Incident Streams (IS) track dataset, and we found that our method outperformed the methods of the conference participants." **Note:** it seems the hierarchy is very shallow (two layers).
 
 :heavy_minus_sign: [Learning Only from Relevant Keywords and Unlabeled Documents](https://www.aclweb.org/anthology/D19-1411.pdf)
 > Task: document classification where no labels are available for training, and only the positive class has a list of keywords associated with the class.  This is a variant of the "dataless classification task" (this has also been called "lightly-supervised one-class classification"). This paper proposes a  "theoretically guaranteed learning framework" for this problem "that is simple to implement and has flexible choices of models".
 
-:heavy_minus_sign: [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
+:heavy_minus_sign: [Heterogeneous **Graph Attention Networks** for **Semi-supervised** Short Text Classification](https://www.aclweb.org/anthology/D19-1488.pdf)
 >
 
 :heavy_minus_sign: [Learning Explicit and Implicit Structures for Targeted Sentiment Analysis](https://www.aclweb.org/anthology/D19-1550.pdf)
->
-
-:heavy_minus_sign: [LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification](https://www.aclweb.org/anthology/D19-1554.pdf)
 >
 
 :heavy_minus_sign: [Sequential Learning of Convolutional Features for Effective Text Classification](https://www.aclweb.org/anthology/D19-1567.pdf)
