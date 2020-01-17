@@ -510,6 +510,12 @@ The next two papers use attention mechanisms to incorporate external knowledge:
 >
 > See also at EMNLP 2019: "Dialog Intent Induction with Deep Multi-View Clustering".
 
+:heavy_minus_sign: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
+> 1. Introduces the "Birds-to-Words" datasets of sentences describing differences between pairs of birds.
+> 2. Introduces a model, *Neural Naturalist*, to encode the image pairs and generate the comparative text.
+>
+> **Data:** https://github.com/google-research-datasets/birds-to-words
+
 :heavy_minus_sign: [What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues](https://www.aclweb.org/anthology/D19-1516.pdf)
 > "... we formally define the task of visual-aware pronoun coreference resolution (PCR) and introduce VisPro, a large-scale dialogue PCR dataset, to investigate whether and how the visual information can help resolve pronouns in dialogues. We then propose a novel visual-aware PCR model, VisCoref, for this task and conduct comprehensive experiments and case studies on our dataset. Results demonstrate the importance of the visual information in this PCR case and show the effectiveness of the proposed model."
 
@@ -627,9 +633,6 @@ Most of these papers address the crucial issue of lack of parallel training data
 ## [Text generation and GPT2](#contents)
 
 These are papers on text generation which are not focused on [style transfer](#style-transfer), [summarization](#summarization) or [machine translation](#machine-translation).
-
-:boom: [Neural Naturalist: Generating Fine-Grained Image Comparisons](https://www.aclweb.org/anthology/D19-1065.pdf)
->
 
 :boom: [Generating Natural Anagrams: Towards Language Generation Under Hard Combinatorial Constraints](https://www.aclweb.org/anthology/D19-1674.pdf)
 >
