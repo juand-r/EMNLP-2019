@@ -780,6 +780,8 @@ And of course there are a couple BERT-related papers:
 
 :heavy_minus_sign: [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://www.aclweb.org/anthology/D19-1521.pdf)
 > Presents a new dataset, OpenKP, of annotated web documents for open domain keyphrase extraction. Also develops BLING-KPE, a neural model that combines the "visual presentation" of documents (e.g., font size, text location, etc.) with language modeling (ELMo) and weak supervision from search logs (sampled from Bing search logs). Ablation shows that visual features and search pretraining improve the precision and recall scores.
+>
+> **Code and data**: https://github.com/microsoft/OpenKP
 
 ## [Fact checking](#contents)
 
