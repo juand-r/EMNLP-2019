@@ -538,13 +538,13 @@ There are a huge number of papers for this task. The following paper may be usef
 > Abstract: "...We critically evaluate key ingredients of the current research setup: datasets, evaluation metrics, and models, and highlight three primary shortcomings: 1) automatically collected datasets leave the task underconstrained and may contain noise detrimental to training and evaluation, 2) **current evaluation protocol is weakly correlated with human judgment and does not account for important characteristics such as factual correctness**, 3) models **overfit to layout biases of current datasets** and offer limited diversity in their outputs.
 
 :boom: [BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://www.aclweb.org/anthology/D19-1389.pdf)
-> A new approach to summarization based on the Information Bottleneck principle in information theory: to produce a summary (compression) of information X optimized to predict some other information Y (e.g., the next sentence) conditioned on the summary. The *extractive* component (BottleSum-Ex) searches over subsequences of a given sentence; for example:
+> A new approach to summarization based on the Information Bottleneck principle in information theory: to produce a summary (compression) of information X optimized to predict some other information Y (e.g., the next sentence) conditioned on the summary. The unsupervised *extractive* component (BottleSum-Ex) searches over subsequences of a given sentence; for example:
 >
 > Source: "Okari, for instance, told CNN that he saw about 200 people sitting in the scorching mid-90-degree heat Thursday in a corner of a Garissa airstrip, surrounded by military officials."
 >
 > BottleSum-Ex: "Okari, told CNN he saw about 200 people in the scorching corner of Garissa airstrip, surrounded by officials."
 >
-> The self-supervised abstractive summarization component (BottleSum-Self) uses a transformer-based language model trained on the output summaries of BottleSum-Ex to rewrite the sentence:
+> The self-supervised abstractive summarization component (BottleSum-Self) uses GPT-2 trained on the output summaries of BottleSum-Ex to rewrite the sentence:
 >
 > BottleSum-Self: "For instance, told CNN he saw about 200 people sitting in the scorching mid-90-degree heat in a Garissa airstrip,."
 >
