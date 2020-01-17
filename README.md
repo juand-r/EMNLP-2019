@@ -861,7 +861,11 @@ And of course there are a couple BERT-related papers:
 >
 
 :boom::boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
+> Shows that SOTA BERT-based models for FEVER are in fact relying on artifacts from the data, since claim-only classifiers are competitive with top evidence & claim models. **Neural networks are very good at learning from artifacts**. The authors suggest a way to create an "unbiased" evaluation dataset based on FEVER, where SOTA performance is much lower (Table 3).
 >
+> **Data and code:** https://github.com/TalSchuster/FeverSymmetric
+>
+> **See also:** [Niven and Kao, Probing Neural Network Comprehension of Natural Language Arguments, ACL 2019](https://www.aclweb.org/anthology/P19-1459/) and https://thegradient.pub/nlps-clever-hans-moment-has-arrived/
 
 :heavy_minus_sign: [QUARTZ: An Open-Domain Dataset of Qualitative Relationship Questions](https://www.aclweb.org/anthology/D19-1608.pdf)
 >
