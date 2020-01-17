@@ -801,14 +801,16 @@ There are a few fake-news related papers that could go in here.
 > Idea: maybe while learning linguistic knowledge, language models are also storing relational knowledge from the training data, and could be used to answer queries such as: "Dante was born in [MASK]". Results:
 > 1. "Without fine-tuning, BERT contains relational knowledge competitive with traditional NLP methods that have some access to oracle knowledge".
 > 2. "BERT does well on open-domain question answering against a supervised baseline."
-> 3. "certain  types  of  factual  knowledge  are  learned much more readily than others by standard lan-guage model pretraining approaches."
+> 3. "certain  types  of  factual  knowledge  are  learned much more readily than others by standard language model pretraining approaches."
 >
 > **Code:** https://github.com/facebookresearch/LAMA
 >
->**See also:** a paper showing why using LMs as knowledge bases is a bad idea: [Negated LAMA: Birds cannot fly](https://arxiv.org/pdf/1911.03343.pdf). Also: [A Simple Method for Commonsense Reasoning](https://arxiv.org/abs/1806.02847); [Don’t SayThat!Making Inconsistent Dialogue Unlikely with Unlikelihood Training](https://arxiv.org/pdf/1911.03860.pdf)
+>**See also:** a paper showing why using LMs as knowledge bases is a bad idea: [Negated LAMA: Birds cannot fly](https://arxiv.org/pdf/1911.03343.pdf). Also: [A Simple Method for Commonsense Reasoning](https://arxiv.org/abs/1806.02847); [Don’t SayThat! Making Inconsistent Dialogue Unlikely with Unlikelihood Training](https://arxiv.org/pdf/1911.03860.pdf)
 
 :boom: [Automatic **Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
 > (Demo paper). Demo: https://ibm.box.com/v/emnlp-2019-demo
+
+---
 
 There were several papers using graph neural networks:
 
