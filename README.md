@@ -793,22 +793,30 @@ And of course there are a couple BERT-related papers:
 
 ## [Fake News](#contents)
 
-:heavy_minus_sign: [Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection](https://www.aclweb.org/anthology/D19-1471.pdf)
->
+There are a few fake-news related papers that could go in here.
 
 ## [Relation extraction and Knowledge graphs](#contents)
 
-:boom: [Automatic **Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
+:boom: [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf)
+> Idea: maybe while learning linguistic knowledge, language models are also storing relational knowledge from the training data, and could be used to answer queries such as: "Dante was born in [MASK]". Results:
+> 1. "Without fine-tuning, BERT contains relational knowledge competitive with traditional NLP methods that have some access to oracle knowledge".
+> 2. "BERT does well on open-domain question answering against a supervised baseline."
+> 3. "certain  types  of  factual  knowledge  are  learned much more readily than others by standard lan-guage model pretraining approaches."
 >
+> **Code:** https://github.com/facebookresearch/LAMA
+>
+>**See also:** a paper showing why using LMs as knowledge bases is a bad idea: [Negated LAMA: Birds cannot fly](https://arxiv.org/pdf/1911.03343.pdf). Also: [A Simple Method for Commonsense Reasoning](https://arxiv.org/abs/1806.02847); [Don’t SayThat!Making Inconsistent Dialogue Unlikely with Unlikelihood Training](https://arxiv.org/pdf/1911.03860.pdf)
+
+:boom: [Automatic **Taxonomy Induction and Expansion**](https://www.aclweb.org/anthology/D19-3005.pdf)
+> (Demo paper). Demo: https://ibm.box.com/v/emnlp-2019-demo
+
+There were several papers using graph neural networks:
 
 :boom: [Learning to Update Knowledge Graphs by Reading News](https://www.aclweb.org/anthology/D19-1265.pdf)
->
+> Abstract: "...  we propose a novel neural network method, GUpdater ...built upon graph neural networks (GNNs) with a text-based attention mechanism to guide the updating message passing through the KG structures. Experiments on a real-world KG updating dataset show that our model can effectively broadcast the news information to the KG structures and perform necessary link-adding or link-deleting operations to ensure the KG up-to-date according to news snippets."
 
 :boom: [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://www.aclweb.org/anthology/D19-1264.pdf)
 >
-
-:boom: [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf)
-> See also: A Simple Method for Commonsense Reasoning (https://arxiv.org/abs/1806.02847)
 
 :heavy_minus_sign: [Entity, Relation, and Event Extractionwith Contextualized Span Representations](https://www.aclweb.org/anthology/D19-1585.pdf)
 >
@@ -861,7 +869,7 @@ And of course there are a couple BERT-related papers:
 >
 
 :boom::boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
-> Shows that SOTA BERT-based models for FEVER are in fact relying on artifacts from the data, since claim-only classifiers are competitive with top evidence & claim models. **Neural networks are very good at learning from artifacts**. The authors suggest a way to create an "unbiased" evaluation dataset based on FEVER, where SOTA performance is much lower (Table 3).
+> Shows that SOTA models for FEVER are in fact relying on artifacts from the data, since claim-only classifiers are competitive with top evidence & claim models. These models are very good at learning from artifacts. The authors suggest a way to create an "unbiased" evaluation dataset based on FEVER, where SOTA performance is much lower (Table 3).
 >
 > **Data and code:** https://github.com/TalSchuster/FeverSymmetric
 >
