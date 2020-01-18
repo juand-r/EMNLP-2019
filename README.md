@@ -800,7 +800,13 @@ And of course there are a couple BERT-related papers:
 
 ## [Fake News](#contents)
 
-There are a few fake-news related papers that could go in here.
+There are a few fake-news related papers from EMNLP 2019 that could go in here.
+
+See also:
+
+- [A Stylometric Inquiry into Hyperpartisan and Fake News, ACL 2018](https://www.aclweb.org/anthology/P18-1022.pdf) - This has a taxonomy of fake news detection techniques and references to related work.
+- Robert Dale, NLP in a post-truth world. Natural Language Engineering, 2017
+- Papers by Victoria L. Rubin
 
 ## [Relation extraction and Knowledge graphs](#contents)
 
