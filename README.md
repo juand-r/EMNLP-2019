@@ -159,8 +159,10 @@ A selection:
 ## [Methodological](#contents)
 
 **See also:**
-- Gorman, Kyle, and Steven Bedrick. We need to talk about standard splits. ACL 2019.
-- Dror, Shlomov and Reichart. Deep Dominance - How to Properly Compare Deep Neural Models. ACL 2019.
+- [Gorman, Kyle, and Steven Bedrick. We need to talk about standard splits. ACL 2019](https://www.aclweb.org/anthology/P19-1267.pdf)
+- [Dror, Shlomov and Reichart. Deep Dominance - How to Properly Compare Deep Neural Models. ACL 2019](https://www.aclweb.org/anthology/P19-1266/)
+- [Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets, TACL 2017](https://www.aclweb.org/anthology/Q17-1033.pdf)
+- [The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing, ACL 2018]()
 
 :boom: [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224.pdf)
 > Proposes an evaluation framework and suggests best practices to fairly report experimental results (this is now requested for submissions to EMNLP 2020; a "reproducibility checklist" will be used by reviewers).  Test set performance is not enough to fairly compare models. It is important (especially in the age of huge language models and heavy computation) to *report expected validation performance as a function of computation budget* (training time or number of hyperparameter trials). This is crucial not only for fair comparison of models but also for reproducibility. Results from some case studies on **text classification** (Stanford Sentiment Treebank):
