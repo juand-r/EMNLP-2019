@@ -888,12 +888,15 @@ See also:
 :boom: [Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs](https://www.aclweb.org/anthology/D19-1631.pdf)
 >
 
-:boom::boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
+:boom: [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341.pdf)
 > Shows that SOTA models for FEVER are in fact relying on artifacts from the data, since claim-only classifiers are competitive with top evidence & claim models. These models are very good at learning from artifacts. The authors suggest a way to create an "unbiased" evaluation dataset based on FEVER, where SOTA performance is much lower (Table 3).
 >
 > **Data and code:** https://github.com/TalSchuster/FeverSymmetric
 >
 > **See also:** [Niven and Kao, Probing Neural Network Comprehension of Natural Language Arguments, ACL 2019](https://www.aclweb.org/anthology/P19-1459/) and https://thegradient.pub/nlps-clever-hans-moment-has-arrived/
+
+:heavy_minus_sign: [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282.pdf)
+>
 
 :heavy_minus_sign: [QUARTZ: An Open-Domain Dataset of Qualitative Relationship Questions](https://www.aclweb.org/anthology/D19-1608.pdf)
 >
@@ -926,9 +929,6 @@ See also:
 >
 
 :heavy_minus_sign: [How Reasonable are Common-Sense Reasoning Tasks: A Case-Study on the Winograd Schema Challenge and SWAG](https://www.aclweb.org/anthology/D19-1335.pdf)
->
-
-:heavy_minus_sign: [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282.pdf)
 >
 
 :heavy_minus_sign: [COSMOSQA: Machine Reading Comprehensionwith Contextual Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1243.pdf)
