@@ -397,6 +397,7 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 > - target domain unlabeled text (e.g., Twitter, Early Modern English)
 > - source domain texts for pre-training (e.g., newswire)
 > - source domain labeled text for fine-tuning (e.g., newswire)
+>
 > Proposes a "domain-adaptive fine-tuning" method (in which the contextual embeddings are "adapted by masked language modeling on text from the target domain"; this is tested on sequence labeling tasks with very strong results, especially for out-of-vocabulary words.
 
 > See also:
