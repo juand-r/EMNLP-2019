@@ -455,7 +455,7 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 :boom: **Best paper award** [Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf)
 >
 
-:boom: [Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition (TACL?)](https://arxiv.org/abs/1902.10618)
+:boom: [Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition (TACL)](https://www.aclweb.org/anthology/Q19-1027.pdf)
 >
 
 :heavy_minus_sign: [Multiplex Word Embeddings for **Selectional Preference Acquisition**](https://www.aclweb.org/anthology/D19-1528.pdf)
