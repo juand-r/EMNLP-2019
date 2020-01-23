@@ -393,7 +393,12 @@ Other keywords: "domain adaptive", "cross-domain", "domain shift"...
 > 3. Jesper Back, thesis (2018), Domain similarity metrics for predicting transfer learning performance
 
 :boom: [**Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling**](https://www.aclweb.org/anthology/D19-1433.pdf)
->
+> How well does pre-training (e.g., BERT, ELMo) work when the target domain is very different from the pretraining corpus? This paper considers the scenario where we have:
+> - target domain unlabeled text (e.g., Twitter, Early Modern English)
+> - source domain texts for pre-training (e.g., newswire)
+> - source domain labeled text for fine-tuning (e.g., newswire)
+> Proposes a "domain-adaptive fine-tuning" method (in which the contextual embeddings are "adapted by masked language modeling on text from the target domain"; this is tested on sequence labeling tasks with very strong results, especially for out-of-vocabulary words.
+
 > See also:
 > - Rietzler et al., Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification
 > - (the BioBERT results in) [Shi and Demberg, Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains, EMNLP 2019](https://www.aclweb.org/anthology/D19-1586.pdf)
